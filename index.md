@@ -1,5 +1,0 @@
----
-title: "My Book"
-output: bookdown::gitbook
-site: bookdown::docs
----

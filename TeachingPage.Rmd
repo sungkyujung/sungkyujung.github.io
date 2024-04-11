@@ -1,0 +1,114 @@
+---
+title: "Courses"
+---
+
+***
+
+## Current courses at Seoul National University
+
+ 
+### Spring 2024
+ 
+- Research Methods and Statistics (M2480.002400)
+
+- First Year Graduate Student Seminar (M0000.008700)
+
+***
+
+## Past courses 
+
+### Seoul National University
+
+- Research Methods and Statistics (M2480.002400, co-teaching with Prof. Kwonsang Lee), Spring 2023, 2024.
+
+- Advanced Statistical Methods (326.521) Fall 2020.
+
+- Applied Statistics (326.520A). [Spring 2019](syllabus/syllabus_appstat.pdf), 2020, 2021.
+
+- Statistical Consulting and Practices (326.517A) Fall 2020, 2021.
+
+- Nonparametric Statistics and Labs (326.414) Spring 2021, 2023.
+
+- Multivariate Analysis and Labs (326.316) [Fall 2019](syllabus/syllabus_mva.pdf), 2021, 2023. [[Lecture videos]](https://youtube.com/playlist?list=PLXgVK0KVZjzMMnCZmZR6DmPsp5ResfZxg&si=fmXJ1gHxW7VC9pBw)
+
+- Freshman Seminar [Fall 2019](syllabus/syllabus_freshmenseminar.pdf)
+
+- Statistics (033.019) and Lab (033.020). Spring 2019, 2020.
+
+- Statistics (033.019, taught in English). Fall 2023.
+
+- Statistics on Manifolds (Graduate-level topic course). [Fall 2018](https://piazza.com/snu.ac.kr/fall2018/326631a/resources) (326.631A), Spring 2023 (326.621A).
+
+- Principles of Data Science ([International Summer Program 2019](https://piazza.com/snu.ac.kr/summer2019/isp/))
+
+
+### University of Pittsburgh
+
+
+- STAT 1291: Basics of Data Science. Fall 2017. [Course webpage](http://www.stat.pitt.edu/sungkyu/course/pds/index.html)
+
+- STAT 1151: Introduction to Probabilty. Fall 2011, Fall 2012, Fall 2013, [Fall 2014](http://www.stat.pitt.edu/sungkyu/%5Ccourse%5CSTAT%201151%20F2014.pdf), Fall 2015
+
+- STAT 1152: Introduction to Mathematical Statistics. Spring 2012, Spring 2013, [Spring 2014](http://www.stat.pitt.edu/sungkyu/%5Ccourse%5CSTAT%201152%20S2014.pdf), Spring 2016
+
+- STAT 1301/2300: Statistical Packages. [Fall 2014](http://www.stat.pitt.edu/sungkyu/course/1301Fall14/)
+
+- STAT 1632/2640: Intermediate Mathematical Statistics. [Spring 2015](http://www.stat.pitt.edu/sungkyu/course/1632Spring15/), Spring 2016, [Spring 2017](https://piazza.com/pitt/spring2017/stat1632/home), Spring 2018. 
+
+- STAT 2221: Advanced Applied Multivariate Analysis. [Fall 2013](http://www.stat.pitt.edu/sungkyu/course/2221Fall13/), [Spring 2015](http://www.stat.pitt.edu/sungkyu/course/2221Spring15/)
+
+- STAT 2631: Theory of Statistics. Fall 2016, [Spring 2018](https://piazza.com/pitt/spring2018/stat2631/home)
+
+- STAT 3341: Advanced Modern Statistical Computing: [Spring 2017](https://piazza.com/pitt/spring2017/stat3341/home)
+
+
+### University of North Carolina at Chapel Hill
+
+- STOR 155: Introduction to the statistics. Fall 2008.
+
+
+*** 
+
+## Public lectures
+
+- "**평균 낼 수 없는 것들의 통계**" [(Slides)](./papers/statistics_public_lecture_2022.pdf) 
+  - 한국통계학회 공개강연 (June 2022)
+  - 한국자료분석학회 초청강연 (Dec 2022)
+  - 한국고등과학원 세미나 (Feb 2023) [Recording](https://youtu.be/gSWbi5T-IyU)
+
+
+- 토요과학공개강좌 Fall 2020, Spring & [Fall 2021](./pictures/2021_9_SaturdayLectureSeries.jpg) on "**데이터 2.0: 집단에서 개인으로**"
+
+- 자연과학 체험캠프 2019: [Exercise on Eigenface](syllabus/Eigenface_Practice.zip)
+
+- 자연과학 체험캠프 2022: [A shiny app for Randomized Response](https://sungkyu-jung.shinyapps.io/shinyapp/) (created by Juhee Son)
+
+- 서울대 지식교양 강연  "생각의 열쇠, 천 개의 키워드" (Recorded in 2021)
+
+```{r, results='asis', echo=FALSE, comment=FALSE, warning = FALSE}
+
+aa = matrix(data =NA ,nrow = 4,ncol = 2)
+aa[1,1] = "[통계적 추론](https://tv.naver.com/v/20744955)"
+aa[1,2] = "[1시간](https://tv.naver.com/v/20745291)"
+aa[2,1] = "[데이터 밭에서 바늘 찾기](https://tv.naver.com/v/20937782)"
+aa[2,2] = "[1시간](https://tv.naver.com/v/20937833)"
+aa[3,1] = "[회귀분석](https://tv.naver.com/v/20653234)  "
+aa[3,2] = "[1시간](https://tv.naver.com/v/20653336)"
+aa[4,1] = "[확률분포](https://tv.naver.com/v/20502430) "
+aa[4,2] = "[1시간](https://tv.naver.com/v/20502460)"
+colnames(aa) <- c("키워드","전체강연")
+library(knitr)
+library(kableExtra)
+  kbl(aa) %>%
+     kable_styling(bootstrap_options = "striped", full_width = F, position = "center")
+  #kable_paper(c("striped"), full_width = F)
+
+# kable(aa)
+```
+
+- 영어논문작성법 (January 2022)
+
+   1. Effective Writing in (Mathematical) Statistics [(Recording)](https://www.youtube.com/watch?v=75sLn2qNW78)
+   
+   2. Publishing your paper in Statistics journals and Peer Review [(Recording)](https://www.youtube.com/watch?v=zzoQzNpPoUc) 
+ 

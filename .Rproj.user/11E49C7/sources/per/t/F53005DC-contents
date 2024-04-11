@@ -1,0 +1,27 @@
+---
+title: "Visualizations"
+output: html_document
+---
+
+#### Author and title Word cloud from Google Scholar, retrieved on Jan 10, 2020.
+ 
+![](visuals/Rplot04.png)
+
+ 
+#### Heatmap of Small sphere density 
+
+Kim et al. SJS 2019
+
+![](visuals/fig1_3.png)
+
+#### Dimension reduction for a tai-chi dataset 
+
+Jung et al. JCGS 2019
+
+![](visuals/taichi_1n1000p500.png)
+
+#### Scaling-rotation of ellipsoids (3 x 3 tensors) 
+
+Jung et al. SIMAX 2015
+
+![](visuals/Good3by3example_fig1.png)

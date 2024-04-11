@@ -1,0 +1,556 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Courses</title>
+
+<script src="site_libs/header-attrs-2.19/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<script src="site_libs/kePrint-0.0.1/kePrint.js"></script>
+<link href="site_libs/lightable-0.0.1/lightable.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Sungkyu Jung</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="pubs.html">
+    <span class="fa fa-book  fa-1x"></span>
+     
+    Publications
+  </a>
+</li>
+<li>
+  <a href="TeachingPage.html">
+    <span class="fa fa-graduation-cap fa-1x"></span>
+     
+    Courses
+  </a>
+</li>
+<li>
+  <a href="ResearchPage.html">
+    <span class="fa fa-pen-square fa-1x"></span>
+     
+    CV
+  </a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    <span class="fa fa-bars fa-1x"></span>
+     
+    More
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="news.html">News</a>
+    </li>
+    <li>
+      <a href="MiscPage.html">Software</a>
+    </li>
+    <li>
+      <a href="students.html">Lab members</a>
+    </li>
+    <li>
+      <a href="me.html">Family</a>
+    </li>
+    <li>
+      <a href="books.html">Books</a>
+    </li>
+    <li>
+      <a href="vis.html">Visualizations</a>
+    </li>
+    <li class="divider"></li>
+  </ul>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="https://github.com/sungkyujung">
+    <span class="fab fa-github fa-1x"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://www.linkedin.com/in/sungkyu-jung-3549b516/">
+    <span class="fab fa-linkedin fa-1x"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://www.researchgate.net/profile/Sungkyu_Jung">
+    <span class="fab fa-researchgate fa-1x"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://scholar.google.com/citations?user=WYEkUW8AAAAJ&amp;hl=en">
+    <span class="fab fa-google fa-1x"></span>
+     
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Courses</h1>
+
+</div>
+
+
+<hr />
+<div id="current-courses-at-seoul-national-university"
+class="section level2">
+<h2>Current courses at Seoul National University</h2>
+<div id="spring-2024" class="section level3">
+<h3>Spring 2024</h3>
+<ul>
+<li><p>Research Methods and Statistics (M2480.002400)</p></li>
+<li><p>First Year Graduate Student Seminar (M0000.008700)</p></li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="past-courses" class="section level2">
+<h2>Past courses</h2>
+<div id="seoul-national-university" class="section level3">
+<h3>Seoul National University</h3>
+<ul>
+<li><p>Research Methods and Statistics (M2480.002400, co-teaching with
+Prof. Kwonsang Lee), Spring 2023, 2024.</p></li>
+<li><p>Advanced Statistical Methods (326.521) Fall 2020.</p></li>
+<li><p>Applied Statistics (326.520A). <a
+href="syllabus/syllabus_appstat.pdf">Spring 2019</a>, 2020,
+2021.</p></li>
+<li><p>Statistical Consulting and Practices (326.517A) Fall 2020,
+2021.</p></li>
+<li><p>Nonparametric Statistics and Labs (326.414) Spring 2021,
+2023.</p></li>
+<li><p>Multivariate Analysis and Labs (326.316) <a
+href="syllabus/syllabus_mva.pdf">Fall 2019</a>, 2021, 2023. <a
+href="https://youtube.com/playlist?list=PLXgVK0KVZjzMMnCZmZR6DmPsp5ResfZxg&amp;si=fmXJ1gHxW7VC9pBw">[Lecture
+videos]</a></p></li>
+<li><p>Freshman Seminar <a
+href="syllabus/syllabus_freshmenseminar.pdf">Fall 2019</a></p></li>
+<li><p>Statistics (033.019) and Lab (033.020). Spring 2019,
+2020.</p></li>
+<li><p>Statistics (033.019, taught in English). Fall 2023.</p></li>
+<li><p>Statistics on Manifolds (Graduate-level topic course). <a
+href="https://piazza.com/snu.ac.kr/fall2018/326631a/resources">Fall
+2018</a> (326.631A), Spring 2023 (326.621A).</p></li>
+<li><p>Principles of Data Science (<a
+href="https://piazza.com/snu.ac.kr/summer2019/isp/">International Summer
+Program 2019</a>)</p></li>
+</ul>
+</div>
+<div id="university-of-pittsburgh" class="section level3">
+<h3>University of Pittsburgh</h3>
+<ul>
+<li><p>STAT 1291: Basics of Data Science. Fall 2017. <a
+href="http://www.stat.pitt.edu/sungkyu/course/pds/index.html">Course
+webpage</a></p></li>
+<li><p>STAT 1151: Introduction to Probabilty. Fall 2011, Fall 2012, Fall
+2013, <a
+href="http://www.stat.pitt.edu/sungkyu/%5Ccourse%5CSTAT%201151%20F2014.pdf">Fall
+2014</a>, Fall 2015</p></li>
+<li><p>STAT 1152: Introduction to Mathematical Statistics. Spring 2012,
+Spring 2013, <a
+href="http://www.stat.pitt.edu/sungkyu/%5Ccourse%5CSTAT%201152%20S2014.pdf">Spring
+2014</a>, Spring 2016</p></li>
+<li><p>STAT 1301/2300: Statistical Packages. <a
+href="http://www.stat.pitt.edu/sungkyu/course/1301Fall14/">Fall
+2014</a></p></li>
+<li><p>STAT 1632/2640: Intermediate Mathematical Statistics. <a
+href="http://www.stat.pitt.edu/sungkyu/course/1632Spring15/">Spring
+2015</a>, Spring 2016, <a
+href="https://piazza.com/pitt/spring2017/stat1632/home">Spring 2017</a>,
+Spring 2018.</p></li>
+<li><p>STAT 2221: Advanced Applied Multivariate Analysis. <a
+href="http://www.stat.pitt.edu/sungkyu/course/2221Fall13/">Fall
+2013</a>, <a
+href="http://www.stat.pitt.edu/sungkyu/course/2221Spring15/">Spring
+2015</a></p></li>
+<li><p>STAT 2631: Theory of Statistics. Fall 2016, <a
+href="https://piazza.com/pitt/spring2018/stat2631/home">Spring
+2018</a></p></li>
+<li><p>STAT 3341: Advanced Modern Statistical Computing: <a
+href="https://piazza.com/pitt/spring2017/stat3341/home">Spring
+2017</a></p></li>
+</ul>
+</div>
+<div id="university-of-north-carolina-at-chapel-hill"
+class="section level3">
+<h3>University of North Carolina at Chapel Hill</h3>
+<ul>
+<li>STOR 155: Introduction to the statistics. Fall 2008.</li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="public-lectures" class="section level2">
+<h2>Public lectures</h2>
+<ul>
+<li><p>“<strong>평균 낼 수 없는 것들의 통계</strong>” <a
+href="./papers/statistics_public_lecture_2022.pdf">(Slides)</a></p>
+<ul>
+<li>한국통계학회 공개강연 (June 2022)</li>
+<li>한국자료분석학회 초청강연 (Dec 2022)</li>
+<li>한국고등과학원 세미나 (Feb 2023) <a
+href="https://youtu.be/gSWbi5T-IyU">Recording</a></li>
+</ul></li>
+<li><p>토요과학공개강좌 Fall 2020, Spring &amp; <a
+href="./pictures/2021_9_SaturdayLectureSeries.jpg">Fall 2021</a> on
+“<strong>데이터 2.0: 집단에서 개인으로</strong>”</p></li>
+<li><p>자연과학 체험캠프 2019: <a
+href="syllabus/Eigenface_Practice.zip">Exercise on
+Eigenface</a></p></li>
+<li><p>자연과학 체험캠프 2022: <a
+href="https://sungkyu-jung.shinyapps.io/shinyapp/">A shiny app for
+Randomized Response</a> (created by Juhee Son)</p></li>
+<li><p>서울대 지식교양 강연 “생각의 열쇠, 천 개의 키워드” (Recorded in
+2021)</p></li>
+</ul>
+<table class="table table-striped" style="width: auto !important; margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;">
+키워드
+</th>
+<th style="text-align:left;">
+전체강연
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+<a href="https://tv.naver.com/v/20744955">통계적 추론</a>
+</td>
+<td style="text-align:left;">
+<a href="https://tv.naver.com/v/20745291">1시간</a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+<a href="https://tv.naver.com/v/20937782">데이터 밭에서 바늘 찾기</a>
+</td>
+<td style="text-align:left;">
+<a href="https://tv.naver.com/v/20937833">1시간</a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+<a href="https://tv.naver.com/v/20653234">회귀분석</a>
+</td>
+<td style="text-align:left;">
+<a href="https://tv.naver.com/v/20653336">1시간</a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+<a href="https://tv.naver.com/v/20502430">확률분포</a>
+</td>
+<td style="text-align:left;">
+<a href="https://tv.naver.com/v/20502460">1시간</a>
+</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><p>영어논문작성법 (January 2022)</p>
+<ol style="list-style-type: decimal">
+<li><p>Effective Writing in (Mathematical) Statistics <a
+href="https://www.youtube.com/watch?v=75sLn2qNW78">(Recording)</a></p></li>
+<li><p>Publishing your paper in Statistics journals and Peer Review <a
+href="https://www.youtube.com/watch?v=zzoQzNpPoUc">(Recording)</a></p></li>
+</ol></li>
+</ul>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

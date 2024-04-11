@@ -1,0 +1,56 @@
+---
+title: "News"
+--- 
+
+
+***
+
+ 
+```{r, results='asis', echo=FALSE, comment=FALSE, warning = FALSE}
+a = readLines("newslist.Rmd", n = -1)
+n = length(a)
+nullid = rep(1,n)
+for(i in 1:n){if(identical("", a[i])){nullid[i] = 0}}
+a = a[nullid == TRUE] 
+n = length(a)
+k = n
+for(i in 1:n){if(identical("# BadNews", a[i])){k = i;break;}}
+#for (i in 2:(k-1)) { 
+#  cat(paste(i-1,". ", sep = "", a[i]))
+#  cat("\n\n")
+#}
+aa = matrix(data =NA,nrow = k-2,ncol = 2)
+for (i in 2:(k-1)){
+  aa[i-1,1] = substring(a[i],1,10)
+  aa[i-1,2] = substring(a[i],13)
+}
+colnames(aa) <- c("Date","Event")
+library(knitr)
+library(kableExtra)
+  kbl(aa) %>%
+     kable_styling(bootstrap_options = "striped", full_width = F, position = "left")
+  #kable_paper(c("striped"), full_width = F)
+
+# kable(aa)
+```
+
+
+## Not-so-good news
+
+```{r, results='asis', echo=FALSE, comment=FALSE, warning = FALSE}
+# for (i in (k+1):(n)) {
+#   cat(paste(i-2,". ", sep = "", a[i]))
+#   cat("\n\n")
+# }
+
+aa = matrix(data =NA, nrow = n - k ,ncol = 2)
+for (i in (k+1):(n)){
+  aa[i-(k+1)+1,1] = substring(a[i],1,10)
+  aa[i-(k+1)+1,2] = substring(a[i],13)
+}
+colnames(aa) <- c("Date","Event")
+
+  kbl(aa) %>%
+     kable_styling(bootstrap_options = "striped", full_width = F, position = "left")
+
+```

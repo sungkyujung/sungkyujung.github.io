@@ -1,0 +1,34 @@
+---
+title: "Publications"
+--- 
+
+You can visit my Google Scholar page (upper-right corner).
+
+***
+
+## Published work
+ 
+```{r, results='asis', echo=FALSE, comment=FALSE}
+a = readLines("pubslist.Rmd", n = -1)
+n = length(a)
+nullid = rep(1,n)
+for(i in 1:n){if(identical("", a[i])){nullid[i] = 0}}
+a = a[nullid == TRUE] 
+n = length(a)
+k = n
+for(i in 1:n){if(identical("# WorkinProgress", a[i])){k = i;break;}}
+for (i in 2:(k-1)) { 
+  cat(paste(i-1,". ", sep = "", a[i]))
+  cat("\n\n")
+}
+```
+
+
+## Preprints
+
+```{r, results='asis', echo=FALSE, comment=FALSE}
+for (i in (k+1):(n)) {
+  cat(paste(i-2,". ", sep = "", a[i]))
+  cat("\n\n")
+}
+```

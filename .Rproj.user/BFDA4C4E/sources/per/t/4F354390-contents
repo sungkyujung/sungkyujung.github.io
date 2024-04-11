@@ -1,0 +1,49 @@
+# News
+
+2021-07-08. After years of waiting, "Uniqueness questions in a scaling-rotation geometry on the space of symmetric positive-definite matrices" is accepted for publication in *Differential Geometry and its Applications*. This manuscript is part II of [the 2017 EJS paper](http://projecteuclid.org/euclid.ejs/1491292817), in which we addressed only 2 x 2 and 3 x 3 matrices. The current paper addresses dimensions $p\ge 4$. The link to this article is [here](https://doi.org/10.1016/j.difgeo.2021.101798).
+
+2021-06-02. An R package [ClusTorus](https://cran.r-project.org/web/packages/ClusTorus/index.html) is available at CRAN. The contents in this package include the functions for the AOAS article (see below), and an improved, and extended, version of mixture model-based clustering for the multivariate angular data. All credits go to Seungki Hong. We are preparing an article introducing this R package and its use. 
+
+2021-03-22. An article discussing clustering the dihedral angles on the torus is accepted for publication in *The Annals of Applied Statistics* (AOAS). This article stems from an undergraduate intern report by Kiho Park. With a help of Dr. Byungwon Kim (now at KNU), the article discusses methods of clustering on the torus, and reveals a difference among the clustering structures of glycoprotein backbone angles from SARS-CoV-2 and those from other strains of coronaviruses.
+
+2021-03-03. [Closed] I have an opening for a [postdoctoral researcher](./papers/Wanted.html), at least one new master's student, and one new master-Ph.D combined student at my lab.
+
+2021-03-03. We have launched a new website for the lab: [https://statlet.github.io](https://statlet.github.io)
+
+2021-01-23. My paper "Geodesic projection of the von Mises-Fisher distribution for projection pursuit of directional data" [(link)](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-15/issue-1/Geodesic-projection-of-the-von-MisesFisher-distribution-for-projection-pursuit/10.1214/21-EJS1807.full) is accepted for publication in *Electronic Journal of Statistics*. This answers a fundamental question in directional statistics: If a von Mises-Fisher distributed random direction is projected onto a geodesic, it is still von Mises distributed?
+
+2020-12-19. The manuscript ["Covariance-engaged Classification of Sets via Linear Programming"](https://arxiv.org/abs/2006.14831) is accepted for publication in *Statistica Sinica*. This work studies sparse estimations for "set classification" and their theoretical properties. It was conceived by Xingye and myself about five years ago, but a real development began after Zhao joined the team. 
+
+2020-10-19. I, Mark and Steve wrote a response to a letter to the editor in *The Annals of Applied Statistics* (AOAS). The letter comments on the EM algorithm we used in our 2011 AOAS paper. We thought a proper response was due. This letter will appear in AOAS. (It appeared in two months: [Here](http://dx.doi.org/10.1214/20-AOAS1411) is the link.)
+
+2020-10-06. I am selected to receive a prestigious five-year **research grant from Samsung Science & Technology Foundation**. The proposed topic is on generalizations of multi-source integrative factor models and statistical inference.
+
+2020-09-22. The manuscript "[Adjusting systematic bias in high dimensional principal component scores](https://doi.org/10.5705/ss.202019.0400)," written by myself is accepted for publication in *Statistica Sinica*. *Statistica Sinica* is notorious for its long interval between the acceptance and print. 
+
+2020-08-30. A video explaining my research interest is on [YouTube](https://www.youtube.com/watch?v=WhlLZix8JPI). This is a part of the CNS series of promoting research agendas. Intended viewers are prospective graduate students. 
+
+2020-08-07. The manuscript "[Covariate-driven factorization by thresholding for multi-block data](https://doi.org/10.1111/biom.13352)" is accepted for publication in *Biometrics*. This work is written by Xing (my former PhD student), Sungwon (again my former PhD student), Gen and myself and is a major part of Xing's doctoral dissertation. 
+
+2020-06-26. The manuscript "Covariance-engaged Classification of Sets via Linear Programming" by Zhao, Xingye and myself is now on [arXiv](https://arxiv.org/abs/2006.14831).
+
+2020-02-20. The manuscript "Kurtosis test of modality for rotationally symmetric distributions on hyperspheres," by Byungwon, Joern and myself, is accepted for publication in *The Journal of Multivariate Analysis*.  [(link)](https://www.sciencedirect.com/science/article/pii/S0047259X19306141) This work is part of Byungwon's PhD dissertation, but changes since then are enormous. The issues addressed and raised in this paper lead to a promising research direction on projection pursuit for directional data. 
+
+2019-09-06. I have received **Excellence in Teaching Award** from the College of Natural Science. Thanks!
+
+2019-08-08. I am now an associate editor of *Computational Statistics & Data Analysis*.
+
+2019-02-20. I am selected to receive a five-year **mid-career research grant from National Research Foundation**. The proposed topic is on high-dimensional and non-Euclidean statistics. 
+
+2018-12-18. The manuscript "Small sphere distributions for directional data with application to medical imaging" by Stephan, Joern, Byungwon and myself is accepted for publication in  *Scandinavian Journal of Statistics*. [(link)](https://doi.org/10.1111/sjos.12381) This work began its life in 2015 from a query from Steve Marron (Is there a parametric distribution for small-circle behavior of data?). Stephan and I sent a preliminary version of this to a conference, then decided not to publish. Byungwon took over and has created a nice family of distributions on hyperspheres, called "Small sphere distributions". This is a part of his PhD dissertation.
+
+2018-10-30. My contribution to the Korean Statistical Society newsletter is now in print. It's about data science education (from the statistical perspective) and is written in Korean. You can see it [here](http://www.kss.or.kr/bbs/board.php?bo_table=newsletter&wr_id=113) but the online version is only for members.
+
+2018-10-10. As a new faculty member of Seoul National University, I did an interview introducing myself  [(link)](http://science.snu.ac.kr/bbs/view.php?board_id=kor_profnews&idx=311&m=4&gul_no=6817&page=1). 
+
+2018-10-09. The manuscript "Penalized Orthogonal Iteration for Sparse Estimation of Generalized Eigenvalue Problem" by Prfessors Jeon and Ahn, and myself, is accepted for publication in *Journal of Computational and Graphical Statistics*. [(link)](https://doi.org/10.1080/10618600.2019.1568014)
+
+2018-09-01. I have officially joined the department of Statistics at Seoul National University.
+
+# BadNews
+
+2020-10-22. I have decided not to pursue a publication of Lee and Jung (2017). This paper is part of Sungwon's doctoral dissertation, and has been considered for a couple of journals with mixed responses. The work has drawn some attention from researchers (with nontrivial Google Scholar citation numbers). The effort I need to put in to publish this in an established journal outweighs the merit of the paper. This paper will remain as an [arXiv](https://arxiv.org/abs/1603.01775) paper. 

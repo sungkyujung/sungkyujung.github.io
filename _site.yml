@@ -1,0 +1,43 @@
+name: "Sungkyu_Jung"
+navbar:
+  title: "Sungkyu Jung"
+  left:
+    - text: "Publications"
+      icon: fa-book  fa-1x
+      href: pubs.html
+    - text: "Courses"
+      icon: fa-graduation-cap fa-1x
+      href: TeachingPage.html
+    - text: "CV"
+      icon: fa-pen-square fa-1x
+      href: ResearchPage.html
+    - text: "More"
+      icon: fa-bars fa-1x
+      menu: 
+        - text: "News"
+          href: news.html
+        - text: "Software"
+          href: MiscPage.html
+        - text: "Lab members"
+          href: students.html
+        - text: "Family"
+          href: me.html
+        - text: "Books"
+          href: books.html
+        - text: "Visualizations"
+          href: vis.html
+        - text: "---------"
+  right:
+    - icon: fab fa-github fa-1x
+      href: https://github.com/sungkyujung
+    - icon: fab fa-linkedin fa-1x
+      href: https://www.linkedin.com/in/sungkyu-jung-3549b516/
+    - icon: fab fa-researchgate fa-1x
+      href: https://www.researchgate.net/profile/Sungkyu_Jung
+    - icon: fab fa-google fa-1x
+      href: https://scholar.google.com/citations?user=WYEkUW8AAAAJ&hl=en
+output:
+  html_document:
+    theme: flatly
+    css: style.css
+exclude: ["*.csv", "*.bib","*.sh","*.R"] 

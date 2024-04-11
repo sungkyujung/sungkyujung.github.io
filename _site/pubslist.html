@@ -1,0 +1,687 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>pubslist.knit</title>
+
+<script src="site_libs/header-attrs-2.19/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Sungkyu Jung</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="pubs.html">
+    <span class="fa fa-book  fa-1x"></span>
+     
+    Publications
+  </a>
+</li>
+<li>
+  <a href="TeachingPage.html">
+    <span class="fa fa-graduation-cap fa-1x"></span>
+     
+    Courses
+  </a>
+</li>
+<li>
+  <a href="ResearchPage.html">
+    <span class="fa fa-pen-square fa-1x"></span>
+     
+    CV
+  </a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    <span class="fa fa-bars fa-1x"></span>
+     
+    More
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="news.html">News</a>
+    </li>
+    <li>
+      <a href="MiscPage.html">Software</a>
+    </li>
+    <li>
+      <a href="students.html">Lab members</a>
+    </li>
+    <li>
+      <a href="me.html">Family</a>
+    </li>
+    <li>
+      <a href="books.html">Books</a>
+    </li>
+    <li>
+      <a href="vis.html">Visualizations</a>
+    </li>
+    <li class="divider"></li>
+  </ul>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="https://github.com/sungkyujung">
+    <span class="fab fa-github fa-1x"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://www.linkedin.com/in/sungkyu-jung-3549b516/">
+    <span class="fab fa-linkedin fa-1x"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://www.researchgate.net/profile/Sungkyu_Jung">
+    <span class="fab fa-researchgate fa-1x"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://scholar.google.com/citations?user=WYEkUW8AAAAJ&amp;hl=en">
+    <span class="fab fa-google fa-1x"></span>
+     
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+
+</div>
+
+
+<div id="notyetprinted" class="section level1">
+<h1>NotYetPrinted</h1>
+<p>Sujin Lee and Sungkyu Jung, “Variable Selection and Inference
+Strategies for Multiple Compositional Regression,” accepted for
+publication in <em>Chemometrics and Intelligent Laboratory Systems</em>
+<a href="https://authors.elsevier.com/a/1iub8cc6MIlTb">(link)</a></p>
+<p>Taehyun Kim, Woonyoung Chang, Jeongyoun Ahn, and Sungkyu Jung (2024),
+“Double Data Piling: A High-Dimensional Solution for Asymptotically
+Perfect Multi-Category Classification” accepted for publication in
+<em>Journal of Korean Statistical Society</em> <a
+href="https://rdcu.be/dDBld">(link)</a></p>
+<p>Sangil Han, Kyoowon Kim and Sungkyu Jung (2024), “Robust SVD Made
+Easy: A fast and reliable algorithm for large-scale data analysis,”
+accepted, <em>Int. Conf. Artif. Intell. Statist.</em> (AISTATS 2024) <a
+href="https://arxiv.org/abs/2402.09754">(arXiv)</a></p>
+</div>
+<div id="published" class="section level1">
+<h1>Published</h1>
+<p>Sangil Han, Minwoo Kim, Sungkyu Jung and Jeongyoun Ahn (2024).
+“Sparse Ordinal Discriminant Analysis,” <em>Biometrics</em> 80(1),
+March, ujad040, <a
+href="https://doi.org/10.1093/biomtc/ujad040">(link)</a></p>
+<p>Seung Woo Kwak and Sungkyu Jung (2024). “Highly-private large-sample
+tests for contingency tables”, <em>Stat</em> 13:e658 <a
+href="https://doi.org/10.1002/sta4.658">(link)</a> <a
+href="./papers/Highlyprivatetables.pdf">(pdf)</a></p>
+<p>Kipoong Kim and Sungkyu Jung (2024). “Integrative sparse reduced-rank
+regression via orthogonal rotation for analysis of high-dimensional
+multi-source data,” <em>Statistics and Computing</em> 34, Article #2. <a
+href="https://doi.org/10.1007/s11222-023-10322-3">(link)</a> <a
+href="https://rdcu.be/doVUF">(paper)</a> <a
+href="https://github.com/statpng/iSRRR">(software)</a></p>
+<p>Changjo Yu, Sungkyu Jung and Jisu Kim (2023), “Significance of Modes
+in the Torus by Topological Data Analysis,” <em>Stat</em> 12:e636 <a
+href="https://doi.org/10.1002/sta4.636">(link)</a></p>
+<p>Byungwon Kim, Sungkyu Jung, Johan Lim, and Woncheol Jang (2023).
+“Comparisons of parametric and non-parametric methods for analyzing
+RT-PCR experiment data,” <em>Chemometrics and Intelligent Laboratory
+Systems</em> 242, 104982. <a
+href="https://doi.org/10.1016/j.chemolab.2023.104982">(link)</a></p>
+<p>An, S., Doan, T., Lee, J., Kim, J., Kim, YJ., Kim, Y., Yoon, C.,
+Jung, S., Kim, D., Kwon, S., Kim, HJ., Ahn, J., and Park, C. (2023). “A
+Comparison of Synthetic Data Approaches Using Utility and Disclosure
+Risk Measures”, <em>The Korean Journal of Applied Statistics</em> 36(2),
+141-166. <a href="./papers/kjas-23-36-2_141.pdf">(pdf)</a> (This article
+is written in Korean.)</p>
+<p>Sujin Lee, Sungkyu Jung, Jeferson Lourenco, Dean Pringle, and
+Jeongyoun Ahn (2023). “Resampling-based Inferences for Compositional
+Regression with Application to Beef Cattle Microbiomes”, <em>Statistical
+Methods in Medical Research</em>, 32(1), 151-164. <a
+href="https://journals.sagepub.com/doi/pdf/10.1177/09622802221133550">(link)</a></p>
+<p>Seungki Hong and Sungkyu Jung (2022). “ClusTorus: An R package for
+prediction and clustering on the torus by conformal prediction”, <em>The
+R Journal</em>, 14(2), 186-207. <a
+href="https://journal.r-project.org/articles/RJ-2022-032/">(link)</a></p>
+<p>Zhao Ren, Sungkyu Jung and Xingye Qiao (2022). “Covariance-engaged
+Classification of Sets via Linear Programming”, <em>Statistica
+Sinica</em> 32, 1515-1540. <a
+href="https://doi.org/10.5705/ss.202020.0253">(link)</a> <a
+href="http://arxiv.org/abs/2006.14831">(arXiv)</a></p>
+<p>Byungwon Kim, Seonghong Kim, Sungkyu Jung, Woncheol Jang and Johan
+Lim (2022) “Comments on”Online estimation of the case fatality rate
+using a run-off triangle data approach: An application to the Korean
+MERS outbreak in 2015” by Sungim Lee and Johan Lim published in
+Statistics in Medicine (vol. 38, 2644-2679, 2019)“. <em>Statistics in
+Medicine</em> 41(9), 1728-1732. <a
+href="http://dx.doi.org/10.1002/sim.9123">(link)</a></p>
+<p>Sungkyu Jung (2022). “Adjusting systematic bias in high dimensional
+principal component scores”, <em>Statistica Sinica</em> 32, 939-959. <a
+href="./papers/A32n213.pdf">(pdf)</a><a
+href="https://arxiv.org/abs/1708.05026">(arXiv)</a> <a
+href="https://doi.org/10.5705/ss.202019.0400">(link)</a></p>
+<p>Juhee Son, Min-jeong Park and Sungkyu Jung (2022). “A Parametric
+Bootstrap Test for Comparing Differentially Private Histograms”. <em>The
+Korean Journal of Applied Statistics</em> 35(1), 1-17. <a
+href="./papers/35(1)-061_dp_histrogram.pdf">(pdf)</a> (This article is
+written in Korean.)</p>
+<p>Woonyoung Chang, Jeongyoun Ahn and Sungkyu Jung (2021). “Double data
+piling leads to perfect classification”. <em>Electronic Journal of
+Statistics</em> 15(2): 6382-6428 <a
+href="https://doi.org/10.1214/21-EJS1945">(link)</a></p>
+<p>Sungkyu Jung, Kiho Park and Byungwon Kim (2021). “Clustering on the
+torus by conformal prediction”, <em>Annals of Applied Statistics</em>.
+Vol. 15, No. 4, 1583-1603. <a
+href="http://dx.doi.org/10.1214/21-AOAS1459">(link)</a> <a
+href="papers/AOAS1459.pdf">(pdf)</a></p>
+<p>Xing Gao, Sungwon Lee, Gen Li and Sungkyu Jung (2021).
+“Covariate-driven factorization by thresholding for multi-block data”,
+<em>Biometrics</em>, 77(3) September, 1011-1023 <a
+href="https://doi.org/10.1111/biom.13352">(link)</a> <a
+href="https://github.com/sungkyujung/COBS">(software)</a></p>
+<p>David Groisser, Sungkyu Jung and Armin Schwartzman (2021).
+“Uniqueness questions in a scaling-rotation geometry on the space of
+symmetric positive-definite matrices.” <em>Differential Geometry and its
+Applications</em>. Volume 79, December, 101798. <a
+href="https://doi.org/10.1016/j.difgeo.2021.101798">(link)</a> <a
+href="https://arxiv.org/abs/1702.03237">(arXiv)</a></p>
+<p>Sungkyu Jung (2021). “Geodesic projection of the von Mises-Fisher
+distribution for projection pursuit of directional data”, <em>Electronic
+Journal of Statistics</em> 15(1): 984-1033. <a
+href="https://doi.org/10.1214/21-EJS1807">(link)</a></p>
+<p>Byungwon Kim, Seonghong Kim, Woncheol Jang, Sungkyu Jung, Johan Lim
+(2021). “Estimation of the case fatality rate based on stratification
+for the COVID-19 outbreak,” <em>PLoS One</em>. 16(2): e0246921. <a
+href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0246921">(link)</a>
+<a
+href="https://www.medrxiv.org/content/10.1101/2020.05.23.20111484v1">(medRxiv)</a>
+with <a href="https://sungkyujung.github.io/covid19cfr/">web-based
+material</a></p>
+<p>Sungkyu Jung, Mark Foskey, and J. S. Marron (2020). “Response to
+`Fitting a folded normal distribution without EM’”, <em>Annals of
+Applied Statistics</em>, Vol. 14, No. 4, 2099-2100. <a
+href="http://dx.doi.org/10.1214/20-AOAS1411">(link)</a> <a
+href="papers/AOAS1411.pdf">(pdf)</a></p>
+<p>Byungwon Kim, Joern Schulz and Sungkyu Jung (2020). “Kurtosis test of
+modality for rotationally symmetric distributions on hyperspheres”,
+<em>The Journal of Multivariate Analysis</em>, 178, Article 104603. <a
+href="https://www.sciencedirect.com/science/article/pii/S0047259X19306141">(link)</a></p>
+<p>Stephen M Pizer, Junpyo Hong, Jared Vicory, Zhiyuan Liu, JS Marron,
+Hyo-young Choi, James Damon, Sungkyu Jung, Beatriz Paniagua, Joern
+Schulz, Ankur Sharma, Liyun Tu and Jiyao Wang (2020). “Object shape
+representation via skeletal models (s-reps) and statistical analysis” In
+<em>Riemannian Geometric Statistics in Medical Image Analysis</em>
+(pp. 233-271). Academic Press. <a
+href="https://www.sciencedirect.com/science/article/pii/B9780128147252000145">(link)</a></p>
+<p>Byungwon Kim, Stephan Huckemann, Joern Schulz, and Sungkyu Jung
+(2019). “Small sphere distributions for directional data with
+application to medical imaging”, <em>Scandinavian Journal of
+Statistics</em>. 46(4) 1047-1071. <a
+href="https://arxiv.org/abs/1705.10013">(arXiv)</a> <a
+href="https://doi.org/10.1111/sjos.12381">(link)</a></p>
+<p>Sungkyu Jung, Jeongyoun Ahn, and Yongho Jeon (2019). “Penalized
+Orthogonal Iteration for Sparse Estimation of Generalized Eigenvalue
+Problem” <em>Journal of Computational and Graphical Statistics</em>.
+28(3) 710-721. <a
+href="https://doi.org/10.1080/10618600.2019.1568014">(link)</a> <a
+href="https://arxiv.org/abs/1711.03170">(arXiv)</a> <a
+href="https://github.com/sungkyujung/SparseEIG">(Software)</a></p>
+<p>Sandra E Safo, Jeongyoun Ahn, Yongho Jeon and Sungkyu Jung (2018).
+“Sparse Generalized Eigenvalue Problem for Canonical Correlation
+Analysis With Application to Integrative Analysis of Methylationand Gene
+Expression Data” <em>Biometrics</em> 74(4), December, 1362-1371. <a
+href="https://doi.org/10.1111/biom.12886">(link)</a> <a
+href="https://arxiv.org/abs/1611.01066">(arXiv)</a></p>
+<p>Sungkyu Jung, Myung Hee Lee and Jeongyoun Ahn (2018). “On the number
+of principal components in high dimensions,” <em>Biometrika</em> 105(2),
+389-402. <a
+href="http://www.stat.pitt.edu/sungkyu/papers/Biometrika-2018-JungLeeAhn-asy010-NPCHD.pdf">(pdf)</a>
+<a
+href="https://academic.oup.com/biomet/article/105/2/389/4944221?guestAccessKey=560ec4f7-790b-4b15-83ed-5cd47eda23fd">(link)</a>
+<a href="https://arxiv.org/abs/1708.04981">(arXiv)</a></p>
+<p>Sungkyu Jung (2018). “Continuum directions for supervised dimension
+reduction,” <em>Computational Statistics and Data Analysis</em> 125,
+27-43. <a
+href="http://www.stat.pitt.edu/sungkyu/papers/Continuum_CSDA_2018.pdf">(pdf)</a>
+<a href="https://arxiv.org/abs/1606.05988">(arXiv)</a></p>
+<p>Gen Li and Sungkyu Jung (2017). “Incorporating Covariates into
+Integrated Factor Analysis of Multi-View Data,” <em>Biometrics</em> 73
+(4), 1433-1442. <a
+href="http://www.stat.pitt.edu/sungkyu/papers/Li_et_al-2017-Biometrics.pdf">(pdf)</a>
+<a href="https://github.com/reagan0323/SIFA">(Software)</a></p>
+<p>David Groisser, Sungkyu Jung, and Armin Schwartzman (2017).
+“Geometric foundations for statistics on symmetric positive definite
+matrices: characterizations of minimal scaling-rotation curves in low
+dimensions”, <em>Electronic Journal of Statistics</em>, Vol. 11, No. 1,
+1092-1159. <a href="http://arxiv.org/abs/1602.01187">(arXiv)</a> <a
+href="http://projecteuclid.org/euclid.ejs/1491292817">(link)</a></p>
+<p>Hao Song, Dan Ruan, Wenyang Liu, V. Andrew Stenger, Rolf Pohmann,
+Maria A. Fernandez Seara, Tejas Nair, Sungkyu Jung, Jingqin Luo, Yuichi
+Motai, Jingfei Ma, John D. Hazle and H. Michael Gach (2017).
+“Respiratory motion prediction and prospective correction for
+free-breathing arterialspin labeled perfusion MRI of the kidneys”,
+<em>Medical Physics</em> 44, 962-973. <a
+href="https://doi.org/10.1002/mp.12099">(link)</a></p>
+<p>Sungkyu Jung, Armin Schwartman and David Groisser (2015).
+“Scaling-rotation distance and interpolation of symmetric
+positive-definite matrices”. <em>SIAM. J. Matrix Anal. &amp; Appl.</em>
+36-3, pp. 1180-1201 <a
+href="https://epubs.siam.org/doi/10.1137/140967040">(link)</a> <a
+href="http://arxiv.org/abs/1406.3361">(arXiv)</a> <a
+href="papers/SCAROT_SPD.zip">(Software)</a></p>
+<p>Benjamin Eltzner, Sungkyu Jung and Stephan Huckemann (2015).
+“Dimension Reduction on Polyspheres with Application to Skeletal
+Representations” <em>Proc. Geometric Science of Information 2015</em>,
+Springer LNCS, pp. 22-29. <a
+href="http://link.springer.com/chapter/10.1007/978-3-319-25040-3_3">(link)</a></p>
+<p>Joern Schulz, Sungkyu Jung, Stephan Huckemann, Michael Pierrynowski,
+J. S. Marron, Stephen M. Pizer (2015) “Analysis of rotational motion
+from directional data”. <em>Journal of Computational and Graphical
+Statistics</em>, 24(2), 539-560. <a
+href="http://www.stat.pitt.edu/sungkyu/papers/rotationSJ.pdf">(pdf)</a>
+<a
+href="http://www.stat.pitt.edu/sungkyu/papers/SupplementaryMaterialSJ.pdf">(Supplementary
+Material)</a> <a
+href="http://www.tandfonline.com/doi/abs/10.1080/10618600.2014.914947">(link)</a>
+<a
+href="http://www.stat.pitt.edu/sungkyu/software/estRotDeformation.zip">(Software)</a></p>
+<p>Sungkyu Jung and Xingye Qiao (2014). “A statistical approach to set
+classification by feature selection with applications to classification
+of histopathology images”, <em>Biometrics</em>, 70, 536-545. <a
+href="https://onlinelibrary.wiley.com/doi/pdf/10.1111/biom.12164">(link)</a></p>
+<p>Sungkyu Jung and Jason Fine (2013). Comment on “Large Covariance
+Estimation by Thresholding Principal Orthogonal Complements” by Fan,
+Liao and Mincheva, <em>Journal of Royal Statistical Society, Series
+B</em>, 75(4), 666-666. <a
+href="http://onlinelibrary.wiley.com/doi/10.1111/rssb.12016/abstract">(link)</a></p>
+<p>Stephen M. Pizer, Sungkyu Jung, Dibyendusekhar Goswami, Xiaojie Zhao,
+Ritwik Chaudhuri, James N. Damon, Stephan Huckemann, J. S. Marron
+(2013). “Nested Sphere Statistics of Skeletal Models”, in
+<em>Innovations for Shape Analysis: Models and Algorithms</em>. M.
+Breub, Bruckstein and Maragos (Eds), Springer, Berlin, 93-115. <a
+href="http://www.springer.com/mathematics/computational+science+%26+engineering/book/978-3-642-34140-3">(link)</a>
+<a
+href="http://midag.cs.unc.edu/pubs/papers/SkeletalStats-dagstuhl2011.pdf">(preprint)</a></p>
+<p>Sungkyu Jung, Arusharka Sen and J. S. Marron (2012). “Boundary
+behavior in high dimension, low sample size asymptotics of PCA”, <em>The
+Journal of Multivariate Analysis</em>, 109, 190-203. <a
+href="http://www.stat.pitt.edu/sungkyu/papers/JMVA3338-BNDRPCAHDLSS.pdf">(pdf)</a>
+<a href="http://dx.doi.org/10.1016/j.jmva.2012.03.005">(link)</a></p>
+<p>Sungkyu Jung, Ian L. Dryden and J. S. Marron (2012). “Analysis of
+Principal Nested Spheres”, <em>Biometrika</em>, 99(3), 551-568. <a
+href="http://www.stat.pitt.edu/sungkyu/papers/Biometrika-2012-Jung-551-68.pdf">(pdf)</a>
+<a
+href="http://www.stat.pitt.edu/sungkyu/papers/PNS-OnlineSupplement.pdf">(Supplementary
+Material)</a> <a
+href="http://biomet.oxfordjournals.org/content/early/2012/07/24/biomet.ass022">(link)</a>
+<a
+href="http://www.stat.pitt.edu/sungkyu/software/PNScodes.zip">(Software-original)</a></p>
+<p>Sungkyu Jung (2011). “A Backward Generalization of PCA for
+Exploration and Feature Extraction of Manifold-Valued Shapes”, in
+<em>Recent Advances in Functional Data Analysis and Related Topics</em>,
+F. Ferraty (Ed), 183-188. <a
+href="http://www.springer.com/statistics/book/978-3-7908-2735-4">(link)</a></p>
+<p>Sungkyu Jung, Mark Foskey and J. S. Marron (2011). “Principal Arc
+Analysis on direct product manifolds”, <em>The Annals of Applied
+Statistics</em>, 5, 578-603. <a
+href="http://www.stat.pitt.edu/sungkyu/papers/AOAS370.pdf">(pdf)</a></p>
+<p>Sungkyu Jung, Xiaoxiao Liu, J. S. Marron and Stephen M. Pizer (2010).
+“Generalized PCA via the backward stepwise approach in image analysis”,
+in Brain, Body and Machine: Proceedings of an International Symposium on
+the 25th Anniversary of McGill University Centre for Intelligent
+Machines, J. Angeles et al. (Eds.) <em>Advances in Intelligent and Soft
+Computing</em> 83, 111-123. <a
+href="http://www.stat.pitt.edu/sungkyu/papers/backPCAimage.pdf">(pdf)</a></p>
+<p>J. S. Marron, Sungkyu Jung and Ian L. Dryden (2010). “Speculation on
+the Generality of the Backward Stepwise View of PCA,” <em>Proceedings of
+MIR 2010: 11th ACM SIGMM International Conference on Multimedia
+Information Retrieval</em>, Association for Computing Machinery, Inc.,
+Danvers, MA, 227-230. <a
+href="http://www.stat.pitt.edu/sungkyu/papers/MIR2010FinalP227.pdf">(pdf)</a></p>
+<p>Sungkyu Jung, Mark Foskey and J. S. Marron (2010), discussion on
+“Intrinsic shape analysis: Geodesic PCA for Riemannian manifolds modulo
+isometric lie group actions” by Huckemann S., Hotz T. and Munk A.,
+<em>Statistica Sinica</em> 20(1) 63-65. <a
+href="http://www.stat.pitt.edu/sungkyu/papers/A07-173a.pdf">(pdf)</a></p>
+<p>Sungkyu Jung and J. S. Marron (2009). “PCA consistency in High
+dimension, low sample size context”. <em>The Annals of Statistics</em>
+37, 4104-4130. <a
+href="http://www.stat.pitt.edu/sungkyu/papers/AOS709.pdf">(pdf)</a> <a
+href="https://projecteuclid.org/euclid.aos/1256303538">(link)</a></p>
+</div>
+<div id="workinprogress" class="section level1">
+<h1>WorkinProgress</h1>
+<p>Jongmin Lee and Sungkyu Jung, “Huber means on Riemannian manifolds,”
+manuscript.</p>
+<p>Donghyeok Jo and Sungkyu Jung “Inference on the shape of densities on
+Riemannian manifolds via SiZer”, manuscript. <a
+href="https://github.com/sungkyujung/SiZer_manifold">(software)</a></p>
+<p>Kipoong Kim, Jaesung Park, and Sungkyu Jung, “Principal component
+analysis for zero-inflated compositional data”, manuscript. <a
+href="https://github.com/statpng/CompositionalPCA">(software)</a></p>
+<p>Jaesung Park and Sungkyu Jung, “Strong law of large numbers for the
+generalized Frechet means with random minimizing domains”, manuscript.
+<a href="https://arxiv.org/abs/2311.10958">(arXiv)</a></p>
+<p>Jaesung Park and Sungkyu Jung, “Wasserstein-Quantile PCA”, manuscript
+in progress</p>
+<p>Jonghyeok Lee, Minwoo Kim, Seung Woo Kwak, and Sungkyu Jung,
+“Differentially Private Multivariate Statistics with an Application to
+Contingency Table Analysis,” manuscript. <a
+href="https://arxiv.org/abs/2211.15019">(arXiv)</a></p>
+<p>Taehyun Kim, Jeongyoun Ahn and Sungkyu Jung. “Double Data Piling for
+Heterogeneous Covariance Models,” manuscript. <a
+href="https://arxiv.org/abs/2211.15562">(arXiv)</a></p>
+<p>Minwoo Kim, Sangil Han, Jeongyoun Ahn and Sungkyu Jung. “Variable
+selection and basis learning for ordinal classification,” manuscript. <a
+href="https://arxiv.org/abs/2208.10690">(arXiv)</a></p>
+<p>SeoWon Choi and Sungkyu Jung. “Integrative decomposition of
+multi-source data by identifying partially-joint score subspaces,”
+manuscript. <a href="https://arxiv.org/abs/2203.14041">(arXiv)</a></p>
+<p>Sungkyu Jung, Brian Rooks, David Groisser and Armin Schwartzman.
+“Averaging symmetric positive-definite matrices on the space of
+eigen-decompositions”, <a
+href="https://arxiv.org/abs/2306.12025">(arXiv)</a></p>
+<p>David Groisser, Sungkyu Jung, and Armin Schwartzman. “A genericity
+property of Frechet sample means on Riemannian maniflds”, <a
+href="https://arxiv.org/abs/2309.13823">(arXiv)</a></p>
+<p>Minwoo Kim and Sungkyu Jung. “Non-asymptotic error bound for sparse
+low-rank structured GEP”, manuscript.</p>
+<p>Sungwon Lee and Sungkyu Jung (2017). “Combined Analysis of Amplitude
+and Phase Variations in Functional Data” <a
+href="https://arxiv.org/abs/1603.01775">(arXiv)</a></p>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

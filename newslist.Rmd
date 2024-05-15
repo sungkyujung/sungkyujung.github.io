@@ -1,5 +1,7 @@
 # News
 
+2024-05-14. A research article on a principal component analysis for compositional data, coauthored with Jaesung and Dr. Kipoong Kim, is accepted for a publication in *CSDA*. This works uses the framework of generalized Frechet means to evaluate the asymptotic properties of the "compositional subspace" estimators. 
+
 2024-04-01. Welcome Dr. Soyul Han to my lab! 
 
 2024-04-01. Sujin's work, comparing the debiasing-based and resampling-based inference procedures for multiple compositional regression problems, is accepted for a publication in *ChemLab*. Congratulations to Sujin!

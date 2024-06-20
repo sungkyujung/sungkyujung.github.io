@@ -98,7 +98,7 @@ for (i in 2:(k-1)) {
 }
 ```
 
-- Last updated: `r tmp<-Sys.setlocale("LC_TIME", "C")` `r format(Sys.Date(), "%B %d, %Y")`        
+- Last updated on `r tmp<-Sys.setlocale("LC_TIME", "C")` `r format(Sys.Date(), "%B %d, %Y")`        
 
 </div>
 </div>

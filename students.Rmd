@@ -11,10 +11,6 @@ output: html_document
 
 ### Graduate students 
 
-- Sangil Han, Ph.D. student
-
-- Sujin Lee, Ph.D. student
-
 - Donghyeok Jo, Ph.D. student
 
 - [Minwoo Kim](https://sites.google.com/view/mwkim-stat), Ph.D. student 
@@ -38,7 +34,11 @@ output: html_document
 See my lab [website](https://statlet.github.io) about research activities of these students.
 
 
-## Former members
+## Former members 
+
+- Sujin Lee, Ph.D. 2024. SNU. "Variable Selection and Inference Strategies for Compositional Regressions"
+
+- Sangil Han, Ph.D. 2024. SNU. "Advances in supervised and unsupervised dimension reduction".  
 
 - Seung Woo Kwak, Postdoctoral researcher, Sep. 2021 - Feb. 2024. Professor, Sungkonghoe University, Seoul, Korea.
 
@@ -49,7 +49,6 @@ See my lab [website](https://statlet.github.io) about research activities of the
 - Changjo Yu, MS. 2023. SNU. Placement: LG Electronics.
 
 - SeoWon Choi, Ph.D. 2023. SNU. "Dimension Reduction Methods for Multi-source and Manifold-valued Data". Postdoctoral researcher at School of Medicine, Seoul National University. 
-
 - Seungki Hong, MS. 2022. SNU. Placement: Meritz Fire & Marine Insurance Co., Ltd.
 
 - Jongkyeong Kang, Postdoctoral researcher, Sep. 2021 - Feb. 2022. Professor, Kangwon National University, Chunchun, Korea. 

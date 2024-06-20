@@ -1,14 +1,16 @@
 # NotYetPrinted
 
-Kipoong Kim, Jaesung Park, and Sungkyu Jung, "Principal component analysis for zero-inflated compositional data", accepted for publication in *Computational Statistics and Data Analysis* [(software)](https://github.com/statpng/CompositionalPCA)
+Sungkyu Jung, Brian Rooks, David Groisser and Armin Schwartzman.  "Averaging symmetric positive-definite matrices on the space of eigen-decompositions", accepted for publication in *Bernoulli*. [(arXiv)](https://arxiv.org/abs/2306.12025)
 
-Sujin Lee and Sungkyu Jung, "Variable Selection and Inference Strategies for Multiple Compositional Regression," accepted for publication in *Chemometrics and Intelligent Laboratory Systems* [(link)](https://authors.elsevier.com/a/1iub8cc6MIlTb)
+Kipoong Kim, Jaesung Park, and Sungkyu Jung (2024), "Principal component analysis for zero-inflated compositional data",  *Computational Statistics and Data Analysis* 198, October, 107989. [(link)](https://doi.org/10.1016/j.csda.2024.107989) [(software)](https://github.com/statpng/CompositionalPCA)
 
-Taehyun Kim, Woonyoung Chang, Jeongyoun Ahn, and Sungkyu Jung (2024), "Double Data Piling: A High-Dimensional Solution for Asymptotically Perfect Multi-Category Classification" accepted for publication in *Journal of Korean Statistical Society* [(link)](https://rdcu.be/dDBld)
-
-Sangil Han, Kyoowon Kim and Sungkyu Jung (2024), "Robust SVD Made Easy: A fast and reliable algorithm for large-scale data analysis," accepted,  *Int. Conf. Artif. Intell. Statist.* (AISTATS 2024) [(arXiv)](https://arxiv.org/abs/2402.09754)
+Taehyun Kim, Woonyoung Chang, Jeongyoun Ahn, and Sungkyu Jung (2024), "Double Data Piling: A High-Dimensional Solution for Asymptotically Perfect Multi-Category Classification" accepted for publication in *Journal of Korean Statistical Society* [(link)](https://doi.org/10.1007/s42952-024-00263-6)
 
 # Published
+
+Sangil Han, Kyoowon Kim and Sungkyu Jung (2024), "Robust SVD Made Easy: A fast and reliable algorithm for large-scale data analysis," Proceedings of The 27th *Int. Conf. Artif. Intell. Statist.*  (AISTATS 2024), PMLR 238:1765-1773. [(arXiv)](https://arxiv.org/abs/2402.09754) [(pdf)](https://proceedings.mlr.press/v238/han24a/han24a.pdf)
+
+Sujin Lee and Sungkyu Jung (2024). "Variable Selection and Inference Strategies for Multiple Compositional Regression," *Chemometrics and Intelligent Laboratory Systems* 248, May, 105121. [(link)](https://doi.org/10.1016/j.chemolab.2024.105121)
 
 Sangil Han, Minwoo Kim, Sungkyu Jung and Jeongyoun Ahn (2024). "Sparse Ordinal Discriminant Analysis," *Biometrics* 80(1), March, ujad040, [(link)](https://doi.org/10.1093/biomtc/ujad040)
 
@@ -97,10 +99,9 @@ Sungkyu Jung, Mark Foskey and J. S. Marron (2010), discussion on "Intrinsic shap
 Sungkyu Jung and J. S. Marron (2009). "PCA consistency in High dimension, low sample size context". *The Annals of Statistics* 37, 4104-4130. [(pdf)](http://www.stat.pitt.edu/sungkyu/papers/AOS709.pdf) [(link)](https://projecteuclid.org/euclid.aos/1256303538)
 
 
-
 # WorkinProgress
 
-Jongmin Lee and Sungkyu Jung, "Huber means on Riemannian manifolds," manuscript.
+Jongmin Lee and Sungkyu Jung, "Huber means on Riemannian manifolds," manuscript in progress.
 
 Donghyeok Jo and Sungkyu Jung "Inference on the shape of densities on Riemannian manifolds via SiZer", manuscript. [(software)](https://github.com/sungkyujung/SiZer_manifold)
 
@@ -115,8 +116,6 @@ Taehyun Kim, Jeongyoun Ahn and Sungkyu Jung. "Double Data Piling for Heterogeneo
 Minwoo Kim, Sangil Han, Jeongyoun Ahn and Sungkyu Jung. "Variable selection and basis learning for ordinal classification," manuscript. [(arXiv)](https://arxiv.org/abs/2208.10690)
 
 SeoWon Choi and Sungkyu Jung. "Integrative decomposition of multi-source data by identifying partially-joint score subspaces," manuscript. [(arXiv)](https://arxiv.org/abs/2203.14041)
-
-Sungkyu Jung, Brian Rooks, David Groisser and Armin Schwartzman.  "Averaging symmetric positive-definite matrices on the space of eigen-decompositions", [(arXiv)](https://arxiv.org/abs/2306.12025)
 
 David Groisser, Sungkyu Jung, and Armin Schwartzman.  "A genericity property of Frechet sample means on Riemannian maniflds", [(arXiv)](https://arxiv.org/abs/2309.13823)
 

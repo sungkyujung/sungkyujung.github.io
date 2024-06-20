@@ -1,9 +1,9 @@
 name: "Sungkyu_Jung"
-output_dir: docs
+output_dir: "docs"
 navbar:
   title: "Sungkyu Jung"
   left:
-    - text: "Publications!"
+    - text: "Publications"
       icon: fa-book  fa-1x
       href: pubs.html
     - text: "Courses"

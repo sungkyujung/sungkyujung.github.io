@@ -69,6 +69,8 @@ tmp <- Sys.setlocale("LC_TIME", "C")
 
 ## Grants
 
+- PI, NRF RS-2024-00333399, 2024-2029.
+
 - co-I, NRF LAMP project (RS-2023-00301976), 2023-2028. 
 
 - co-PI, NRF Basic Research Lab grant (RS-2023-00218231), 2023-2026. 

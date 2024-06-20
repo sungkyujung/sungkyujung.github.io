@@ -1,5 +1,15 @@
 # News
 
+2024-06-12. Congratulations to Dr. Sujin Lee, who has successfully defended her PhD thesis "Variable Selection and Inference Strategies for Compositional Regressions".
+
+2024-06-03. A research article, coauthored with David, Armin and my previous PhD advisee Brian, on averaging SPD matrices is now accepted for publication in *Bernoulli*, after six years of effort! Check out the preprint at  [arXiv](https://arxiv.org/abs/2306.12025). 
+
+2024-05-31. Congratulations to Dr. Sangil Han, who has successfully defended his PhD thesis "Advances in supervised and unsupervised dimension reduction."
+
+2024-05-30. [I](pictures/2024-05-30-PET-Forum.jpg) gave an invited talk at the first PET Forum seminar of 2024, hosted by [Personal Information Protection Commission](https://www.pipc.go.kr/eng/user/ltn/new/newsDetail.do?nttId=2531) on AI-based synthetic data generation. 
+
+2024-05-27. I have been selected to receive a five-year mid-career research grant from the National Research Foundation of Korea (RS-2024-00333399).
+
 2024-05-14. A research article on a principal component analysis for compositional data, coauthored with Jaesung and Dr. Kipoong Kim, is accepted for a publication in *CSDA*. This works uses the framework of generalized Frechet means to evaluate the asymptotic properties of the "compositional subspace" estimators. 
 
 2024-04-01. Welcome Dr. Soyul Han to my lab! 

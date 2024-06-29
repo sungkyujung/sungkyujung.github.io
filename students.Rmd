@@ -11,8 +11,6 @@ output: html_document
 
 ### Graduate students 
 
-- Donghyeok Jo, Ph.D. student
-
 - [Minwoo Kim](https://sites.google.com/view/mwkim-stat), Ph.D. student 
 
 - Jaesung Park, Ph.D. student
@@ -31,10 +29,18 @@ output: html_document
 
 - Chihoon Lee, Ph.D. student
 
+- Jaeeun Chang, Ph.D. student
+
+- 김우열, Masters student
+
+- 유지현, Masters student
+
 See my lab [website](https://statlet.github.io) about research activities of these students.
 
 
 ## Former members 
+
+- Donghyeok Jo, Ph.D. 2024. SNU. "Advances on Statistical Inferences for Riemannian Manifold-valued Data"
 
 - Sujin Lee, Ph.D. 2024. SNU. "Variable Selection and Inference Strategies for Compositional Regressions"
 

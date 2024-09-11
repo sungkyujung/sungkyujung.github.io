@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = TRUE)
  
 
 <div class="jumbotron">
-    <img src="sungkyu_jungs.jpg" align="left" style="vertical-align:middle;margin:0px 20px">
+    <img src="jung2024s.jpg" align="left" style="vertical-align:middle;margin:0px 20px;width:250px;"">
     <div class="container">
       <!-- <h1 class="display-3">Sungkyu Jung</h1>--> 
       <p>Professor of Statistics</p>

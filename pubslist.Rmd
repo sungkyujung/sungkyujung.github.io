@@ -2,11 +2,11 @@
 
 Sungkyu Jung, Brian Rooks, David Groisser and Armin Schwartzman (2024+).  "Averaging symmetric positive-definite matrices on the space of eigen-decompositions", accepted for publication in *Bernoulli*. [(arXiv)](https://arxiv.org/abs/2306.12025)
 
+# Published
+
 Kipoong Kim, Jaesung Park, and Sungkyu Jung (2024), "Principal component analysis for zero-inflated compositional data",  *Computational Statistics and Data Analysis* 198, October, 107989. [(link)](https://doi.org/10.1016/j.csda.2024.107989) [(software)](https://github.com/statpng/CompositionalPCA)
 
-Taehyun Kim, Woonyoung Chang, Jeongyoun Ahn, and Sungkyu Jung (2024), "Double Data Piling: A High-Dimensional Solution for Asymptotically Perfect Multi-Category Classification" accepted for publication in *Journal of Korean Statistical Society* [(link)](https://doi.org/10.1007/s42952-024-00263-6)
-
-# Published
+Taehyun Kim, Woonyoung Chang, Jeongyoun Ahn, and Sungkyu Jung (2024), "Double Data Piling: A High-Dimensional Solution for Asymptotically Perfect Multi-Category Classification"*Journal of Korean Statistical Society* 53, 704-737. [(link)](https://doi.org/10.1007/s42952-024-00263-6)
 
 Sangil Han, Kyoowon Kim and Sungkyu Jung (2024), "Robust SVD Made Easy: A fast and reliable algorithm for large-scale data analysis," Proceedings of The 27th *Int. Conf. Artif. Intell. Statist.*  (AISTATS 2024), PMLR 238:1765-1773. [(arXiv)](https://arxiv.org/abs/2402.09754) [(pdf)](https://proceedings.mlr.press/v238/han24a/han24a.pdf)
 
@@ -100,6 +100,8 @@ Sungkyu Jung and J. S. Marron (2009). "PCA consistency in High dimension, low sa
 
 
 # WorkinProgress
+
+Sujin Lee and Sungkyu Jung, "Debiased Group Lasso for Multi-Site Compositional Data: Applications in Human Microbiome Research," manuscript.
 
 Jongmin Lee and Sungkyu Jung, "Huber means on Riemannian manifolds," manuscript.
 

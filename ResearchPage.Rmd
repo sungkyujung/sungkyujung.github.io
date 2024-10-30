@@ -69,7 +69,9 @@ tmp <- Sys.setlocale("LC_TIME", "C")
 
 ## Grants
 
-- PI, NRF RS-2024-00333399, 2024-2029.
+- co-PI, HK-dir UTFORSK on SCoDa, Norway (UTF-2024/10203), 2025-2028.
+
+- PI, NRF Mid-Career Researcher Program (RS-2024-00333399), 2024-2029.
 
 - co-I, NRF LAMP project (RS-2023-00301976), 2023-2028. 
 
@@ -79,7 +81,7 @@ tmp <- Sys.setlocale("LC_TIME", "C")
 
 - PI, Samsung Science & Technology Foundation (SSTF-BA2002-03), 2020-2025.
 
-- PI, NRF 2019R1A2C2002256, 2019-2024.
+- PI, NRF Mid-Career Researcher Program (2019R1A2C2002256), 2019-2024.
 
 - PI, Internal grant, Seoul National University, 2018-2020.
 
@@ -95,7 +97,7 @@ tmp <- Sys.setlocale("LC_TIME", "C")
 
 ## Selected Service
 
-- Deputy Director, SNU Center for LAMP Project, 2023.10.01 --
+- Deputy Director, SNU Center for LAMP Project, 2023-
 - Associate Editor, Computational Statistics and Data Analysis, 2019-
 - Associate Editor, Journal of Nonparametric Statistics, 2017-
 - Associate Editor, Journal of Korean Statistical Society, 2014-

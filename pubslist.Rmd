@@ -103,7 +103,7 @@ Sungkyu Jung and J. S. Marron (2009). "PCA consistency in High dimension, low sa
 
 Sujin Lee and Sungkyu Jung, "Debiased Group Lasso for Multi-Site Compositional Data: Applications in Human Microbiome Research," manuscript.
 
-Jongmin Lee and Sungkyu Jung, "Huber means on Riemannian manifolds," manuscript.
+Jongmin Lee and Sungkyu Jung, "Huber means on Riemannian manifolds," manuscript. [(arXiv)](https://arxiv.org/abs/2407.15764)
 
 Donghyeok Jo and Sungkyu Jung "Inference on the shape of densities on Riemannian manifolds via SiZer", manuscript. [(software)](https://github.com/sungkyujung/SiZer_manifold)
 

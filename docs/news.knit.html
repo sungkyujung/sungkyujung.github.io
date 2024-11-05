@@ -1,0 +1,1222 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>News</title>
+
+<script src="site_libs/header-attrs-2.28/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Sungkyu Jung</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="pubs.html">
+    <span class="fa fa-book  fa-1x"></span>
+     
+    Publications
+  </a>
+</li>
+<li>
+  <a href="TeachingPage.html">
+    <span class="fa fa-graduation-cap fa-1x"></span>
+     
+    Courses
+  </a>
+</li>
+<li>
+  <a href="ResearchPage.html">
+    <span class="fa fa-pen-square fa-1x"></span>
+     
+    CV
+  </a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    <span class="fa fa-bars fa-1x"></span>
+     
+    More
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="news.html">News</a>
+    </li>
+    <li>
+      <a href="MiscPage.html">Software</a>
+    </li>
+    <li>
+      <a href="students.html">Lab members</a>
+    </li>
+    <li>
+      <a href="me.html">Family</a>
+    </li>
+    <li>
+      <a href="books.html">Books</a>
+    </li>
+    <li>
+      <a href="vis.html">Visualizations</a>
+    </li>
+    <li class="divider"></li>
+  </ul>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="https://github.com/sungkyujung">
+    <span class="fab fa-github fa-1x"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://www.linkedin.com/in/sungkyu-jung-3549b516/">
+    <span class="fab fa-linkedin fa-1x"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://www.researchgate.net/profile/Sungkyu_Jung">
+    <span class="fab fa-researchgate fa-1x"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://scholar.google.com/citations?user=WYEkUW8AAAAJ&amp;hl=en">
+    <span class="fab fa-google fa-1x"></span>
+     
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">News</h1>
+
+</div>
+
+
+<hr />
+<table class="table table-striped" style="width: auto !important; ">
+<thead>
+<tr>
+<th style="text-align:left;">
+Date
+</th>
+<th style="text-align:left;">
+Event
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+2024-10-24
+</td>
+<td style="text-align:left;">
+I am happy to announce that an UTFORSK grant from Norwegian Directorate
+for Higher Education and Skills is awarded for the full four years of
+2025–2028. This project is to increase research and education activities
+in <a
+href="https://espresso.diku.no/projects/?2&amp;project=UTF-2024/10203">Statistics
+of Complex Data (ScoDa)</a> and is a joint grant between Universitetet i
+Stavanger (Professor Joern Schulz as PI) and SNU, as the main foreign
+partner.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2024-10-17
+</td>
+<td style="text-align:left;">
+I am actively participating in the Interactions of Geometry and
+Statistics <a href="pictures/Group-2-22.10.2024-Yes.jpg">(ISAG) II
+workshop</a>, IMS, NUS, in Singapore from Oct. 17 to Oct. 25.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2024-10-16
+</td>
+<td style="text-align:left;">
+I gave a talk on Differential Privacy at the Privacy Future Forum,
+hosted by Personal Information Protection Commission.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2024-09-08
+</td>
+<td style="text-align:left;">
+I gave a talk on Privacy Enhancing Technologies at the 13th National
+Statistics Development Forum.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2024-09-01
+</td>
+<td style="text-align:left;">
+Welcome Jaeeun, Wooyeol and Jihyun to my lab!
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2024-07-18
+</td>
+<td style="text-align:left;">
+I am visiting the National Cancer Institute in the Washington, DC area
+during my summer break.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2024-06-21
+</td>
+<td style="text-align:left;">
+Congratulations to Dr. Donghyeok Jo, who has successfully defended his
+PhD thesis “Advances on Statistical Inferences for Riemannian
+Manifold-valued Data.”
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2024-06-12
+</td>
+<td style="text-align:left;">
+Congratulations to Dr. Sujin Lee, who has successfully defended her PhD
+thesis “Variable Selection and Inference Strategies for Compositional
+Regressions.”
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2024-06-03
+</td>
+<td style="text-align:left;">
+A research article, coauthored with David, Armin and my previous PhD
+advisee Brian, on averaging SPD matrices is now accepted for publication
+in <em>Bernoulli</em>, after six years of effort! Check out the preprint
+at <a href="https://arxiv.org/abs/2306.12025">arXiv</a>.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2024-05-31
+</td>
+<td style="text-align:left;">
+Congratulations to Dr. Sangil Han, who has successfully defended his PhD
+thesis “Advances in supervised and unsupervised dimension reduction.”
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2024-05-30
+</td>
+<td style="text-align:left;">
+<a href="pictures/2024-05-30-PET-Forum.jpg">I</a> gave an invited talk
+at the first PET Forum seminar of 2024, hosted by <a
+href="https://www.pipc.go.kr/eng/user/ltn/new/newsDetail.do?nttId=2531">Personal
+Information Protection Commission</a> on AI-based synthetic data
+generation.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2024-05-27
+</td>
+<td style="text-align:left;">
+I have been selected to receive a five-year mid-career research grant
+from the National Research Foundation of Korea (RS-2024-00333399).
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2024-05-14
+</td>
+<td style="text-align:left;">
+A research article on a principal component analysis for compositional
+data, coauthored with Jaesung and Dr. Kipoong Kim, is accepted for a
+publication in <em>CSDA</em>. This works uses the framework of
+generalized Frechet means to evaluate the asymptotic properties of the
+“compositional subspace” estimators.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2024-04-01
+</td>
+<td style="text-align:left;">
+Welcome Dr. Soyul Han to my lab!
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2024-04-01
+</td>
+<td style="text-align:left;">
+Sujin’s work, comparing the debiasing-based and resampling-based
+inference procedures for multiple compositional regression problems, is
+accepted for a publication in <em>ChemLab</em>. Congratulations to
+Sujin!
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2024-03-04
+</td>
+<td style="text-align:left;">
+I am very happy to announce that the <strong>Institute for Data
+Innovation in Science</strong> (IDIS) at Seoul National University is
+now established, and I am appointed as the director of the institute.
+The core mission of IDIS is to spearhead data-driven innovation across
+all scientific domains, leveraging data to tackle intricate scientific
+hurdles, advance scientific frontiers, and foster societal progress.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2024-02-29
+</td>
+<td style="text-align:left;">
+A research article on double data piling for multi-category
+classification, co-authored with former students Taehyun and Woonyoung,
+is accepted for a publication in <em>Journal of Korean Statistical
+Society</em>. This will be my first JKSS paper.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2024-02-16
+</td>
+<td style="text-align:left;">
+Some great news to share. Dr. Seung Woo Kwak is now a professor at
+Sungkonghoe University; Dr. Kipoong Kim is now a professor at Changwon
+National University. Congratulations! I welcome new members to the lab:
+Graduate students Seongjae, Jeehyun and Chihoon have joined my lab.
+Dr. Yangha Chung has also joined for the SSTF project.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2024-02-02
+</td>
+<td style="text-align:left;">
+Dr. Kwak’s work on differentially private contingency table analysis is
+accepted for publication in <em>Stat</em>. <a
+href="https://doi.org/10.1002/sta4.658">(link)</a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2024-01-20
+</td>
+<td style="text-align:left;">
+The research article “Robust SVD Made Easy” is accepted for a poster
+presentation in AISTATS 2024. Congratulations to Sangil and Kyoowon! <a
+href="https://arxiv.org/abs/2402.09754">(arXiv)</a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2023-12-13
+</td>
+<td style="text-align:left;">
+[Closed] I have an opening for a <a
+href="./papers/Wanted.html">postdoctoral researcher</a>.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2023-12-13
+</td>
+<td style="text-align:left;">
+Sangil and Minwoo’s work on sparse ordinal discriminant analysis is now
+accepted for publication in <em>Biometrics</em>. This work adopts the
+optimal scoring method, tailored to reflect ordinal responses, with a
+sparsity enforcing penalization, and provides an accurate and
+easy-to-interpret discriminant basis in high-dimensions.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2023-10-23
+</td>
+<td style="text-align:left;">
+Changjo’s research on an application of TDA to data on the torus has
+been accepted for publication in <em>Stat</em>. Congratulations to
+Changjo!
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2023-10-18
+</td>
+<td style="text-align:left;">
+I am happy to announce that the natural science LAMP project team at SNU
+is awarded the five-year LAMP project. This project supports data-based
+discovery in all areas of natural sciences. Planned activities include
+founding “Data Discovery Science Research Institute,” a new research
+institute at SNU formed by expanding Statistical Research Institute. <a
+href="https://www.snu.ac.kr/snunow/press?md=v&amp;bbsidx=143708">(post)</a>
+<a
+href="https://www.veritas-a.com/news/articleView.html?idxno=474831">(news)</a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2023-10-05
+</td>
+<td style="text-align:left;">
+<a href="https://doi.org/10.1007/s11222-023-10322-3">Kipoong’s work on
+Integrative Sparse Reduced-Rank Regression</a> is now accepted for
+publication in <em>Statistics and Computing</em>.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2023-09-06
+</td>
+<td style="text-align:left;">
+A research article, titled “Comparisons of parametric and non-parametric
+methods for analyzing RT-PCR experiment data” is accepted for
+publication in <em>ChemLab</em>. This paper demonstrates the advantage
+in using proper permutation tests in small-sample experiments. <a
+href="https://www.sciencedirect.com/science/article/pii/S0169743923002320">(link)</a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2023-09-05
+</td>
+<td style="text-align:left;">
+A series of lecture videos on multivariate statistics, recorded in 2021,
+is now posted on <a
+href="https://www.youtube.com/watch?v=UdiIolIT3HU&amp;list=PLXgVK0KVZjzMMnCZmZR6DmPsp5ResfZxg">YouTube</a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2023-09-01
+</td>
+<td style="text-align:left;">
+Welcome DongSun Yoon to the lab.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2023-08-30
+</td>
+<td style="text-align:left;">
+Presented about Privacy Enhancing Technologies at the 12th national
+statistics development forum, organized by Statistics Korea.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2023-07-02
+</td>
+<td style="text-align:left;">
+Gave a talk on James-Stein eigenvector estimators at ECOSTA conference,
+Tokyo, Japan.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2023-06-01
+</td>
+<td style="text-align:left;">
+Our research team, consisting of Dr. Ahn, Dr. Park, Dr. Kim, and myself,
+has been awarded a prestigious three-year Basic Research Lab grant. The
+grant is specifically designated for conducting research in the field of
+Data Privacy for Statistical Machine Learning.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2023-02-24
+</td>
+<td style="text-align:left;">
+Featured in a <a href="https://youtu.be/s9aOZDLAc9M">YouTube clip</a>.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2023-02-21
+</td>
+<td style="text-align:left;">
+I gave an <a
+href="https://www.kias.re.kr/kias/activities/seminars/view.do?seqno=PGN1720230130-0002&amp;menuNo=404003&amp;schoolsCd=CP&amp;centrspgmsCd=&amp;sdate=2023-01-13&amp;edate=&amp;mjrcdnm=&amp;searchCnd=1&amp;searchWord=&amp;pageIndex=1">AI
+&amp; Natural Sciences seminar</a> at Korea Institute for Advanced Study
+(KIAS) on Feb 21, 2023.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2023-01-26
+</td>
+<td style="text-align:left;">
+I gave an <a href="./pictures/2023_1_KDAS_invited_lecture.jpg">invited
+lecture</a> at the winter conference of <a
+href="http://www.kdas.or.kr">the Korean Data Analysis Society</a>, which
+was held in person on Jan 26-27, 2023, in Pusan, Korea.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-11-15
+</td>
+<td style="text-align:left;">
+My first popular science book, <a href="./books.html"><em>Data literacy
+over mathematics</em></a> (title translated from Korea, the book is
+written in Korean) is now on <a
+href="https://product.kyobobook.co.kr/detail/S000200243265">sale</a>. I
+thank the editor, the publisher, and my family for their enormous
+support.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-10-04
+</td>
+<td style="text-align:left;">
+Sujin’s <a href="./papers/SMMR_R2.pdf">work</a> on resampling-based
+inference tools for compositional regression will appear in SMMR.
+Congratulations to Sujin!
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-09-01
+</td>
+<td style="text-align:left;">
+Welcome Giheon, Changjo and Kyoowon to the lab.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-07-25
+</td>
+<td style="text-align:left;">
+<a href="./books.html">My textbook on nonparametric statistics</a> is
+selected as an excellent academic book by the National Academy of
+Sciences of the Republic of Korea.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-06-23
+</td>
+<td style="text-align:left;">
+I gave a public lecture during the KSS conference. The lecture is about
+“statistics of things that cannot be averaged”, and you can find the
+slides <a href="./papers/statistics_public_lecture_2022.pdf">here</a>.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-05-11
+</td>
+<td style="text-align:left;">
+My team and I are selected to receive a three-year research grant on
+Data Privacy from IITP. The mission is to enhance the use of synthetic
+data in national database release mechanisms.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-04-14
+</td>
+<td style="text-align:left;">
+An article introducing the R package <a
+href="https://cran.r-project.org/web/packages/ClusTorus/index.html">ClusTorus</a>
+and its use is accepted for publication in the R journal. Kudos to
+Seungki!
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-03-01
+</td>
+<td style="text-align:left;">
+<a href="./books.html">My textbook on nonparametric statistics</a> is
+now on <a
+href="https://product.kyobobook.co.kr/detail/S000001762578">sale</a>.
+This book, written in Korean, is aimed at advanced undergraduate and
+graduate students who are interested in nonparametric statistics.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-03-01
+</td>
+<td style="text-align:left;">
+Welcome Dr. Kipoong Kim to the lab! Dr. Kim from Pusan University will
+be supported by SSTF and investigate multi-source data analysis.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-01-12
+</td>
+<td style="text-align:left;">
+[Closed] I have an opening for a <a
+href="./papers/Wanted.html">postdoctoral researcher</a>.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2021-11-12
+</td>
+<td style="text-align:left;">
+<a href="./papers/EJS1945_DDP.pdf">A research paper</a> revealing double
+data piling phenomenon in high dimensional classification, and its
+relation to negatively ridged classifier, is accepted for publication in
+<em>Electronic Journal of Statistics</em>. This is jointly done with my
+former student Woonyoung Chang and my collaborator Jeongyoun Ahn. We
+were looking for a positve optimal ridge parameter, but found that our
+intuition was wrong! A few more papers will come out in this line of
+research.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2021-10-26
+</td>
+<td style="text-align:left;">
+<a href="./papers/35(1)-061_dp_histrogram.pdf">Juhee’s work</a> on
+differential privacy is accepted for publication in <em>Korean Journal
+of Applied Statistics</em>. This article is written in Korean, and
+discusses the use of bootstrap in testing equality of distributions
+based on privatized histograms.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2021-09-10
+</td>
+<td style="text-align:left;">
+I have received <a
+href="./pictures/2021_9_researchaward.PNG"><strong>Research
+Award</strong></a> from the College of Natural Science, Seoul National
+University. Thanks!
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2021-09-01
+</td>
+<td style="text-align:left;">
+Welcome Taehyun Kim, a new masters student, Dr. Jongkyeong Kang and
+Dr. Seung Woo Kwak to the lab. Dr. Kang from Korea Univ. will
+investigate multi-source data analysis problems (supported by SSTF) and
+Dr. Kwak from Univ. of Georgia will continue his research on data
+privacy (supported in part by BK21 and by NRF).
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2021-07-08
+</td>
+<td style="text-align:left;">
+After years of waiting, “Uniqueness questions in a scaling-rotation
+geometry on the space of symmetric positive-definite matrices” is
+accepted for publication in <em>Differential Geometry and its
+Applications</em>. This manuscript is part II of <a
+href="http://projecteuclid.org/euclid.ejs/1491292817">the 2017 EJS
+paper</a>, in which we addressed only 2 x 2 and 3 x 3 matrices. The
+current paper addresses dimensions <span class="math inline">\(p\ge
+4\)</span>. The link to this article is <a
+href="https://doi.org/10.1016/j.difgeo.2021.101798">here</a>.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2021-06-02
+</td>
+<td style="text-align:left;">
+An R package <a
+href="https://cran.r-project.org/web/packages/ClusTorus/index.html">ClusTorus</a>
+is available at CRAN. The contents in this package include the functions
+for the AOAS article (see below), and an improved, and extended, version
+of mixture model-based clustering for the multivariate angular data. All
+credits go to Seungki Hong. We are preparing an article introducing this
+R package and its use.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2021-03-22
+</td>
+<td style="text-align:left;">
+An article discussing clustering the dihedral angles on the torus is
+accepted for publication in <em>The Annals of Applied Statistics</em>
+(AOAS). This article stems from an undergraduate intern report by Kiho
+Park. With a help of Dr. Byungwon Kim (now at KNU), the article
+discusses methods of clustering on the torus, and reveals a difference
+among the clustering structures of glycoprotein backbone angles from
+SARS-CoV-2 and those from other strains of coronaviruses.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2021-03-03
+</td>
+<td style="text-align:left;">
+[Closed] I have an opening for a <a
+href="./papers/Wanted.html">postdoctoral researcher</a>, at least one
+new master’s student, and one new master-Ph.D combined student at my
+lab.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2021-03-03
+</td>
+<td style="text-align:left;">
+We have launched a new website for the lab: <a
+href="https://statlet.github.io">https://statlet.github.io</a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2021-01-23
+</td>
+<td style="text-align:left;">
+My paper “Geodesic projection of the von Mises-Fisher distribution for
+projection pursuit of directional data” <a
+href="https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-15/issue-1/Geodesic-projection-of-the-von-MisesFisher-distribution-for-projection-pursuit/10.1214/21-EJS1807.full">(link)</a>
+is accepted for publication in <em>Electronic Journal of
+Statistics</em>. This answers a fundamental question in directional
+statistics: If a von Mises-Fisher distributed random direction is
+projected onto a geodesic, it is still von Mises distributed?
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2020-12-19
+</td>
+<td style="text-align:left;">
+The manuscript <a
+href="https://arxiv.org/abs/2006.14831">“Covariance-engaged
+Classification of Sets via Linear Programming”</a> is accepted for
+publication in <em>Statistica Sinica</em>. This work studies sparse
+estimations for “set classification” and their theoretical properties.
+It was conceived by Xingye and myself about five years ago, but a real
+development began after Zhao joined the team.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2020-10-19
+</td>
+<td style="text-align:left;">
+I, Mark and Steve wrote a response to a letter to the editor in <em>The
+Annals of Applied Statistics</em> (AOAS). The letter comments on the EM
+algorithm we used in our 2011 AOAS paper. We thought a proper response
+was due. This letter will appear in AOAS. (It appeared in two months: <a
+href="http://dx.doi.org/10.1214/20-AOAS1411">Here</a> is the link.)
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2020-10-06
+</td>
+<td style="text-align:left;">
+I am selected to receive a prestigious five-year <a
+href="http://www.samsungstf.org/ssrfPr/researcher/viewResearcher.do?idx=444&amp;pageIndex=1&amp;searchCondition=all&amp;searchKeyword=%EC%A0%95%EC%84%B1%EA%B7%9C&amp;searchResearchProgram=%EA%B8%B0%EC%B4%88%EA%B3%BC%ED%95%99&amp;searchResearchDepth1=&amp;searchResearchDepth2=&amp;searchResearchBelong=&amp;searchResearchSelectYear=&amp;searchResearchState="><strong>research
+grant from Samsung Science &amp; Technology Foundation</strong></a>. The
+proposed topic is on generalizations of multi-source integrative factor
+models and statistical inference.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2020-09-22
+</td>
+<td style="text-align:left;">
+The manuscript “<a
+href="https://doi.org/10.5705/ss.202019.0400">Adjusting systematic bias
+in high dimensional principal component scores</a>,” written by myself
+is accepted for publication in <em>Statistica Sinica</em>.
+<em>Statistica Sinica</em> is notorious for its long interval between
+the acceptance and print.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2020-08-30
+</td>
+<td style="text-align:left;">
+A video explaining my research interest is on <a
+href="https://www.youtube.com/watch?v=WhlLZix8JPI">YouTube</a>. This is
+a part of the CNS series of promoting research agendas. Intended viewers
+are prospective graduate students.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2020-08-07
+</td>
+<td style="text-align:left;">
+The manuscript “<a
+href="https://doi.org/10.1111/biom.13352">Covariate-driven factorization
+by thresholding for multi-block data</a>” is accepted for publication in
+<em>Biometrics</em>. This work is written by Xing (my former PhD
+student), Sungwon (again my former PhD student), Gen and myself and is a
+major part of Xing’s doctoral dissertation.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2020-06-26
+</td>
+<td style="text-align:left;">
+The manuscript “Covariance-engaged Classification of Sets via Linear
+Programming” by Zhao, Xingye and myself is now on <a
+href="https://arxiv.org/abs/2006.14831">arXiv</a>.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2020-02-20
+</td>
+<td style="text-align:left;">
+The manuscript “Kurtosis test of modality for rotationally symmetric
+distributions on hyperspheres,” by Byungwon, Joern and myself, is
+accepted for publication in <em>The Journal of Multivariate
+Analysis</em>. <a
+href="https://www.sciencedirect.com/science/article/pii/S0047259X19306141">(link)</a>
+This work is part of Byungwon’s PhD dissertation, but changes since then
+are enormous. The issues addressed and raised in this paper lead to a
+promising research direction on projection pursuit for directional data.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2019-09-06
+</td>
+<td style="text-align:left;">
+I have received <a
+href="./pictures/2019_9_teaching_award.jpg"><strong>Excellence in
+Teaching Award</strong></a> from the College of Natural Science. Thanks!
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2019-08-08
+</td>
+<td style="text-align:left;">
+I am now an associate editor of <em>Computational Statistics &amp; Data
+Analysis</em>.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2019-02-20
+</td>
+<td style="text-align:left;">
+I am selected to receive a five-year <strong>mid-career research grant
+from National Research Foundation</strong>. The proposed topic is on
+high-dimensional and non-Euclidean statistics.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2018-12-18
+</td>
+<td style="text-align:left;">
+The manuscript “Small sphere distributions for directional data with
+application to medical imaging” by Stephan, Joern, Byungwon and myself
+is accepted for publication in <em>Scandinavian Journal of
+Statistics</em>. <a href="https://doi.org/10.1111/sjos.12381">(link)</a>
+This work began its life in 2015 from a query from Steve Marron (Is
+there a parametric distribution for small-circle behavior of data?).
+Stephan and I sent a preliminary version of this to a conference, then
+decided not to publish. Byungwon took over and has created a nice family
+of distributions on hyperspheres, called “Small sphere distributions”.
+This is a part of his PhD dissertation.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2018-10-30
+</td>
+<td style="text-align:left;">
+My contribution to the Korean Statistical Society newsletter is now in
+print. It’s about data science education (from the statistical
+perspective) and is written in Korean. You can see it <a
+href="http://www.kss.or.kr/bbs/board.php?bo_table=newsletter&amp;wr_id=113">here</a>
+but the online version is only for members.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2018-10-10
+</td>
+<td style="text-align:left;">
+As a new faculty member of Seoul National University, I did an interview
+introducing myself <a
+href="http://science.snu.ac.kr/bbs/view.php?board_id=kor_profnews&amp;idx=311&amp;m=4&amp;gul_no=6817&amp;page=1">(link)</a>.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2018-10-09
+</td>
+<td style="text-align:left;">
+The manuscript “Penalized Orthogonal Iteration for Sparse Estimation of
+Generalized Eigenvalue Problem” by Prfessors Jeon and Ahn, and myself,
+is accepted for publication in <em>Journal of Computational and
+Graphical Statistics</em>. <a
+href="https://doi.org/10.1080/10618600.2019.1568014">(link)</a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2018-09-01
+</td>
+<td style="text-align:left;">
+I have officially joined the department of Statistics at Seoul National
+University.
+</td>
+</tr>
+</tbody>
+</table>
+<div id="not-so-good-news" class="section level2">
+<h2>Not-so-good news</h2>
+<table class="table table-striped" style="width: auto !important; ">
+<thead>
+<tr>
+<th style="text-align:left;">
+Date
+</th>
+<th style="text-align:left;">
+Event
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+2022-11-17
+</td>
+<td style="text-align:left;">
+I was not selected to be a member of Young Korean Academy of Science and
+Technology. Disappointed, but okay.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-05-11
+</td>
+<td style="text-align:left;">
+My team and I were not selected to receive a research grant from IITP on
+an application of differential privacy. In addition, a different team
+including me was not selected to receive a basic research lab grant from
+NRF on the statistical foundation of differential privacy.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2020-10-22
+</td>
+<td style="text-align:left;">
+I have decided not to pursue a publication of Lee and Jung (2017). This
+paper is part of Sungwon’s doctoral dissertation, and has been
+considered for a couple of journals with mixed responses. The work has
+drawn some attention from researchers (with nontrivial Google Scholar
+citation numbers). The effort I need to put in to publish this in an
+established journal outweighs the merit of the paper. This paper will
+remain as an <a href="https://arxiv.org/abs/1603.01775">arXiv</a> paper.
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

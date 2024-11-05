@@ -46,7 +46,7 @@ David Groisser, Sungkyu Jung and Armin Schwartzman (2021). "Uniqueness questions
 
 Sungkyu Jung (2021). "Geodesic projection of the von Mises-Fisher distribution for projection pursuit of directional data", *Electronic Journal of Statistics* 15(1): 984-1033. [(link)](https://doi.org/10.1214/21-EJS1807)
 
-Byungwon Kim, Seonghong Kim, Woncheol Jang, Sungkyu Jung, Johan Lim (2021). "Estimation of the case fatality rate based on stratification for the COVID-19 outbreak,"  *PLoS One*. 16(2): e0246921. [(link)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0246921)  [(medRxiv)](https://www.medrxiv.org/content/10.1101/2020.05.23.20111484v1) with [web-based material](https://sungkyujung.github.io/covid19cfr/)
+Byungwon Kim, Seonghong Kim, Woncheol Jang, Sungkyu Jung, Johan Lim (2021). "Estimation of the case fatality rate based on stratification for the COVID-19 outbreak,"  *PLoS One*. 16(2): e0246921. [(link)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0246921)  [(medRxiv)](https://www.medrxiv.org/content/10.1101/2020.05.23.20111484v1)  
 
 Sungkyu Jung, Mark Foskey, and J. S. Marron (2020). "Response to `Fitting a folded normal distribution without EM'", *Annals of Applied Statistics*, Vol. 14, No. 4, 2099-2100.  [(link)](http://dx.doi.org/10.1214/20-AOAS1411) [(pdf)](papers/AOAS1411.pdf)
 

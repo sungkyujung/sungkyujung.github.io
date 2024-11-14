@@ -73,6 +73,9 @@ title: "Courses"
 
 ## Public lectures
 
+- "**엔지니어를 위한 데이터 문해력**" [(Slides)](./papers/Data_Literacy.pdf)
+  - JMP Discovery Summit Korea 2024 (Nov 2024)
+  
 - "**평균 낼 수 없는 것들의 통계**" [(Slides)](./papers/statistics_public_lecture_2022.pdf) 
   - 한국통계학회 공개강연 (June 2022)
   - 한국자료분석학회 초청강연 (Dec 2022)

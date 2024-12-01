@@ -5,14 +5,12 @@ output: html_document
 
 ### Postdoctoral researchers 
 
-- Dr. Sangil Han (Sep. 2024 - Jan. 2025)
+- Dr. [Minwoo Kim](https://sites.google.com/view/mwkim-stat) (Mar. 2025 - Feb. 2025)
 
 - Dr. Soyul Han (April 2024 - Feb. 2025)
 
 ### Graduate students 
-
-- [Minwoo Kim](https://sites.google.com/view/mwkim-stat), Ph.D. student 
-
+ 
 - Jaesung Park, Ph.D. student
 
 - Yongjae Kim, Ph.D. student  
@@ -40,13 +38,15 @@ See my lab [website](https://statlet.github.io) about research activities of the
 
 ## Former members 
 
-- Dr. Yangha Chung (March 2024 - Sep. 2025 )
+- [Minwoo Kim](https://sites.google.com/view/mwkim-stat), Ph.D. 2025. SNU. "Enhancing statistical utility in private multivariate statistics: Forcusing on contingency tables and principal component analysis", Postdoctoral researcher at my lab. 
+
+- Yangha Chung, Postdoctoral researcher, Mar. 2024 - Sep. 2024.
 
 - Donghyeok Jo, Ph.D. 2024. SNU. "Advances on Statistical Inferences for Riemannian Manifold-valued Data." Statistician at Samsung SDS.
 
 - Sujin Lee, Ph.D. 2024. SNU. "Variable Selection and Inference Strategies for Compositional Regressions." Statistician at LG Energy Solution.
 
-- Sangil Han, Ph.D. 2024. SNU. "Advances in supervised and unsupervised dimension reduction." Currently a postdoctoral researcher at my lab. 
+- Sangil Han, Ph.D. 2024. SNU. "Advances in supervised and unsupervised dimension reduction." Postdoctoral researcher at Texas A&M University. 
 
 - Seung Woo Kwak, Postdoctoral researcher, Sep. 2021 - Feb. 2024. Professor, Sungkonghoe University, Seoul, Korea.
 

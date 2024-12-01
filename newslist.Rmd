@@ -1,12 +1,16 @@
 # News
 
+2024-12-01. I am invited to give an invited talk at International Symposium on Theories, Methodologies and Applications for Large Complex Data, at Tsukuba, Japan, on Dec. 4-6. 
+
+2024-11-28. Congratulations to Dr. Minwoo Kim, who has successfully defended his PhD thesis "Enhancing statistical utility in private multivariate statistics: Forcusing on contingency tables and principal component analysis."
+
 2024-11-14. I gave a keynote speech at the JMP Discovery Summit Korea 2024 and am making [the slides](./papers/Data_Literacy.pdf) I used publicly available.
 
 2024-10-24. I am happy to announce that an UTFORSK grant from Norwegian Directorate for Higher Education and Skills is awarded for the full four years of 2025--2028. This project is to increase research and education activities in [Statistics of Complex Data (ScoDa)](https://espresso.diku.no/projects/?2&project=UTF-2024/10203) and is a joint grant between Universitetet i Stavanger (Professor Joern Schulz as PI) and SNU, as the main foreign partner. 
 
 2024-10-17. I am actively participating in the Interactions of Geometry and Statistics [(ISAG) II workshop](pictures/Group-2-22.10.2024-Yes.jpg), IMS, NUS, in Singapore from Oct. 17 to Oct. 25. 
 
-2024-10-16. I gave a talk on Differential Privacy at the Privacy Future Forum, hosted by Personal Information Protection Commission.  
+2024-10-16. I gave [a talk on Differential Privacy](https://youtu.be/wXpMeDbogd4?si=2rwnXShalUhwPctE) at the Privacy Future Forum, hosted by Personal Information Protection Commission.  
 
 2024-09-08. I gave a talk on Privacy Enhancing Technologies at the 13th National Statistics Development Forum. 
 

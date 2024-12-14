@@ -1,6 +1,8 @@
 # News
 
-2024-12-01. I am invited to give an invited talk at International Symposium on Theories, Methodologies and Applications for Large Complex Data, at Tsukuba, Japan, on Dec. 4-6. 
+2024-12-16. I am visiting Georgetown University and the National Cancer Institute in the Washington, DC area during the winter break. 
+
+2024-12-04. I have presented an invited talk at International Symposium on Theories, Methodologies and Applications for Large Complex Data, at Tsukuba, Japan, on Dec. 4-6. 
 
 2024-11-28. Congratulations to Dr. Minwoo Kim, who has successfully defended his PhD thesis "Enhancing statistical utility in private multivariate statistics: Forcusing on contingency tables and principal component analysis."
 
@@ -15,6 +17,8 @@
 2024-09-08. I gave a talk on Privacy Enhancing Technologies at the 13th National Statistics Development Forum. 
 
 2024-09-01. Welcome Jaeeun, Wooyeol and Jihyun to my lab!
+
+2024-09-01. I am serving as an associate chair for the statistics department, SNU. 
 
 2024-07-18. I am visiting the National Cancer Institute in the Washington, DC area during my summer break. 
 

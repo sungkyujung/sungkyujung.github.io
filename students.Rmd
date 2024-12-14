@@ -5,9 +5,9 @@ output: html_document
 
 ### Postdoctoral researchers 
 
-- Dr. [Minwoo Kim](https://sites.google.com/view/mwkim-stat) (Mar. 2025 - Feb. 2025)
+- Dr. [Minwoo Kim](https://sites.google.com/view/mwkim-stat) (Mar. 2025 - Feb. 2026)
 
-- Dr. Soyul Han (April 2024 - Feb. 2025)
+- Dr. Soyul Han (April 2024 - Feb. 2026)
 
 ### Graduate students 
  
@@ -29,9 +29,9 @@ output: html_document
 
 - Jaeeun Chang, Ph.D. student
 
-- 김우열, Masters student
+- Wooyeol Kim, Masters student
 
-- 유지현, Masters student
+- Jeehyun Yoo, Masters student
 
 See my lab [website](https://statlet.github.io) about research activities of these students.
 

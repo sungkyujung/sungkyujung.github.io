@@ -7,17 +7,19 @@ title: "Courses"
 ## Current courses at Seoul National University
 
  
-### Fall 2024
- 
-- Graduate Student Seminar (M1399.000800)
+### Spring 2025
 
-- Statistics (033.019, taught in English)
+- Research Methods and Statistics (M2480.002400, co-teaching with Prof. Kwonsang Lee)
+
+- Nonparametric Statistics and Labs (326.414) 
 
 ***
 
 ## Past courses 
 
 ### Seoul National University
+
+- Graduate Student Seminar (M1399.000800)
 
 - First Year Graduate Student Seminar (M0000.008700), Spring 2024.
 

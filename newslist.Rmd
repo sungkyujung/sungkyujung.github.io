@@ -1,5 +1,7 @@
 # News
 
+2024-12-17. A research article, titled "Inference on the shape of densities on Riemannian manifolds via SiZer," is accepted for a publication in *Journal of Korean Statistical Society*. This work is a part of Donghyeok's doctoral dissertation. 
+
 2024-12-16. I am visiting Georgetown University and the National Cancer Institute in the Washington, DC area during the winter break. 
 
 2024-12-04. I have presented an invited talk at International Symposium on Theories, Methodologies and Applications for Large Complex Data, at Tsukuba, Japan, on Dec. 4-6. 

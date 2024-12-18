@@ -1,5 +1,7 @@
 # NotYetPrinted
 
+Donghyeok Jo and Sungkyu Jung (2024+). "Inference on the shape of densities on Riemannian manifolds via SiZer", accepted for publication in *Journal of Korean Statistical Society*. [(software)](https://github.com/sungkyujung/SiZer_manifold)
+
 Sungkyu Jung, Brian Rooks, David Groisser and Armin Schwartzman (2024+).  "Averaging symmetric positive-definite matrices on the space of eigen-decompositions", accepted for publication in *Bernoulli*. [(arXiv)](https://arxiv.org/abs/2306.12025)
 
 # Published
@@ -108,8 +110,6 @@ Minwoo Kim and Sungkyu Jung, "Robust and efficient differentially private PCA fo
 Sujin Lee and Sungkyu Jung, "Debiased Group Lasso for Multi-Site Compositional Data: Applications in Human Microbiome Research," manuscript.
 
 Jongmin Lee and Sungkyu Jung, "Huber means on Riemannian manifolds," manuscript. [(arXiv)](https://arxiv.org/abs/2407.15764)
-
-Donghyeok Jo and Sungkyu Jung "Inference on the shape of densities on Riemannian manifolds via SiZer", manuscript. [(software)](https://github.com/sungkyujung/SiZer_manifold)
 
 Jaesung Park and Sungkyu Jung, "Strong law of large numbers for the generalized Frechet means with random minimizing domains", manuscript.  [(arXiv)](https://arxiv.org/abs/2311.10958)
 

@@ -1,5 +1,7 @@
 # NotYetPrinted
 
+Minwoo Kim, Sangil Han, Jeongyoun Ahn and Sungkyu Jung (2025+). "Variable selection and basis learning for ordinal classification," accepted for publication in *Journal of Journal of Computational and Graphical Statistics*. [(arXiv)](https://arxiv.org/abs/2208.10690) 
+
 Donghyeok Jo and Sungkyu Jung (2024+). "Inference on the shape of densities on Riemannian manifolds via SiZer", accepted for publication in *Journal of Korean Statistical Society*. [(software)](https://github.com/sungkyujung/SiZer_manifold)
 
 Sungkyu Jung, Brian Rooks, David Groisser and Armin Schwartzman (2024+).  "Averaging symmetric positive-definite matrices on the space of eigen-decompositions", accepted for publication in *Bernoulli*. [(arXiv)](https://arxiv.org/abs/2306.12025)
@@ -118,8 +120,6 @@ Jaesung Park and Sungkyu Jung, "Wasserstein-Quantile PCA", manuscript in progres
 Minwoo Kim, Jonghyeok Lee, Seung Woo Kwak, and Sungkyu Jung, "Differentially Private Multivariate Statistics with an Application to Contingency Table Analysis," manuscript. [(arXiv)](https://arxiv.org/abs/2211.15019)
 
 Taehyun Kim, Jeongyoun Ahn and Sungkyu Jung. "Double Data Piling for Heterogeneous Covariance Models," manuscript. [(arXiv)](https://arxiv.org/abs/2211.15562)
-
-Minwoo Kim, Sangil Han, Jeongyoun Ahn and Sungkyu Jung. "Variable selection and basis learning for ordinal classification," manuscript. [(arXiv)](https://arxiv.org/abs/2208.10690)
 
 SeoWon Choi and Sungkyu Jung. "Integrative decomposition of multi-source data by identifying partially-joint score subspaces," manuscript. [(arXiv)](https://arxiv.org/abs/2203.14041)
 

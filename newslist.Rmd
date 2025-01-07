@@ -1,5 +1,9 @@
 # News
 
+2025-01-06. Minwoo and Sangil's work on variable selection and basis learning for ordinal classification is finally accepted for publication in *JCGS*. This work extends sparse multi-class LDA, with ingenious use of ordinal weights, consistently identifying variables with ordinal information. 
+
+2024-12-20. I am appointed to serve as the Director of Academic Affairs for Korean Statistical Society (2025--2026). 
+
 2024-12-17. A research article, titled "Inference on the shape of densities on Riemannian manifolds via SiZer," is accepted for a publication in *Journal of Korean Statistical Society*. This work is a part of Donghyeok's doctoral dissertation. 
 
 2024-12-16. I am visiting Georgetown University and the National Cancer Institute in the Washington, DC area during the winter break. 
@@ -20,7 +24,7 @@
 
 2024-09-01. Welcome Jaeeun, Wooyeol and Jihyun to my lab!
 
-2024-09-01. I am serving as an associate chair for the statistics department, SNU. 
+2024-09-01. I am serving as an associate chair for the department of statistics, Seoul National University. 
 
 2024-07-18. I am visiting the National Cancer Institute in the Washington, DC area during my summer break. 
 

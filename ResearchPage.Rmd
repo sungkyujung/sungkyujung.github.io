@@ -97,6 +97,8 @@ tmp <- Sys.setlocale("LC_TIME", "C")
 
 ## Selected Service
 
+- Director of Academic Affairs, Korean Statistical Society, 2025--2026.
+- Associate Chair, Department of Statistics, Seoul National University, 2024--2026.
 - Deputy Director, SNU Center for LAMP Project, 2023-
 - Associate Editor, Computational Statistics and Data Analysis, 2019-
 - Associate Editor, Journal of Nonparametric Statistics, 2017-

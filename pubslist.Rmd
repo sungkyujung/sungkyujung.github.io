@@ -1,6 +1,6 @@
 # NotYetPrinted
 
-Minwoo Kim, Sangil Han, Jeongyoun Ahn and Sungkyu Jung (2025+). "Variable selection and basis learning for ordinal classification," accepted for publication in *Journal of Journal of Computational and Graphical Statistics*. [(arXiv)](https://arxiv.org/abs/2208.10690) 
+Minwoo Kim, Sangil Han, Jeongyoun Ahn and Sungkyu Jung (2025+). "Variable selection and basis learning for ordinal classification," accepted for publication in *Journal of Computational and Graphical Statistics*. [(arXiv)](https://arxiv.org/abs/2208.10690) [(link)](https://doi.org/10.1080/10618600.2025.2451680)
 
 Donghyeok Jo and Sungkyu Jung (2024+). "Inference on the shape of densities on Riemannian manifolds via SiZer", accepted for publication in *Journal of Korean Statistical Society*. [(software)](https://github.com/sungkyujung/SiZer_manifold)
 

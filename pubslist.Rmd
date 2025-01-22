@@ -1,8 +1,10 @@
 # NotYetPrinted
 
+Sangil Han, Kyoowon Kim and Sungkyu Jung (2025), "Subspace Recovery in Winsorized PCA: Insights into Accuracy and Robustness," accepted for AISTATS 2025. 
+
 Minwoo Kim, Sangil Han, Jeongyoun Ahn and Sungkyu Jung (2025+). "Variable selection and basis learning for ordinal classification," accepted for publication in *Journal of Computational and Graphical Statistics*. [(arXiv)](https://arxiv.org/abs/2208.10690) [(link)](https://doi.org/10.1080/10618600.2025.2451680)
 
-Donghyeok Jo and Sungkyu Jung (2024+). "Inference on the shape of densities on Riemannian manifolds via SiZer", accepted for publication in *Journal of Korean Statistical Society*. [(software)](https://github.com/sungkyujung/SiZer_manifold)
+Donghyeok Jo and Sungkyu Jung (2024+). "Inference on the shape of densities on Riemannian manifolds via SiZer", accepted for publication in *Journal of Korean Statistical Society*. [(pdf)](https://rdcu.be/d6Yh9) [(link)](https://link.springer.com/article/10.1007/s42952-024-00301-3) [(software)](https://github.com/sungkyujung/SiZer_manifold)
 
 Sungkyu Jung, Brian Rooks, David Groisser and Armin Schwartzman (2024+).  "Averaging symmetric positive-definite matrices on the space of eigen-decompositions", accepted for publication in *Bernoulli*. [(arXiv)](https://arxiv.org/abs/2306.12025)
 
@@ -10,7 +12,7 @@ Sungkyu Jung, Brian Rooks, David Groisser and Armin Schwartzman (2024+).  "Avera
 
 Kipoong Kim, Jaesung Park, and Sungkyu Jung (2024), "Principal component analysis for zero-inflated compositional data",  *Computational Statistics and Data Analysis* 198, October, 107989. [(link)](https://doi.org/10.1016/j.csda.2024.107989) [(software)](https://github.com/statpng/CompositionalPCA)
 
-Taehyun Kim, Woonyoung Chang, Jeongyoun Ahn, and Sungkyu Jung (2024), "Double Data Piling: A High-Dimensional Solution for Asymptotically Perfect Multi-Category Classification"*Journal of Korean Statistical Society* 53, 704-737. [(link)](https://doi.org/10.1007/s42952-024-00263-6)
+Taehyun Kim, Woonyoung Chang, Jeongyoun Ahn, and Sungkyu Jung (2024), "Double Data Piling: A High-Dimensional Solution for Asymptotically Perfect Multi-Category Classification"*Journal of Korean Statistical Society* 53, 704-737. [(link)](https://doi.org/10.1007/s42952-024-00263-6) [(pdf)](https://rdcu.be/dDBld)
 
 Sangil Han, Kyoowon Kim and Sungkyu Jung (2024), "Robust SVD Made Easy: A fast and reliable algorithm for large-scale data analysis," Proceedings of The 27th *Int. Conf. Artif. Intell. Statist.*  (AISTATS 2024), PMLR 238:1765-1773. [(arXiv)](https://arxiv.org/abs/2402.09754) [(pdf)](https://proceedings.mlr.press/v238/han24a/han24a.pdf)
 
@@ -20,7 +22,7 @@ Sangil Han, Minwoo Kim, Sungkyu Jung and Jeongyoun Ahn (2024). "Sparse Ordinal D
 
 Seung Woo Kwak and Sungkyu Jung (2024). "Highly-private large-sample tests for contingency tables", *Stat* 13:e658 [(link)](https://doi.org/10.1002/sta4.658) [(pdf)](./papers/Highlyprivatetables.pdf)
 
-Kipoong Kim and Sungkyu Jung (2024). "Integrative sparse reduced-rank regression via orthogonal rotation for analysis of high-dimensional multi-source data,"  *Statistics and Computing* 34,    #2. [(link)](https://doi.org/10.1007/s11222-023-10322-3) [(paper)](https://rdcu.be/doVUF)  [(software)](https://github.com/statpng/iSRRR)
+Kipoong Kim and Sungkyu Jung (2024). "Integrative sparse reduced-rank regression via orthogonal rotation for analysis of high-dimensional multi-source data,"  *Statistics and Computing* 34,    #2. [(link)](https://doi.org/10.1007/s11222-023-10322-3) [(pdf)](https://rdcu.be/doVUF)  [(software)](https://github.com/statpng/iSRRR)
 
 Changjo Yu, Sungkyu Jung and Jisu Kim (2023), "Significance of Modes in the Torus by Topological Data Analysis,"  *Stat*  12:e636 [(link)](https://doi.org/10.1002/sta4.636)
 
@@ -104,8 +106,6 @@ Sungkyu Jung and J. S. Marron (2009). "PCA consistency in High dimension, low sa
 
 
 # WorkinProgress
-
-Sangil Han, Kyoowon Kim and Sungkyu Jung, "Subspace Recovery in Winsorized PCA: Insights into Accuracy and Robustness," manuscript. 
 
 Minwoo Kim and Sungkyu Jung, "Robust and efficient differentially private PCA for non-Gaussian data," manuscript.
 

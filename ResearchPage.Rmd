@@ -97,11 +97,12 @@ tmp <- Sys.setlocale("LC_TIME", "C")
 
 ## Selected Service
 
+- Member of the 2025 Future Forum on Personal Information, Personal Information Protection Commission of Korea, 2025.
 - Director of Academic Affairs, Korean Statistical Society, 2025--2026.
 - Associate Chair, Department of Statistics, Seoul National University, 2024--2026.
-- Deputy Director, SNU Center for LAMP Project, 2023-
-- Associate Editor, Computational Statistics and Data Analysis, 2019-
-- Associate Editor, Journal of Nonparametric Statistics, 2017-
+- Deputy Director, SNU Center for LAMP Project, 2023--2028.
+- Associate Editor, Computational Statistics and Data Analysis, 2019--
+- Associate Editor, Journal of Nonparametric Statistics, 2017--
 - Associate Editor, Journal of Korean Statistical Society, 2014-
 <!-- - Associate Liaison to National Institute of Statistical Science, 2015-2018 -->
 - Graduate Director, Department of Statistics, University of Pittsburgh, 2017--2018.

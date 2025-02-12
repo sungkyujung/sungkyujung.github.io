@@ -6,9 +6,9 @@ Minwoo Kim, Sangil Han, Jeongyoun Ahn and Sungkyu Jung (2025+). "Variable select
 
 Donghyeok Jo and Sungkyu Jung (2024+). "Inference on the shape of densities on Riemannian manifolds via SiZer", accepted for publication in *Journal of Korean Statistical Society*. [(pdf)](https://rdcu.be/d6Yh9) [(link)](https://link.springer.com/article/10.1007/s42952-024-00301-3) [(software)](https://github.com/sungkyujung/SiZer_manifold)
 
-Sungkyu Jung, Brian Rooks, David Groisser and Armin Schwartzman (2024+).  "Averaging symmetric positive-definite matrices on the space of eigen-decompositions", accepted for publication in *Bernoulli*. [(arXiv)](https://arxiv.org/abs/2306.12025)
-
 # Published
+
+Sungkyu Jung, Brian Rooks, David Groisser and Armin Schwartzman (2025).  "Averaging symmetric positive-definite matrices on the space of eigen-decompositions", *Bernoulli*, 31(2), 1552-1578. [(pdf)](./papers/BEJ1783.pdf) [(link)](http://dx.doi.org/10.3150/24-BEJ1783) [(arXiv)](https://arxiv.org/abs/2306.12025)
 
 Kipoong Kim, Jaesung Park, and Sungkyu Jung (2024), "Principal component analysis for zero-inflated compositional data",  *Computational Statistics and Data Analysis* 198, October, 107989. [(link)](https://doi.org/10.1016/j.csda.2024.107989) [(software)](https://github.com/statpng/CompositionalPCA)
 

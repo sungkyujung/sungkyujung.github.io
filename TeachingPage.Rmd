@@ -11,8 +11,6 @@ title: "Courses"
 
 - Research Methods and Statistics (M2480.002400, co-teaching with Prof. Kwonsang Lee)
 
-- Nonparametric Statistics and Labs (326.414) 
-
 ***
 
 ## Past courses 

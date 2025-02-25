@@ -1,6 +1,7 @@
 # NotYetPrinted
 
-Sangil Han, Kyoowon Kim and Sungkyu Jung (2025), "Subspace Recovery in Winsorized PCA: Insights into Accuracy and Robustness," accepted for AISTATS 2025. 
+Sangil Han, Kyoowon Kim and Sungkyu Jung (2025), "Subspace Recovery in Winsorized PCA: Insights into Accuracy and Robustness," accepted for AISTATS 2025. [(arXiv)](
+https://arxiv.org/pdf/2502.16391)
 
 Minwoo Kim, Sangil Han, Jeongyoun Ahn and Sungkyu Jung (2025+). "Variable selection and basis learning for ordinal classification," accepted for publication in *Journal of Computational and Graphical Statistics*. [(arXiv)](https://arxiv.org/abs/2208.10690) [(link)](https://doi.org/10.1080/10618600.2025.2451680)
 

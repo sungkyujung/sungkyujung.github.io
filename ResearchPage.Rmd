@@ -60,6 +60,7 @@ tmp <- Sys.setlocale("LC_TIME", "C")
 
 ## Honors 
 
+- Education Award, College of Natural Science, SNU, Mar. 2025.
 - Research Award, College of Natural Science, SNU, Sep. 2021.
 - Excellence in Teaching Award, College of Natural Science, SNU, Sep. 2019.
 - Early Career Development Award, Korean International Statistical Society, 2016.

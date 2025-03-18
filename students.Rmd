@@ -7,7 +7,7 @@ output: html_document
 
 - Dr. [Minwoo Kim](https://sites.google.com/view/mwkim-stat) (Mar. 2025 - Feb. 2026)
 
-- Dr. Soyul Han (April 2024 - Feb. 2026)
+- Dr. Changjun Lim, Mar. 2025 -- 
 
 ### Graduate students 
  
@@ -19,26 +19,34 @@ output: html_document
 
 - Giheon Seong, Ph.D. student
 
+- Chihoon Lee, Ph.D. student
+
+- Jaeeun Chang, Ph.D. student
+
+- Jiwoo Kim, Ph.D. student
+
 - DongSun Yoon, Masters student 
 
 - Seongjae Cho, Masters student
 
 - Jeehyun Hwang, Masters student
 
-- Chihoon Lee, Ph.D. student
-
-- Jaeeun Chang, Ph.D. student
-
 - Wooyeol Kim, Masters student
 
 - Jeehyun Yoo, Masters student
+
+- Yejin Jo, Masters student
+
+- Jeongmin Ko, Masters student
 
 See my lab [website](https://statlet.github.io) about research activities of these students.
 
 
 ## Former members 
 
-- [Minwoo Kim](https://sites.google.com/view/mwkim-stat), Ph.D. 2025. SNU. "Enhancing statistical utility in private multivariate statistics: Forcusing on contingency tables and principal component analysis", Postdoctoral researcher at my lab. 
+- Soyul Han, Postdoctoral researcher, April 2024 - Feb. 2025. Professor, Hannam University, Daejeon, Korea.
+
+- [Minwoo Kim](https://sites.google.com/view/mwkim-stat), Ph.D. 2025. SNU. "Enhancing statistical utility in private multivariate statistics: Focusing on contingency tables and principal component analysis", currently a postdoctoral researcher at my lab. 
 
 - Yangha Chung, Postdoctoral researcher, Mar. 2024 - Sep. 2024.
 

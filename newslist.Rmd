@@ -1,5 +1,7 @@
 # News
 
+2025-03-20. The third edition of the classical statistics textbook ["일반통계학 (Foundations of Statistics)"](https://product.kyobobook.co.kr/detail/S000215917049) is now on sale. I coauthored this book with my colleagues from the department.
+
 2025-03-07. I have received **Education Award** from the College of Natural Science, Seoul National University. Thanks!
 
 2025-03-04. After a long wait, my research article on [DP multivariate statistics](https://arxiv.org/abs/2211.15019), with Minwoo, Jongheoyk and Seungwoo, is now accepted for publication in *EJS*. This work has revealed several interesting facts on the differential privacy, including that the multivariate Laplace additive mechanism has higher utility under low privacy levels of GDP. 

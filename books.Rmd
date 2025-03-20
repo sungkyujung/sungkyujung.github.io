@@ -22,3 +22,13 @@ title: "Books"
   - [Errata](./papers/npbook_errata.pdf)
     
 <img src="pictures/npbook_promotion.jpg" alt="book art" width="400"/>
+
+
+<h4 id="FoS">2. 서울대학교 통계학과, **일반통계학** 3판, 한빛아카데미, 2025. </h4>
+
+  - Department of Statistics, Seoul National University, *Foundations of Statistics*, 3rd Ed., Hanbit Academy, 2025.
+  - This book, written in Korean, is the third edition of the classical statistics textbook. 
+   - Paperback and eBook are on [sale](https://product.kyobobook.co.kr/detail/S000215917049). 
+    
+<img src="pictures/9791173400254.jpg" alt="book art" width="400"/>
+

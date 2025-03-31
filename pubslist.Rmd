@@ -1,8 +1,6 @@
 # NotYetPrinted
 
-Minwoo Kim, Jonghyeok Lee, Seung Woo Kwak, and Sungkyu Jung (2025), "Differentially Private Multivariate Statistics with an Application to Contingency Table Analysis," accepted for publication in *Electronic Journal of Statistics* [(arXiv)](https://arxiv.org/abs/2211.15019)
-
-Sangil Han, Kyoowon Kim and Sungkyu Jung (2025), "Subspace Recovery in Winsorized PCA: Insights into Accuracy and Robustness," accepted for AISTATS 2025. [(arXiv)](https://arxiv.org/pdf/2502.16391)
+Sangil Han, Kyoowon Kim and Sungkyu Jung (2025). "Subspace Recovery in Winsorized PCA: Insights into Accuracy and Robustness," accepted for AISTATS 2025. [(arXiv)](https://arxiv.org/pdf/2502.16391)
 
 Minwoo Kim, Sangil Han, Jeongyoun Ahn and Sungkyu Jung (2025+). "Variable selection and basis learning for ordinal classification," accepted for publication in *Journal of Computational and Graphical Statistics*. [(arXiv)](https://arxiv.org/abs/2208.10690) [(link)](https://doi.org/10.1080/10618600.2025.2451680)
 
@@ -10,13 +8,17 @@ Donghyeok Jo and Sungkyu Jung (2025). "Inference on the shape of densities on Ri
 
 # Published
 
+Min-Jeong Park and Sungkyu Jung (2025). "Design and Operation of Multi-Party Feature Store (MPFS) for Secure and Privacy-Preserving Data Integration and Utilization," *Journal of The Korean Official Statistics* 30(1) 28-60. [(pdf)](./papers/MPFS.pdf) (This article is written in Korean.) 
+
+Minwoo Kim, Jonghyeok Lee, Seung Woo Kwak, and Sungkyu Jung (2025). "Differentially Private Multivariate Statistics with an Application to Contingency Table Analysis," *Electronic Journal of Statistics* 19(1) 1507-1569.  [(arXiv)](https://arxiv.org/abs/2211.15019) [(link)](https://doi.org/10.1214/25-EJS2368)
+
 Sungkyu Jung, Brian Rooks, David Groisser and Armin Schwartzman (2025).  "Averaging symmetric positive-definite matrices on the space of eigen-decompositions", *Bernoulli*, 31(2), 1552-1578. [(pdf)](./papers/BEJ1783.pdf) [(link)](http://dx.doi.org/10.3150/24-BEJ1783) [(arXiv)](https://arxiv.org/abs/2306.12025)
 
-Kipoong Kim, Jaesung Park, and Sungkyu Jung (2024), "Principal component analysis for zero-inflated compositional data",  *Computational Statistics and Data Analysis* 198, October, 107989. [(link)](https://doi.org/10.1016/j.csda.2024.107989) [(software)](https://github.com/statpng/CompositionalPCA)
+Kipoong Kim, Jaesung Park, and Sungkyu Jung (2024). "Principal component analysis for zero-inflated compositional data",  *Computational Statistics and Data Analysis* 198, October, 107989. [(link)](https://doi.org/10.1016/j.csda.2024.107989) [(software)](https://github.com/statpng/CompositionalPCA)
 
-Taehyun Kim, Woonyoung Chang, Jeongyoun Ahn, and Sungkyu Jung (2024), "Double Data Piling: A High-Dimensional Solution for Asymptotically Perfect Multi-Category Classification"*Journal of Korean Statistical Society* 53, 704-737. [(link)](https://doi.org/10.1007/s42952-024-00263-6) [(pdf)](https://rdcu.be/dDBld)
+Taehyun Kim, Woonyoung Chang, Jeongyoun Ahn, and Sungkyu Jung (2024). "Double Data Piling: A High-Dimensional Solution for Asymptotically Perfect Multi-Category Classification" *Journal of Korean Statistical Society* 53, 704-737. [(link)](https://doi.org/10.1007/s42952-024-00263-6) [(pdf)](https://rdcu.be/dDBld)
 
-Sangil Han, Kyoowon Kim and Sungkyu Jung (2024), "Robust SVD Made Easy: A fast and reliable algorithm for large-scale data analysis," Proceedings of The 27th *Int. Conf. Artif. Intell. Statist.*  (AISTATS 2024), PMLR 238:1765-1773. [(arXiv)](https://arxiv.org/abs/2402.09754) [(pdf)](https://proceedings.mlr.press/v238/han24a/han24a.pdf)
+Sangil Han, Kyoowon Kim and Sungkyu Jung (2024). "Robust SVD Made Easy: A fast and reliable algorithm for large-scale data analysis," Proceedings of The 27th *Int. Conf. Artif. Intell. Statist.*  (AISTATS 2024), PMLR 238:1765-1773. [(arXiv)](https://arxiv.org/abs/2402.09754) [(pdf)](https://proceedings.mlr.press/v238/han24a/han24a.pdf)
 
 Sujin Lee and Sungkyu Jung (2024). "Variable Selection and Inference Strategies for Multiple Compositional Regression," *Chemometrics and Intelligent Laboratory Systems* 248, May, 105121. [(link)](https://doi.org/10.1016/j.chemolab.2024.105121)
 

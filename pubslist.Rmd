@@ -111,13 +111,15 @@ Sungkyu Jung and J. S. Marron (2009). "PCA consistency in High dimension, low sa
 
 # WorkinProgress
 
-Minwoo Kim and Sungkyu Jung, "Robust and efficient differentially private PCA for non-Gaussian data," manuscript.
+Dongsun Yoon and Sungkyu Jung, "Adaptive Reference-Guided Estimation of Principal Component Subspace in High Dimensions," manuscript. 
 
-Sujin Lee and Sungkyu Jung, "Debiased Group Lasso for Multi-Site Compositional Data: Applications in Human Microbiome Research," manuscript.
+Minwoo Kim and Sungkyu Jung, "Robust and differentially private PCA for non-Gaussian data," manuscript.
+
+Sujin Lee and Sungkyu Jung, "Debiased Group Lasso for Multiple Compositional Data," manuscript.
 
 Jongmin Lee and Sungkyu Jung, "Huber means on Riemannian manifolds," manuscript. [(arXiv)](https://arxiv.org/abs/2407.15764)
 
-Jaesung Park and Sungkyu Jung, "Strong law of large numbers for the generalized Frechet means with random minimizing domains", manuscript.  [(arXiv)](https://arxiv.org/abs/2311.10958)
+Jaesung Park and Sungkyu Jung, "Generalized Frechet means with random minimizing domains and its strong consistency", manuscript.  [(arXiv)](https://arxiv.org/abs/2311.10958)
 
 Jaesung Park and Sungkyu Jung, "Wasserstein-Quantile PCA", manuscript in progress
 

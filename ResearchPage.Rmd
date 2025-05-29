@@ -70,8 +70,6 @@ tmp <- Sys.setlocale("LC_TIME", "C")
 
 ## Grants
 
-- PI, NRF Humanities Korea 3.0 project, 2025-2031.
-
 - co-PI, HK-dir UTFORSK on SCoDa, Norway (UTF-2024/10203), 2025-2028.
 
 - PI, NRF Mid-Career Researcher Program (RS-2024-00333399), 2024-2029.

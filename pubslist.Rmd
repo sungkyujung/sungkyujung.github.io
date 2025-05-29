@@ -4,9 +4,9 @@ Sangil Han, Kyoowon Kim and Sungkyu Jung (2025). "Subspace Recovery in Winsorize
 
 Minwoo Kim, Sangil Han, Jeongyoun Ahn and Sungkyu Jung (2025+). "Variable selection and basis learning for ordinal classification," accepted for publication in *Journal of Computational and Graphical Statistics*. [(arXiv)](https://arxiv.org/abs/2208.10690) [(link)](https://doi.org/10.1080/10618600.2025.2451680)
 
-Donghyeok Jo and Sungkyu Jung (2025). "Inference on the shape of densities on Riemannian manifolds via SiZer", accepted for publication in *Journal of Korean Statistical Society*. [(pdf)](https://rdcu.be/d6Yh9) [(link)](https://link.springer.com/article/10.1007/s42952-024-00301-3) [(software)](https://github.com/sungkyujung/SiZer_manifold)
-
 # Published
+
+Donghyeok Jo and Sungkyu Jung (2025). "Inference on the shape of densities on Riemannian manifolds via SiZer",  *Journal of Korean Statistical Society*, 54, 442-477. [(pdf)](https://rdcu.be/d6Yh9) [(link)](https://link.springer.com/article/10.1007/s42952-024-00301-3) [(software)](https://github.com/sungkyujung/SiZer_manifold)
 
 Min-Jeong Park and Sungkyu Jung (2025). "Design and Operation of Multi-Party Feature Store (MPFS) for Secure and Privacy-Preserving Data Integration and Utilization," *Journal of The Korean Official Statistics* 30(1) 28-60. [(pdf)](./papers/MPFS.pdf) (This article is written in Korean.) 
 

@@ -108,8 +108,9 @@ Sungkyu Jung, Mark Foskey and J. S. Marron (2010), discussion on "Intrinsic shap
 
 Sungkyu Jung and J. S. Marron (2009). "PCA consistency in High dimension, low sample size context". *The Annals of Statistics* 37, 4104-4130. [(pdf)](http://www.stat.pitt.edu/sungkyu/papers/AOS709.pdf) [(link)](https://projecteuclid.org/euclid.aos/1256303538)
 
-
 # WorkinProgress
+
+David Groisser, Sungkyu Jung, and Armin Schwartzman."A scaling-rotation metric on the space of symmetric positive-definite matrices, I: Existence," manuscript.
 
 Dongsun Yoon and Sungkyu Jung, "Adaptive Reference-Guided Estimation of Principal Component Subspace in High Dimensions," manuscript. 
 

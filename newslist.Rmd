@@ -1,5 +1,7 @@
 # News
 
+2025-06-10. Congratulations to Dr. Jaesung Park, who has successfully defended his PhD thesis "Sequential Dimension Reduction for Non-Euclidean data and its Strong Consistency."
+
 2025-03-20. The third edition of the classical statistics textbook ["일반통계학 (Foundations of Statistics)"](https://product.kyobobook.co.kr/detail/S000215917049) is now on sale. I coauthored this book with my colleagues from the department.
 
 2025-03-07. I have received **Education Award** from the College of Natural Science, Seoul National University. Thanks!

@@ -9,10 +9,10 @@ output: html_document
 
 - Dr. Changjun Lim, Mar. 2025 -- 
 
+- Dr. Jaesung Park. Sep 2025 -- 
+
 ### Graduate students 
  
-- Jaesung Park, Ph.D. student
-
 - Yongjae Kim, Ph.D. student  
 
 - Kyoowon Kim, Ph.D. student
@@ -25,11 +25,9 @@ output: html_document
 
 - Jiwoo Kim, Ph.D. student
 
-- DongSun Yoon, Masters student 
+- Seongjae Cho, Ph.D. student
 
-- Seongjae Cho, Masters student
-
-- Jeehyun Hwang, Masters student
+- Jeehyun Hwang, Ph.D. student
 
 - Wooyeol Kim, Masters student
 
@@ -43,6 +41,10 @@ See my lab [website](https://statlet.github.io) about research activities of the
 
 
 ## Former members 
+
+- Jaesung Park, Ph.D. 2025. SNU "Sequential Dimension Reduction for Non-Euclidean data and its Strong Consistency", Post-doc at my lab. 
+
+- DongSun Yoon, MS. 2025. SNU. Advanced to PhD program at University of Michigan.
 
 - Soyul Han, Postdoctoral researcher, April 2024 - Feb. 2025. Professor, Hannam University, Daejeon, Korea.
 

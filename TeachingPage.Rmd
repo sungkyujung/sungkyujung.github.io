@@ -9,7 +9,9 @@ title: "Courses"
  
 ### Spring 2025
 
-- Research Methods and Statistics (M2480.002400, co-teaching with Prof. Kwonsang Lee)
+- Graduate Student Seminar (M1399.000800) 
+
+- Statistics (033.019, taught in English)
 
 ***
 
@@ -17,7 +19,7 @@ title: "Courses"
 
 ### Seoul National University
 
-- Graduate Student Seminar (M1399.000800)
+- Graduate Student Seminar (M1399.000800), Fall 2024, 2025.
 
 - First Year Graduate Student Seminar (M0000.008700), Spring 2024.
 
@@ -37,7 +39,7 @@ title: "Courses"
 
 - Statistics (033.019) and Lab (033.020). Spring 2019, 2020.
 
-- Statistics (033.019, taught in English). Fall 2023, 2024.
+- Statistics (033.019, taught in English). Fall 2023, 2024, 2025.
 
 - Statistics on Manifolds (Graduate-level topic course). [Fall 2018](https://piazza.com/snu.ac.kr/fall2018/326631a/resources) (326.631A), Spring 2023 (326.621A).
 

@@ -1,5 +1,7 @@
 # NotYetPrinted
 
+Dongsun Yoon and Sungkyu Jung (2025). "Adaptive Reference-Guided Estimation of Principal Component Subspace in High Dimensions," accepted for publication in *Stat*.
+
 Sangil Han, Kyoowon Kim and Sungkyu Jung (2025). "Subspace Recovery in Winsorized PCA: Insights into Accuracy and Robustness," accepted for AISTATS 2025. [(arXiv)](https://arxiv.org/pdf/2502.16391)
 
 Minwoo Kim, Sangil Han, Jeongyoun Ahn and Sungkyu Jung (2025+). "Variable selection and basis learning for ordinal classification," accepted for publication in *Journal of Computational and Graphical Statistics*. [(arXiv)](https://arxiv.org/abs/2208.10690) [(link)](https://doi.org/10.1080/10618600.2025.2451680)
@@ -111,8 +113,6 @@ Sungkyu Jung and J. S. Marron (2009). "PCA consistency in High dimension, low sa
 # WorkinProgress
 
 David Groisser, Sungkyu Jung, and Armin Schwartzman."A scaling-rotation metric on the space of symmetric positive-definite matrices, I: Existence," manuscript.
-
-Dongsun Yoon and Sungkyu Jung, "Adaptive Reference-Guided Estimation of Principal Component Subspace in High Dimensions," manuscript. 
 
 Minwoo Kim and Sungkyu Jung, "Robust and differentially private PCA for non-Gaussian data," manuscript.
 

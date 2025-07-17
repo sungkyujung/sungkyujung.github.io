@@ -1,12 +1,12 @@
 # NotYetPrinted
 
-Dongsun Yoon and Sungkyu Jung (2025). "Adaptive Reference-Guided Estimation of Principal Component Subspace in High Dimensions," accepted for publication in *Stat*.
-
-Sangil Han, Kyoowon Kim and Sungkyu Jung (2025). "Subspace Recovery in Winsorized PCA: Insights into Accuracy and Robustness," accepted for AISTATS 2025. [(arXiv)](https://arxiv.org/pdf/2502.16391)
-
 Minwoo Kim, Sangil Han, Jeongyoun Ahn and Sungkyu Jung (2025+). "Variable selection and basis learning for ordinal classification," accepted for publication in *Journal of Computational and Graphical Statistics*. [(arXiv)](https://arxiv.org/abs/2208.10690) [(link)](https://doi.org/10.1080/10618600.2025.2451680)
 
 # Published
+
+Dongsun Yoon and Sungkyu Jung (2025). "Adaptive Reference-Guided Estimation of Principal Component Subspace in High Dimensions," *Stat* 14:e70081 [(link)](https://doi.org/10.1002/sta4.70081)
+
+Sangil Han, Kyoowon Kim and Sungkyu Jung (2025). "Subspace Recovery in Winsorized PCA: Insights into Accuracy and Robustness," Proceedings of The 28th *Int. Conf. Artif. Intell. Statist.*  (AISTATS 2025), PMLR 258:3061-3069 [(arXiv)](https://arxiv.org/pdf/2502.16391) [(pdf)](https://raw.githubusercontent.com/mlresearch/v258/main/assets/han25c/han25c.pdf)
 
 Donghyeok Jo and Sungkyu Jung (2025). "Inference on the shape of densities on Riemannian manifolds via SiZer",  *Journal of Korean Statistical Society*, 54, 442-477. [(pdf)](https://rdcu.be/d6Yh9) [(link)](https://link.springer.com/article/10.1007/s42952-024-00301-3) [(software)](https://github.com/sungkyujung/SiZer_manifold)
 

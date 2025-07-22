@@ -1,5 +1,7 @@
 # NotYetPrinted
 
+Sujin Lee and Sungkyu Jung (2025+). "Debiased Group Lasso for Multiple Compositional Data," accepted for publication in *Annals of the Institute of Statistical Mathematics*.
+
 Minwoo Kim, Sangil Han, Jeongyoun Ahn and Sungkyu Jung (2025+). "Variable selection and basis learning for ordinal classification," accepted for publication in *Journal of Computational and Graphical Statistics*. [(arXiv)](https://arxiv.org/abs/2208.10690) [(link)](https://doi.org/10.1080/10618600.2025.2451680)
 
 # Published
@@ -114,9 +116,7 @@ Sungkyu Jung and J. S. Marron (2009). "PCA consistency in High dimension, low sa
 
 David Groisser, Sungkyu Jung, and Armin Schwartzman."A scaling-rotation metric on the space of symmetric positive-definite matrices, I: Existence," manuscript.
 
-Minwoo Kim and Sungkyu Jung, "Robust and differentially private PCA for non-Gaussian data," manuscript.
-
-Sujin Lee and Sungkyu Jung, "Debiased Group Lasso for Multiple Compositional Data," manuscript.
+Minwoo Kim and Sungkyu Jung, "Robust and differentially private PCA for non-Gaussian data," manuscript. [(arXiv)](https://arxiv.org/abs/2507.15232)
 
 Jongmin Lee and Sungkyu Jung, "Huber means on Riemannian manifolds," manuscript. [(arXiv)](https://arxiv.org/abs/2407.15764)
 

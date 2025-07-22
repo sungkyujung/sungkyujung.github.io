@@ -1,5 +1,7 @@
 # News
 
+2025-07-18. The last piece of the endeavors on multiple compositional regressions is now accepted for publication in *Annals of the Institute of Statistical Mathematics*. This work is on the group-wise significance tests utilizing a newly-developed grouped-debiasing procedure for multiple compositional regression models, and was a part of Sujin's dissertation. 
+
 2025-06-29. A research paper on adaptive reference-guided estimation of high-dimensional PC subspace is accepted for publication in *Stat*. This work constitutes Dongsun's masters thesis. 
 
 2025-06-10. Congratulations to Dr. Jaesung Park, who has successfully defended his PhD thesis "Sequential Dimension Reduction for Non-Euclidean data and its Strong Consistency."

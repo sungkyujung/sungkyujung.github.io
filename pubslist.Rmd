@@ -116,17 +116,21 @@ Sungkyu Jung and J. S. Marron (2009). "PCA consistency in High dimension, low sa
 
 # WorkinProgress
 
+Jongmin Lee and Sungkyu Jung. "General M-estimators of location on Riemannian manifolds: existence and uniqueness," manuscript.
+
+Kyungjin Shin, Hyunsu Yu, Yongjae Kim, Giheon Seong, Changwon Yoon, Jeongyoun Ahn, Sungkyu Jung and Cheolwoo Park, "A Comprehensive Analysis of Utility and Disclosure Risk Metrics for Synthetic Data," manuscript. 
+
 Minwoo Kim, Junyong Park and Sungkyu Jung, "Enhanced Differentially Private Mechanisms via Empirical Bayes," manuscript. 
 
 David Groisser, Sungkyu Jung, and Armin Schwartzman."A scaling-rotation metric on the space of symmetric positive-definite matrices, I: Existence," manuscript.
 
 Minwoo Kim and Sungkyu Jung, "Robust and differentially private PCA for non-Gaussian data," manuscript. [(arXiv)](https://arxiv.org/abs/2507.15232)
 
-Jaesung Park and Sungkyu Jung, "Generalized Frechet means with random minimizing domains and its strong consistency", manuscript.  [(arXiv)](https://arxiv.org/abs/2311.10958)
+Jaesung Park and Sungkyu Jung, "Generalized Frechet means with random minimizing domains and its strong consistency", manuscript. (An old version is available at [arXiv](https://arxiv.org/abs/2311.10958).) 
 
 Jaesung Park and Sungkyu Jung, "Wasserstein-Quantile PCA", manuscript in progress
 
-Taehyun Kim, Jeongyoun Ahn and Sungkyu Jung. "Double Data Piling for Heterogeneous Covariance Models," manuscript. [(arXiv)](https://arxiv.org/abs/2211.15562)
+Taehyun Kim, Jeongyoun Ahn and Sungkyu Jung. "Optimal Test-Data Piling in HDLSS Classification with Covariance Heterogeneity," manuscript. (An old version is available at [arXiv](https://arxiv.org/abs/2211.15562).)
 
 SeoWon Choi and Sungkyu Jung. "Integrative decomposition of multi-source data by identifying partially-joint score subspaces," manuscript. [(arXiv)](https://arxiv.org/abs/2203.14041)
 

@@ -1,6 +1,6 @@
 # NotYetPrinted
 
-Jongmin Lee and Sungkyu Jung (2025+), "Huber means on Riemannian manifolds," accepted for publication in *Journal of the Royal Statistical Society: Series B*. [(arXiv)](https://arxiv.org/abs/2407.15764)
+Jongmin Lee and Sungkyu Jung (2025+), "Huber means on Riemannian manifolds," accepted for publication in *Journal of the Royal Statistical Society: Series B*. [(link)](https://doi.org/10.1093/jrsssb/qkaf054) [(arXiv)](https://arxiv.org/abs/2407.15764)
 
 Sujin Lee and Sungkyu Jung (2025+). "Debiased Group Lasso for Multiple Compositional Data," accepted for publication in *Annals of the Institute of Statistical Mathematics*.
 

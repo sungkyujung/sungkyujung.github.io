@@ -1,6 +1,10 @@
 # News
 
-2025-07-29. An article scrutinizing mathematical, computational and statistical aspects of ``Huber means on Riemannian manifolds'' is now accepted for publication in *JRSS-B*. Kudos to Jongmin Lee at Pusan National University, my collaborator and the lead author on this! 
+2025-08-28. I have been named the **2025 Korea Statistician of the Year** in recognition of my outstanding contributions to the field of statistics in Korea and internationally.
+
+2025-08-28. I am participating in [the **National Statistics Development Forum**](https://forumkostat.kr/) as an invited session chair. This marks my third consecutive year at the event, having served as an invited speaker in the previous two forums.
+
+2025-07-29. An article scrutinizing mathematical, computational and statistical aspects of [``Huber means on Riemannian manifolds''](https://doi.org/10.1093/jrsssb/qkaf054) is now accepted for publication in *JRSS-B*. Kudos to Jongmin Lee at Pusan National University, my collaborator and the lead author on this! 
 
 2025-07-18. The last piece of the endeavors on multiple compositional regressions is now accepted for publication in *Annals of the Institute of Statistical Mathematics*. This work is on the group-wise significance tests utilizing a newly-developed grouped-debiasing procedure for multiple compositional regression models, and was a part of Sujin's dissertation. 
 

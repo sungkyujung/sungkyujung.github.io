@@ -116,7 +116,9 @@ Sungkyu Jung and J. S. Marron (2009). "PCA consistency in High dimension, low sa
 
 # WorkinProgress
 
-Jongmin Lee and Sungkyu Jung. "General M-estimators of location on Riemannian manifolds: existence and uniqueness," manuscript.
+Jongmin Lee and Sungkyu Jung. "On the Kolmogorov-Feller weak law of large numbers for Fréchet mean on non-compact symmetric spaces" manuscript.
+
+Jongmin Lee and Sungkyu Jung. "General M-estimators of location on Riemannian manifolds: existence and uniqueness," manuscript. [(arXiv)](https://www.arxiv.org/abs/2508.16149)
 
 Kyungjin Shin, Hyunsu Yu, Yongjae Kim, Giheon Seong, Changwon Yoon, Jeongyoun Ahn, Sungkyu Jung and Cheolwoo Park, "A Comprehensive Analysis of Utility and Disclosure Risk Metrics for Synthetic Data," manuscript. 
 

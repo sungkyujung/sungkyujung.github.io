@@ -6,7 +6,7 @@
 
 2025-07-29. An article scrutinizing mathematical, computational and statistical aspects of [``Huber means on Riemannian manifolds''](https://doi.org/10.1093/jrsssb/qkaf054) is now accepted for publication in *JRSS-B*. Kudos to Jongmin Lee at Pusan National University, my collaborator and the lead author on this! 
 
-2025-07-18. The last piece of the endeavors on multiple compositional regressions is now accepted for publication in *Annals of the Institute of Statistical Mathematics*. This work is on the group-wise significance tests utilizing a newly-developed grouped-debiasing procedure for multiple compositional regression models, and was a part of Sujin's dissertation. 
+2025-07-18. The last piece of the endeavors on multiple compositional regressions is now accepted for publication in *Annals of the Institute of Statistical Mathematics*. [This work](https://link.springer.com/article/10.1007/s10463-025-00956-7) is on the group-wise significance tests utilizing a newly-developed grouped-debiasing procedure for multiple compositional regression models, and was a part of Sujin's dissertation. 
 
 2025-06-29. A research paper on adaptive reference-guided estimation of high-dimensional PC subspace is accepted for publication in *Stat*. This work constitutes Dongsun's masters thesis. 
 

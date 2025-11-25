@@ -1,5 +1,7 @@
 # NotYetPrinted
 
+Minwoo Kim and Sungkyu Jung (2025+), "Robust and Differentially Private Principal Component Analysis," accepted for *Statistical Analysis and Data Mining*. [(arXiv)](https://arxiv.org/abs/2507.15232)
+
 Jongmin Lee and Sungkyu Jung (2025+), "Huber means on Riemannian manifolds," accepted for publication in *Journal of the Royal Statistical Society: Series B*. [(link)](https://doi.org/10.1093/jrsssb/qkaf054) [(arXiv)](https://arxiv.org/abs/2407.15764)
 
 Sujin Lee and Sungkyu Jung (2025+). "Debiased Group Lasso for Multiple Compositional Data," accepted for publication in *Annals of the Institute of Statistical Mathematics*. [(link)](https://link.springer.com/article/10.1007/s10463-025-00956-7)
@@ -125,8 +127,6 @@ Kyungjin Shin, Hyunsu Yu, Yongjae Kim, Giheon Seong, Changwon Yoon, Jeongyoun Ah
 Minwoo Kim, Junyong Park and Sungkyu Jung, "Enhanced Differentially Private Mechanisms via Empirical Bayes," manuscript. 
 
 David Groisser, Sungkyu Jung, and Armin Schwartzman."A scaling-rotation metric on the space of symmetric positive-definite matrices, I: Existence," manuscript.
-
-Minwoo Kim and Sungkyu Jung, "Robust and differentially private PCA for non-Gaussian data," manuscript. [(arXiv)](https://arxiv.org/abs/2507.15232)
 
 Jaesung Park and Sungkyu Jung, "Generalized Frechet means with random minimizing domains and its strong consistency", manuscript. (An old version is available at [arXiv](https://arxiv.org/abs/2311.10958).) 
 

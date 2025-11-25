@@ -1,5 +1,9 @@
 # News
 
+2025-11-25. A research article on robust and differentially private PCA is now accepted for publication in *Statistical Analysis and Data Mining*. This is a joint work with Minwoo and exploits robustness properties of generalized Kendall's tau to ensure efficient calibration for differential privacy. 
+
+2025-11-19. I gave a talk at [Conference on Geometry and Statistics](https://cmsa.fas.harvard.edu/event/geostat_2025/) at Harvard CMSA. 
+
 2025-10-02. Here is a [link to a video clip](./visuals/38a06510-202f-49ad-b35b-ddbbc7e22199_combined.mp4), explaining Frechet means on curved spaces and their genericity property. This video clip was created by Knowlify, based on [this work.](https://arxiv.org/abs/2309.13823)
 
 2025-09-16. I was a [panelist](./pictures/2189FABD-A74E-4646-9820-44DE28F3380D_1_105_c.jpeg) in a discussion at the Global Privacy Assembly 2025, and [spoke](./pictures/ACE6A96C-D444-4295-A670-582BE871F58E_1_105_c.jpeg) about Korea’s efforts of synthetic data generation and utilization, emphasizing how synthetic data can serve as a bridge between privacy regulations and the growing demand for high-quality data in the era of artificial intelligence. 

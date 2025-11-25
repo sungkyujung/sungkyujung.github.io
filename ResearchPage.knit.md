@@ -8,24 +8,16 @@ params:
 ---
 
 
-<!--html_preserve-->
-<style type="text/css">
-ul.CV {
-list-style-type: none;
-}
-</style>
-<!--/html_preserve-->
+preserve6f4610c8c2a27802
  
-```{r echo=FALSE, eval = TRUE}
-tmp <- Sys.setlocale("LC_TIME", "C")
-```
+
 
 <ul class="CV">
-<li><i class="fa fa-home" aria-hidden="true"></i>  `r paste(" ",params$address)`</li>
-<li><i class="fa fa-envelope-o" aria-hidden="true"></i>  `r paste(" ",params$email)`</li>
-<li><i class="fa fa-mobile" aria-hidden="true"></i>  `r paste(" ",params$telephone)`</li>
-<li><i class="fa fa-globe" aria-hidden="true"></i>  [`r paste(" ",params$website)`](`r params$website`)</li>
-<li><i class="fa fa-clock-o" aria-hidden="true"></i> Last Updated: `r paste(" ",format(Sys.Date(), "%B %d, %Y"))`</li>
+<li><i class="fa fa-home" aria-hidden="true"></i>    Department of Statistics, Seoul National University, Building 25 Room 436, 1 Gwanak-ro, Gwanak-gu, Seoul 08826, Korea</li>
+<li><i class="fa fa-envelope-o" aria-hidden="true"></i>    sungkyu@snu.ac.kr</li>
+<li><i class="fa fa-mobile" aria-hidden="true"></i>    +82-2-880-6578</li>
+<li><i class="fa fa-globe" aria-hidden="true"></i>  [  https://jung.snu.ac.kr/](https://jung.snu.ac.kr/)</li>
+<li><i class="fa fa-clock-o" aria-hidden="true"></i> Last Updated:   November 25, 2025</li>
 </ul>
 
 

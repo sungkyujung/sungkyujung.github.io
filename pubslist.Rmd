@@ -1,14 +1,16 @@
 # NotYetPrinted
 
-Minwoo Kim and Sungkyu Jung (2025+), "Robust and Differentially Private Principal Component Analysis," accepted for *Statistical Analysis and Data Mining*. [(arXiv)](https://arxiv.org/abs/2507.15232)
+Jaesung Park and Sungkyu Jung (2025+), "Generalized Frechet means with random minimizing domains and its strong consistency", accepted for publication in *Biometrika*.  [(arXiv)](https://arxiv.org/abs/2311.10958)
 
 Jongmin Lee and Sungkyu Jung (2025+), "Huber means on Riemannian manifolds," accepted for publication in *Journal of the Royal Statistical Society: Series B*. [(link)](https://doi.org/10.1093/jrsssb/qkaf054) [(arXiv)](https://arxiv.org/abs/2407.15764)
 
 Sujin Lee and Sungkyu Jung (2025+). "Debiased Group Lasso for Multiple Compositional Data," accepted for publication in *Annals of the Institute of Statistical Mathematics*. [(link)](https://link.springer.com/article/10.1007/s10463-025-00956-7)
 
-Minwoo Kim, Sangil Han, Jeongyoun Ahn and Sungkyu Jung (2025+). "Variable selection and basis learning for ordinal classification," accepted for publication in *Journal of Computational and Graphical Statistics*. [(arXiv)](https://arxiv.org/abs/2208.10690) [(link)](https://doi.org/10.1080/10618600.2025.2451680)
-
 # Published
+
+Minwoo Kim and Sungkyu Jung (2025), "Robust and Differentially Private Principal Component Analysis," *Statistical Analysis and Data Mining: An ASA Data Science Journal*. 18(6) e70053. [(link)](http://dx.doi.org/10.1002/sam.70053) [(arXiv)](https://arxiv.org/abs/2507.15232) 
+
+Minwoo Kim, Sangil Han, Jeongyoun Ahn and Sungkyu Jung (2025). "Variable selection and basis learning for ordinal classification,"  *Journal of Computational and Graphical Statistics* 34(4) 1432-1445. [(arXiv)](https://arxiv.org/abs/2208.10690) [(link)](https://doi.org/10.1080/10618600.2025.2451680)
 
 Dongsun Yoon and Sungkyu Jung (2025). "Adaptive Reference-Guided Estimation of Principal Component Subspace in High Dimensions," *Stat* 14:e70081 [(link)](https://doi.org/10.1002/sta4.70081)
 
@@ -118,17 +120,15 @@ Sungkyu Jung and J. S. Marron (2009). "PCA consistency in High dimension, low sa
 
 # WorkinProgress
 
-Jongmin Lee and Sungkyu Jung. "On the Kolmogorov-Feller weak law of large numbers for Frechet mean on non-compact symmetric spaces," manuscript. [arXiv](https://www.arxiv.org/abs/2509.02074)
+Jongmin Lee and Sungkyu Jung. "On the Kolmogorov-Feller weak law of large numbers for Frechet mean on non-compact symmetric spaces," manuscript. [(arXiv)](https://www.arxiv.org/abs/2509.02074)
 
-Jongmin Lee and Sungkyu Jung. "General M-estimators of location on Riemannian manifolds: existence and uniqueness," manuscript. [arXiv](https://www.arxiv.org/abs/2508.16149)
+Jongmin Lee and Sungkyu Jung. "General M-estimators of location on Riemannian manifolds: existence and uniqueness," manuscript. [(arXiv)](https://www.arxiv.org/abs/2508.16149)
 
 Kyungjin Shin, Hyunsu Yu, Yongjae Kim, Giheon Seong, Changwon Yoon, Jeongyoun Ahn, Sungkyu Jung and Cheolwoo Park, "A Comprehensive Analysis of Utility and Disclosure Risk Metrics for Synthetic Data," manuscript. 
 
 Minwoo Kim, Junyong Park and Sungkyu Jung, "Enhanced Differentially Private Mechanisms via Empirical Bayes," manuscript. 
 
 David Groisser, Sungkyu Jung, and Armin Schwartzman."A scaling-rotation metric on the space of symmetric positive-definite matrices, I: Existence," manuscript.
-
-Jaesung Park and Sungkyu Jung, "Generalized Frechet means with random minimizing domains and its strong consistency", manuscript. (An old version is available at [arXiv](https://arxiv.org/abs/2311.10958).) 
 
 Jaesung Park and Sungkyu Jung, "Wasserstein-Quantile PCA", manuscript in progress
 

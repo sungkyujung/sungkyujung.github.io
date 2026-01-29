@@ -1,5 +1,7 @@
 # News
 
+2026-01-29. Meet the ‘Huber mean’ at [Significance](https://academic.oup.com/jrssig/article/23/1/2/8380137)!
+
 2025-12-19. The department of Statistics and Institute for Data Innovation in Science of Seoul National University are co-hosting the 2025 Winter Conference of Korean Statistical Society on December 19--20, 2025 at Seoul National University. 
 
 2025-12-15. Jaesung's work on important extensions of Frechet means, called a generalized Frechet mean (GFM) framework, is accepted for publication in *Biometrika*. This is a general tool to establish consistency of a number of complex estimators in rather general metric spaces, such as sequential dimension reduction and $k$-medoids clustering. Check out our arXiv version [here](https://arxiv.org/abs/2311.10958). 

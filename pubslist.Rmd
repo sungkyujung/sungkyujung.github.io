@@ -1,6 +1,6 @@
 # NotYetPrinted
 
-Jaesung Park and Sungkyu Jung (2025+), "Generalized Frechet means with random minimizing domains and its strong consistency", accepted for publication in *Biometrika*.  [(arXiv)](https://arxiv.org/abs/2311.10958)
+Jaesung Park and Sungkyu Jung (2026+), "Generalized Frechet means with random minimizing domains and its strong consistency", accepted for publication in *Biometrika*. [(link)](https://doi.org/10.1093/biomet/asag002) [(arXiv)](https://arxiv.org/abs/2311.10958)
 
 Jongmin Lee and Sungkyu Jung (2025+), "Huber means on Riemannian manifolds," accepted for publication in *Journal of the Royal Statistical Society: Series B*. [(link)](https://doi.org/10.1093/jrsssb/qkaf054) [(arXiv)](https://arxiv.org/abs/2407.15764)
 
@@ -119,6 +119,10 @@ Sungkyu Jung, Mark Foskey and J. S. Marron (2010), discussion on "Intrinsic shap
 Sungkyu Jung and J. S. Marron (2009). "PCA consistency in High dimension, low sample size context". *The Annals of Statistics* 37, 4104-4130. [(pdf)](http://www.stat.pitt.edu/sungkyu/papers/AOS709.pdf) [(link)](https://projecteuclid.org/euclid.aos/1256303538)
 
 # WorkinProgress
+
+Yongjae Kim, Haeun Moon and Sungkyu Jung. "An Association Measure for Mixed-Types Variables," manuscript. 
+
+Chihoon Lee, Sungkyu Jung and Hyokyung G. Hong. "Predicting current outcomes from historical survey data with weighted conformal prediction," manuscript.  
 
 Jongmin Lee and Sungkyu Jung. "On the Kolmogorov-Feller weak law of large numbers for Frechet mean on non-compact symmetric spaces," manuscript. [(arXiv)](https://www.arxiv.org/abs/2509.02074)
 

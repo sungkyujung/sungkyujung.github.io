@@ -5,16 +5,16 @@ output: html_document
 
 ### Postdoctoral researchers 
 
-- Dr. [Minwoo Kim](https://sites.google.com/view/mwkim-stat) (Mar. 2025 - Feb. 2026)
+- Dr. [Minwoo Kim](https://sites.google.com/view/mwkim-stat) Mar. 2025 - 
 
 - Dr. Changjun Lim, Mar. 2025 -- 
 
 - Dr. Jaesung Park. Sep 2025 -- 
 
+- Dr. Yongjae Kim. Mar. 2026 --
+
 ### Graduate students 
  
-- Yongjae Kim, Ph.D. student  
-
 - Kyoowon Kim, Ph.D. student
 
 - Giheon Seong, Ph.D. student
@@ -35,12 +35,14 @@ output: html_document
 
 - Yejin Jo, Masters student
 
-- Jeongmin Ko, Masters student
+- Jeongmin Go, Masters student
 
 See my lab [website](https://statlet.github.io) about research activities of these students.
 
 
 ## Former members 
+
+- Yongjae Kim, Ph.D. 2026. SNU "Nonparametric Association Measures for Mixed-Type Data with Multivariate and Conditional Extensions". Post-doc at my lab. 
 
 - Jaesung Park, Ph.D. 2025. SNU "Sequential Dimension Reduction for Non-Euclidean data and its Strong Consistency", Post-doc at my lab. 
 

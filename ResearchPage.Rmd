@@ -116,7 +116,7 @@ tmp <- Sys.setlocale("LC_TIME", "C")
 
 - Deputy Director, SNU Center for LAMP Project, 2023--2028.
 
-- Associate Editor, Computational Statistics and Data Analysis, 2019--
+- Associate Editor, Computational Statistics and Data Analysis, 2019--2026
 
 - Associate Editor, Journal of Nonparametric Statistics, 2017--
 

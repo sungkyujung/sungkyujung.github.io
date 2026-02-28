@@ -76,7 +76,7 @@ tmp <- Sys.setlocale("LC_TIME", "C")
 
 - Wassily Hoeffding Award, Statistics and Operations Research, University of North Carolina, 2007
 
-## Grants
+## Research Grants
 
 - co-PI, HK-dir UTFORSK on SCoDa, Norway (UTF-2024/10203), 2025-2028.
 
@@ -103,6 +103,14 @@ tmp <- Sys.setlocale("LC_TIME", "C")
 - PI, Hewlett International Grants, UCIS, University of Pittsburgh, 2012, 2013, 2016.
 
 - Co-I, NIH (NCI) 5R01CA159471-03, 2011-2014.
+
+## Industry Collaboration
+
+- PI, Advanced Research on xAI for Personal Credit Evaluation, Korea Credit Bureau and KB Kookmin Card, 2026.
+
+- PI, Development of Anonymity Evaluation Criteria for Synthetic Data, Financial Security Institute, 2023.
+
+- PI, Curriculum Development for Professional Data Analysis Training, Begas Co., Ltd., 2023-2024.
 
 ## Selected Service
 

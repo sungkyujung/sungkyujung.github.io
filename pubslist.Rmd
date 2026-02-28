@@ -122,6 +122,8 @@ Sungkyu Jung and J. S. Marron (2009). "PCA consistency in High dimension, low sa
 
 # WorkinProgress
 
+Jihyun Ryu, Jongmin Lee and Sungkyu Jung. "M-estimation on Riemannian Manifolds: Robustness, Efficiency and Applications to Directional Statistics," manuscript. 
+
 Yongjae Kim, Haeun Moon and Sungkyu Jung. "An Association Measure for Mixed-Types Variables," manuscript. 
 
 Chihoon Lee, Sungkyu Jung and Hyokyung G. Hong. "Predicting current outcomes from historical survey data with weighted conformal prediction," manuscript.  

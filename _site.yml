@@ -1,5 +1,7 @@
 name: "Sungkyu_Jung"
 output_dir: "docs"
+include:
+  - ".htaccess"
 navbar:
   title: "Sungkyu Jung"
   left:

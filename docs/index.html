@@ -36,6 +36,11 @@
 <link href="site_libs/font-awesome-6.5.2/css/v4-shims.min.css" rel="stylesheet" />
 <meta name="referrer" content="strict-origin-when-cross-origin">
 
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self' 'unsafe-inline';">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+ 
+
 <style type="text/css">
   code{white-space: pre-wrap;}
   span.smallcaps{font-variant: small-caps;}
@@ -346,16 +351,22 @@ $(document).ready(function () {
 }
 </style>
 
- 
+<style>
+  .profile-img {
+    width: 250px !important;
+    vertical-align: middle;
+    margin: 0px 20px;
+    float: left; /* align="left" 대신 사용 */
+  }
+</style>
 
 <div class="jumbotron">
-    <img src="jung2024s.jpg" align="left" style="vertical-align:middle;margin:0px 20px;width:250px;"">
+    <img src="jung2024s.jpg" class="profile-img">
     <div class="container">
-      <!-- <h1 class="display-3">Sungkyu Jung</h1>--> 
       <p>Professor of Statistics</p>
       <p>Seoul National University</p>
       <p>Interested in statistical theory and methods for Non-Euclidean, High-Dimensional data analysis, and Data Privacy </p>
-      <p><a class="btn btn-primary btn-lg" href="pubs.html" role="button">My publications</a>
+      <p><a class="btn btn-primary btn-lg" href="pubs.html" role="button">Publications</a>
       <a class="btn btn-primary btn-lg" href="TeachingPage.html" role="button">Courses</a>
       <a class="btn btn-primary btn-lg" href="https://statlet.github.io" role="button">Lab</a></p>
      

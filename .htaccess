@@ -1,0 +1,10 @@
+<IfModule mod_headers.c>
+    # Referrer-Policy 설정
+    Header set Referrer-Policy "strict-origin-when-cross-origin"
+
+    # CSP 설정 (이미지 크기 문제 해결을 위해 unsafe-inline 포함)
+    Header set Content-Security-Policy "default-src 'self'; style-src 'self' 'unsafe-inline';"
+
+    # X-Frame-Options (보고서에서 지적된 다른 이슈 해결)
+    Header set X-Frame-Options "SAMEORIGIN"
+</IfModule>

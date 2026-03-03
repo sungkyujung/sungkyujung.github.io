@@ -1,0 +1,38 @@
+/* 1. 상단 바 가려짐 해결 및 기본 여백 초기화 */
+body {
+  padding-top: 70px !important;
+  margin: 0;
+}
+
+/* 2. 제목 위치 조정 (가장자리 여백 확보) */
+h1.title {
+  margin-top: 20px !important;
+  margin-bottom: 20px !important;
+  padding-left: 15px; /* 왼쪽 끝에 너무 붙지 않게 조정 */
+}
+
+/* 3. 컨테이너 너비 최적화 */
+.main-container {
+  max-width: 1140px !important; /* 너무 퍼지지 않게 표준 너비 유지 */
+  margin: 0 auto !important;    /* 수평 중앙 정렬 */
+}
+
+/* 4. 점보트론(프로필 영역) 여백 제거 */
+.jumbotron {
+  padding: 30px !important;
+  margin-bottom: 30px !important;
+  border-radius: 6px;
+  /* 왼쪽 빈칸이 많다면 아래 설정 추가 */
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+/* 5. 모바일 대응 */
+@media (max-width: 768px) {
+  body { padding-top: 60px !important; }
+  .profile-img {
+    float: none !important;
+    display: block;
+    margin: 0 auto 20px auto !important;
+  }
+}

@@ -1,5 +1,5 @@
 ---
-title: "Sungkyu Jung"
+title: "Sungkyu Jung (정성규)"
 ---
 
 ```{r setup, include=FALSE}

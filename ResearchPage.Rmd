@@ -7,13 +7,6 @@ params:
    website: https://jung.snu.ac.kr/
 ---
 
-
-<!--html_preserve-->
-<style type="text/css">
-ul.CV {
-list-style-type: none;
-}
-</style>
 <!--/html_preserve-->
  
 ```{r echo=FALSE, eval = TRUE}

@@ -1,6 +1,6 @@
 # News
 
-2026-03-04. Join us in **Seoul in 2026, June 25th - 27th**, for the [**SCoDA workshop on Statistics for Complex Data**](https://indico2.uis.no/event/61/overview), a global forum bringing together researchers and practitioners to discuss methodologies and challenges in non-linear and geometric statistics, including shape analysis, topological data analysis (TDA), and high-dimensional, low-sample-size (HDLSS) settings.
+2026-03-04. Join us in **Seoul in 2026, June 25th - 27th**, for the [**SCoDA workshop on Statistics for Complex Data**](https://indico2.uis.no/event/61/overview), a global forum bringing together researchers and practitioners to discuss methodologies and challenges in non-linear and geometric statistics, including shape analysis, topological data analysis (TDA), and high-dimensional, low-sample-size (HDLSS) settings. Prior to the workshop, a **Complex Data School will be held from June 24th to 25th**, offering focused training in shape and geometric statistics for Master’s and PhD students.
 
 2026-02-02. An article revealing general conditions for existence and uniqueness of M-functionals and M-estimators on Riemannian manifolds, joint work with Dr. Jongmin Lee, is published in [*SPL*.](https://doi.org/10.1016/j.spl.2026.110670)
 

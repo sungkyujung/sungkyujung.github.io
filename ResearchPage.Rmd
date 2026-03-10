@@ -71,11 +71,11 @@ tmp <- Sys.setlocale("LC_TIME", "C")
 
 ## Research Grants
 
-- co-PI, HK-dir UTFORSK on SCoDa, Norway (UTF-2024/10203), 2025-2028.
+- co-PI, [HK-dir UTFORSK on SCoDa](https://www.uis.no/en/research/statistics-on-complex-data-scoda#/), Norway (UTF-2024/10203), 2025-2028.
 
 - PI, NRF Mid-Career Researcher Program (RS-2024-00333399), 2024-2029.
 
-- co-I, NRF LAMP project (RS-2023-00301976), 2023-2028. 
+- co-I, [NRF LAMP project (RS-2023-00301976)](https://snulamp.snu.ac.kr/), 2023-2028. 
 
 - co-PI, NRF Basic Research Lab grant (RS-2023-00218231), 2023-2026. 
 

@@ -1,12 +1,12 @@
 # NotYetPrinted
 
-Jaesung Park and Sungkyu Jung (2026+), "Generalized Frechet means with random minimizing domains and its strong consistency", accepted for publication in *Biometrika*. [(link)](https://doi.org/10.1093/biomet/asag002) [(arXiv)](https://arxiv.org/abs/2311.10958)
-
-Jongmin Lee and Sungkyu Jung (2025+), "Huber means on Riemannian manifolds," accepted for publication in *Journal of the Royal Statistical Society: Series B*. [(link)](https://doi.org/10.1093/jrsssb/qkaf054) [(arXiv)](https://arxiv.org/abs/2407.15764)
-
-Sujin Lee and Sungkyu Jung (2025+). "Debiased Group Lasso for Multiple Compositional Data," accepted for publication in *Annals of the Institute of Statistical Mathematics*. [(link)](https://link.springer.com/article/10.1007/s10463-025-00956-7)
+Sujin Lee and Sungkyu Jung (2026). "Debiased Group Lasso for Multiple Compositional Data," accepted for publication in *Annals of the Institute of Statistical Mathematics*. [(link)](https://link.springer.com/article/10.1007/s10463-025-00956-7)
 
 # Published
+
+Jaesung Park and Sungkyu Jung (2026), "Generalized Frechet means with random minimizing domains and its strong consistency", *Biometrika*. 113(1), asag002. [(link)](https://doi.org/10.1093/biomet/asag002) [(arXiv)](https://arxiv.org/abs/2311.10958)
+
+Jongmin Lee and Sungkyu Jung (2026), "Huber means on Riemannian manifolds," *Journal of the Royal Statistical Society: Series B*. 88(2), 444-463. [(link)](https://doi.org/10.1093/jrsssb/qkaf054) [(arXiv)](https://arxiv.org/abs/2407.15764)
 
 Jongmin Lee and Sungkyu Jung (2026). "General M-estimators of location on Riemannian manifolds: existence and uniqueness," *Statistics and Probability Letters* 233, June, 110670. [(link)](https://doi.org/10.1016/j.spl.2026.110670) [(arXiv)](https://www.arxiv.org/abs/2508.16149)
 
@@ -121,6 +121,12 @@ Sungkyu Jung, Mark Foskey and J. S. Marron (2010), discussion on "Intrinsic shap
 Sungkyu Jung and J. S. Marron (2009). "PCA consistency in High dimension, low sample size context". *The Annals of Statistics* 37, 4104-4130. [(pdf)](http://www.stat.pitt.edu/sungkyu/papers/AOS709.pdf) [(link)](https://projecteuclid.org/euclid.aos/1256303538)
 
 # WorkinProgress
+
+Jeehyun Hwang and Sungkyu Jung, "Dense Diversification or Sparse Allocation? Evidence from High-Dimensional Minimum Variance Portfolios," manuscript.
+
+Kyoowon Kim and Sungkyu Jung, "Testing and segmentation of joint and individual components in integrative multi-source factor models," manuscript.
+
+Jeehyun Hwang, Dongsun Yoon, Sungkyu Jung, Min-Jeong Park, and Inkwon Yeo, "iLBA: An R package for confidentially disseminating aggregated frequency tables," manuscript. [(arXiv)](https://arxiv.org/abs/2604.04431)
 
 Jihyun Ryu, Jongmin Lee and Sungkyu Jung. "M-estimation on Riemannian Manifolds: Robustness, Efficiency and Applications to Directional Statistics," manuscript. 
 

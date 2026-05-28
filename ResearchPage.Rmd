@@ -105,6 +105,12 @@ tmp <- Sys.setlocale("LC_TIME", "C")
 
 - PI, Curriculum Development for Professional Data Analysis Training, Begas Co., Ltd., 2023-2024.
 
+## International Conference Organization
+
+- Program Committee, [2026 IMS International Conference on Statistics and Data Science (ICSDS 2026)](https://sites.google.com/view/ims-icsds2026/home) (Split, Croatia)
+
+- Scientific Program Committee, [The 4th Joint Conference on Statistics and Data Science (JCSDS 2026)](https://jcsds2026.scimeeting.cn/en/web/index/31392) (Guiyang, Guizhou, China)
+
 ## Selected Service
 
 - Member of the Steering Committee, AI Institute, SNU, 2025--2027. 

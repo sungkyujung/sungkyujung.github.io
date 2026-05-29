@@ -122,6 +122,8 @@ Sungkyu Jung and J. S. Marron (2009). "PCA consistency in High dimension, low sa
 
 # WorkinProgress
 
+Yongjae Kim, Jiwoo Kim and Sungkyu Jun, "A unified framework for measuring attribute disclosure risks in synthetic data," manuscript.
+
 Jeehyun Hwang and Sungkyu Jung, "Dense Diversification or Sparse Allocation? Evidence from High-Dimensional Minimum Variance Portfolios," manuscript.
 
 Kyoowon Kim and Sungkyu Jung, "Testing and segmentation of joint and individual components in integrative multi-source factor models," manuscript.

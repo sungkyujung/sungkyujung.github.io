@@ -1,5 +1,7 @@
 # News
 
+2026-06-08. Two R packages for private data analysis are released. The **dppca** R package provides tools for *differentially private PCA visualizations* (available at [CRAN](https://cran.r-project.org/web/packages/dppca/index.html)) and is written by Yejin and Minwoo. The **iLBA** R package provides tools for the *confidential dissemination of aggregated frequency tables* from microdata (available at [Github](https://github.com/SLTLab-SNU/iLBA_package)), and is written by Jeehyun and Dongsun.  
+
 2026-05-13. We are hosting **SNU–NCI Workshop on Statistical Innovation in Biomedical Research**on July 8, 2026 at SNU Campus. Invited speakers include Dr. Paul Albert and Dr. Sungduk Kim from NCI Biostatistics Branch, and Prof. Yei-Eun Shin at SNU. 
 
 2026-03-04. Join us in **Seoul in 2026, June 25th - 27th**, for the [**SCoDA workshop on Statistics for Complex Data**](https://indico2.uis.no/event/61/overview), a global forum bringing together researchers and practitioners to discuss methodologies and challenges in non-linear and geometric statistics, including shape analysis, topological data analysis (TDA), and high-dimensional, low-sample-size (HDLSS) settings. Prior to the workshop, a **Complex Data School will be held from June 24th to 25th**, offering focused training in shape and geometric statistics for Master’s and PhD students.

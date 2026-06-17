@@ -1,7 +1,6 @@
 # News
 
-2026-06-16. Featured as a *Distinguished Lecturer* at the IMS-Asia Pacific
-Rim Meeting [2026](https://ims-aprm2026.sta.cuhk.edu.hk/), Hong Kong. 
+2026-06-16. Featured as a *Distinguished Lecturer* at the IMS-Asia Pacific Rim Meeting [2026](https://ims-aprm2026.sta.cuhk.edu.hk/), Hong Kong. 
 
 2026-06-08. Two R packages for private data analysis are released. The **dppca** R package provides tools for *differentially private PCA visualizations* (available at [CRAN](https://cran.r-project.org/web/packages/dppca/index.html)) and is written by Yejin and Minwoo. The **iLBA** R package provides tools for the *confidential dissemination of aggregated frequency tables* from microdata (available at [Github](https://github.com/SLTLab-SNU/iLBA_package)), and is written by Jeehyun and Dongsun.  
 

@@ -34,7 +34,7 @@ output: html_document
 
 - Jeongmin Go, Masters student
 
-- Gyubum Chio, Masters student
+- Gyubum Choi, Masters student
 
 - HyeonSeung Kim, Masters student
 

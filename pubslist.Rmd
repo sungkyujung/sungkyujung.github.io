@@ -1,6 +1,6 @@
 # NotYetPrinted
 
-Jongmin Lee and Sungkyu Jung (2026+). "On the Kolmogorov-Feller weak law of large numbers for the Frechet mean on non-compact symmetric spaces," accepted for publication in *Statistics and Probability Letters*.  [(arXiv)](https://www.arxiv.org/abs/2509.02074)
+Jongmin Lee and Sungkyu Jung (2026). "On the Kolmogorov-Feller weak law of large numbers for the Frechet mean on non-compact symmetric spaces," accepted for publication in *Statistics and Probability Letters*.  [(arXiv)](https://www.arxiv.org/abs/2509.02074)
 
 Sujin Lee and Sungkyu Jung (2026). "Debiased Group Lasso for Multiple Compositional Data," accepted for publication in *Annals of the Institute of Statistical Mathematics*. [(link)](https://link.springer.com/article/10.1007/s10463-025-00956-7)
 

@@ -6,9 +6,9 @@ output: html_document
 
 ### Postdoctoral researchers 
 
-- Dr. [Minwoo Kim](https://sites.google.com/view/mwkim-stat) Mar. 2025 - 
+- Dr. [Minwoo Kim](https://sites.google.com/view/mwkim-stat) Mar. 2025 - Dec. 2026.
 
-- Dr. Changjun Lim, Mar. 2025 -- 
+- Dr. Changjun Lim, Mar. 2025 -- Aug. 2026.
 
 - Dr. Jaesung Park. Sep 2025 -- 
 
@@ -33,6 +33,10 @@ output: html_document
 - Yejin Jo, Masters student
 
 - Jeongmin Go, Masters student
+
+- Gyubum Chio, Masters student
+
+- HyeonSeung Kim, Masters student
 
 See my lab [website](https://statlet.github.io) about research activities of these students.
 

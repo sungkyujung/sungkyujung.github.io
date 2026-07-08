@@ -1,20 +1,20 @@
 # NotYetPrinted
 
-Jeehyun Hwang, Dongsun Yoon, Sungkyu Jung, Min-Jeong Park, and Inkwon Yeo (2026), "iLBA: An R package for confidentially disseminating aggregated frequency tables," accepted for publication in *SoftwareX". [(arXiv)](https://arxiv.org/abs/2604.04431)
-
-Jongmin Lee and Sungkyu Jung (2026). "On the Kolmogorov-Feller weak law of large numbers for the Frechet mean on non-compact symmetric spaces," *Statistics and Probability Letters*. 238, November, 110875.  [(arXiv)](https://www.arxiv.org/abs/2509.02074)[(link)](https://doi.org/10.1016/j.spl.2026.110875)
-
-Sujin Lee and Sungkyu Jung (2026). "Debiased Group Lasso for Multiple Compositional Data," to appear in *Annals of the Institute of Statistical Mathematics*. [(link)](https://link.springer.com/article/10.1007/s10463-025-00956-7)
+Jeehyun Hwang, Dongsun Yoon, Sungkyu Jung, Min-Jeong Park and Inkwon Yeo (2026), "iLBA: An R package for confidentially disseminating aggregated frequency tables," accepted for publication in *SoftwareX* [(arXiv)](https://arxiv.org/abs/2604.04431)
 
 # Published
 
-Jaesung Park and Sungkyu Jung (2026), "Generalized Frechet means with random minimizing domains and its strong consistency", *Biometrika*. 113(1), asag002. [(link)](https://doi.org/10.1093/biomet/asag002) [(arXiv)](https://arxiv.org/abs/2311.10958)
+Jongmin Lee and Sungkyu Jung (2026). "On the Kolmogorov-Feller weak law of large numbers for the Frechet mean on non-compact symmetric spaces," *Statistics and Probability Letters* 238, November, 110875.  [(arXiv)](https://www.arxiv.org/abs/2509.02074) [(link)](https://doi.org/10.1016/j.spl.2026.110875)
 
-Jongmin Lee and Sungkyu Jung (2026), "Huber means on Riemannian manifolds," *Journal of the Royal Statistical Society: Series B*. 88(2), 444-463. [(link)](https://doi.org/10.1093/jrsssb/qkaf054) [(arXiv)](https://arxiv.org/abs/2407.15764)
+Sujin Lee and Sungkyu Jung (2026). "Debiased Group Lasso for Multiple Compositional Data," *Annals of the Institute of Statistical Mathematics* 78, 627–651.   [(link)](https://link.springer.com/article/10.1007/s10463-025-00956-7)
+
+Jaesung Park and Sungkyu Jung (2026), "Generalized Frechet means with random minimizing domains and its strong consistency", *Biometrika* 113(1), asag002. [(link)](https://doi.org/10.1093/biomet/asag002) [(arXiv)](https://arxiv.org/abs/2311.10958)
+
+Jongmin Lee and Sungkyu Jung (2026), "Huber means on Riemannian manifolds," *Journal of the Royal Statistical Society: Series B* 88(2), 444-463. [(link)](https://doi.org/10.1093/jrsssb/qkaf054) [(arXiv)](https://arxiv.org/abs/2407.15764)
 
 Jongmin Lee and Sungkyu Jung (2026). "General M-estimators of location on Riemannian manifolds: existence and uniqueness," *Statistics and Probability Letters* 233, June, 110670. [(link)](https://doi.org/10.1016/j.spl.2026.110670) [(arXiv)](https://www.arxiv.org/abs/2508.16149)
 
-Minwoo Kim and Sungkyu Jung (2025), "Robust and Differentially Private Principal Component Analysis," *Statistical Analysis and Data Mining: An ASA Data Science Journal*. 18(6) e70053. [(link)](http://dx.doi.org/10.1002/sam.70053) [(arXiv)](https://arxiv.org/abs/2507.15232) 
+Minwoo Kim and Sungkyu Jung (2025), "Robust and Differentially Private Principal Component Analysis," *Statistical Analysis and Data Mining: An ASA Data Science Journal* 18(6) e70053. [(link)](http://dx.doi.org/10.1002/sam.70053) [(arXiv)](https://arxiv.org/abs/2507.15232) 
 
 Minwoo Kim, Sangil Han, Jeongyoun Ahn and Sungkyu Jung (2025). "Variable selection and basis learning for ordinal classification,"  *Journal of Computational and Graphical Statistics* 34(4) 1432-1445. [(arXiv)](https://arxiv.org/abs/2208.10690) [(link)](https://doi.org/10.1080/10618600.2025.2451680)
 
@@ -22,13 +22,13 @@ Dongsun Yoon and Sungkyu Jung (2025). "Adaptive Reference-Guided Estimation of P
 
 Sangil Han, Kyoowon Kim and Sungkyu Jung (2025). "Subspace Recovery in Winsorized PCA: Insights into Accuracy and Robustness," Proceedings of The 28th *Int. Conf. Artif. Intell. Statist.*  (AISTATS 2025), PMLR 258:3061-3069 [(arXiv)](https://arxiv.org/pdf/2502.16391) [(pdf)](https://raw.githubusercontent.com/mlresearch/v258/main/assets/han25c/han25c.pdf)
 
-Donghyeok Jo and Sungkyu Jung (2025). "Inference on the shape of densities on Riemannian manifolds via SiZer",  *Journal of Korean Statistical Society*, 54, 442-477. [(pdf)](https://rdcu.be/d6Yh9) [(link)](https://link.springer.com/article/10.1007/s42952-024-00301-3) [(software)](https://github.com/sungkyujung/SiZer_manifold)
+Donghyeok Jo and Sungkyu Jung (2025). "Inference on the shape of densities on Riemannian manifolds via SiZer",  *Journal of Korean Statistical Society* 54, 442-477. [(pdf)](https://rdcu.be/d6Yh9) [(link)](https://link.springer.com/article/10.1007/s42952-024-00301-3) [(software)](https://github.com/sungkyujung/SiZer_manifold)
 
 Min-Jeong Park and Sungkyu Jung (2025). "Design and Operation of Multi-Party Feature Store (MPFS) for Secure and Privacy-Preserving Data Integration and Utilization," *Journal of The Korean Official Statistics* 30(1) 28-60. [(pdf)](./papers/MPFS.pdf) (This article is written in Korean.) 
 
 Minwoo Kim, Jonghyeok Lee, Seung Woo Kwak, and Sungkyu Jung (2025). "Differentially Private Multivariate Statistics with an Application to Contingency Table Analysis," *Electronic Journal of Statistics* 19(1) 1507-1569.  [(arXiv)](https://arxiv.org/abs/2211.15019) [(link)](https://doi.org/10.1214/25-EJS2368)
 
-Sungkyu Jung, Brian Rooks, David Groisser and Armin Schwartzman (2025).  "Averaging symmetric positive-definite matrices on the space of eigen-decompositions", *Bernoulli*, 31(2), 1552-1578. [(pdf)](./papers/BEJ1783.pdf) [(link)](http://dx.doi.org/10.3150/24-BEJ1783) [(arXiv)](https://arxiv.org/abs/2306.12025)
+Sungkyu Jung, Brian Rooks, David Groisser and Armin Schwartzman (2025).  "Averaging symmetric positive-definite matrices on the space of eigen-decompositions", *Bernoulli* 31(2), 1552-1578. [(pdf)](./papers/BEJ1783.pdf) [(link)](http://dx.doi.org/10.3150/24-BEJ1783) [(arXiv)](https://arxiv.org/abs/2306.12025)
 
 Kipoong Kim, Jaesung Park, and Sungkyu Jung (2024). "Principal component analysis for zero-inflated compositional data",  *Computational Statistics and Data Analysis* 198, October, 107989. [(link)](https://doi.org/10.1016/j.csda.2024.107989) [(software)](https://github.com/statpng/CompositionalPCA)
 
@@ -42,11 +42,11 @@ Sangil Han, Minwoo Kim, Sungkyu Jung and Jeongyoun Ahn (2024). "Sparse Ordinal D
 
 Seung Woo Kwak and Sungkyu Jung (2024). "Highly-private large-sample tests for contingency tables", *Stat* 13:e658 [(link)](https://doi.org/10.1002/sta4.658) [(pdf)](./papers/Highlyprivatetables.pdf)
 
-Kipoong Kim and Sungkyu Jung (2024). "Integrative sparse reduced-rank regression via orthogonal rotation for analysis of high-dimensional multi-source data,"  *Statistics and Computing* 34,    #2. [(link)](https://doi.org/10.1007/s11222-023-10322-3) [(pdf)](https://rdcu.be/doVUF)  [(software)](https://github.com/statpng/iSRRR)
+Kipoong Kim and Sungkyu Jung (2024). "Integrative sparse reduced-rank regression via orthogonal rotation for analysis of high-dimensional multi-source data," *Statistics and Computing* 34, #2. [(link)](https://doi.org/10.1007/s11222-023-10322-3) [(pdf)](https://rdcu.be/doVUF)  [(software)](https://github.com/statpng/iSRRR)
 
 Changjo Yu, Sungkyu Jung and Jisu Kim (2023), "Significance of Modes in the Torus by Topological Data Analysis,"  *Stat*  12:e636 [(link)](https://doi.org/10.1002/sta4.636)
 
-Byungwon Kim, Sungkyu Jung, Johan Lim, and Woncheol Jang (2023). "Comparisons of parametric and non-parametric methods for analyzing RT-PCR experiment data,"  *Chemometrics and Intelligent Laboratory Systems* 242, 104982. [(link)](https://doi.org/10.1016/j.chemolab.2023.104982)
+Byungwon Kim, Sungkyu Jung, Johan Lim, and Woncheol Jang (2023). "Comparisons of parametric and non-parametric methods for analyzing RT-PCR experiment data," *Chemometrics and Intelligent Laboratory Systems* 242, 104982. [(link)](https://doi.org/10.1016/j.chemolab.2023.104982)
 
 An, S., Doan, T., Lee, J., Kim, J., Kim, YJ., Kim, Y., Yoon, C., Jung, S., Kim, D., Kwon, S., Kim, HJ., Ahn, J., and Park, C. (2023). "A Comparison of Synthetic Data Approaches Using Utility and Disclosure Risk Measures", *The Korean Journal of Applied Statistics* 36(2), 141-166.  [(pdf)](./papers/kjas-23-36-2_141.pdf) (This article is written in Korean.)
 
@@ -142,7 +142,7 @@ Kyungjin Shin, Hyunsu Yu, Yongjae Kim, Giheon Seong, Changwon Yoon, Jeongyoun Ah
 
 Minwoo Kim, Junyong Park and Sungkyu Jung, "Enhanced Differentially Private Mechanisms via Empirical Bayes," manuscript. 
 
-David Groisser, Sungkyu Jung, and Armin Schwartzman."A scaling-rotation metric on the space of symmetric positive-definite matrices, I: Existence," manuscript.
+David Groisser, Sungkyu Jung, and Armin Schwartzman. "A scaling-rotation metric on the space of symmetric positive-definite matrices, I: Existence," manuscript.
 
 Jaesung Park and Sungkyu Jung, "Wasserstein-Quantile PCA", manuscript in progress
 

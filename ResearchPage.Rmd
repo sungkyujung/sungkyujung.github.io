@@ -107,6 +107,10 @@ tmp <- Sys.setlocale("LC_TIME", "C")
 
 ## International Conference Organization
 
+- Organizer, [SNU–NCI Workshop on Statistical Innovation in Biomedical Research](https://en.snu.ac.kr/snunow/events?md=v&bbsidx=170444) (Seoul, South Korea)
+
+- Organizer, [2026 SCoDA workshop on Statistics for Complex Data and Data School](https://indico2.uis.no/event/61/overview) (Seoul, South Korea)
+
 - Program Committee, [2026 IMS International Conference on Statistics and Data Science (ICSDS 2026)](https://sites.google.com/view/ims-icsds2026/home) (Split, Croatia)
 
 - Scientific Program Committee, [The 4th Joint Conference on Statistics and Data Science (JCSDS 2026)](https://jcsds2026.scimeeting.cn/en/web/index/31392) (Guiyang, Guizhou, China)

@@ -1,5 +1,7 @@
 # NotYetPrinted
 
+Jeehyun Hwang, Dongsun Yoon, Sungkyu Jung, Min-Jeong Park, and Inkwon Yeo (2026), "iLBA: An R package for confidentially disseminating aggregated frequency tables," accepted for publication in *SoftwareX". [(arXiv)](https://arxiv.org/abs/2604.04431)
+
 Jongmin Lee and Sungkyu Jung (2026). "On the Kolmogorov-Feller weak law of large numbers for the Frechet mean on non-compact symmetric spaces," *Statistics and Probability Letters*. 238, November, 110875.  [(arXiv)](https://www.arxiv.org/abs/2509.02074)[(link)](https://doi.org/10.1016/j.spl.2026.110875)
 
 Sujin Lee and Sungkyu Jung (2026). "Debiased Group Lasso for Multiple Compositional Data," to appear in *Annals of the Institute of Statistical Mathematics*. [(link)](https://link.springer.com/article/10.1007/s10463-025-00956-7)
@@ -129,8 +131,6 @@ Yongjae Kim, Jiwoo Kim and Sungkyu Jung, "A unified framework for measuring attr
 Jeehyun Hwang and Sungkyu Jung, "Dense Diversification or Sparse Allocation? Evidence from High-Dimensional Minimum Variance Portfolios," manuscript.
 
 Kyoowon Kim and Sungkyu Jung, "Testing and segmentation of joint and individual components in integrative multi-source factor models," manuscript.
-
-Jeehyun Hwang, Dongsun Yoon, Sungkyu Jung, Min-Jeong Park, and Inkwon Yeo, "iLBA: An R package for confidentially disseminating aggregated frequency tables," manuscript. [(arXiv)](https://arxiv.org/abs/2604.04431)
 
 Jihyun Ryu, Jongmin Lee and Sungkyu Jung. "M-estimation on Riemannian Manifolds: Efficiency, Calibration and Computation," manuscript. 
 

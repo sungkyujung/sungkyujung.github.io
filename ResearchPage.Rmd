@@ -75,7 +75,7 @@ tmp <- Sys.setlocale("LC_TIME", "C")
 
 - PI, NRF Mid-Career Researcher Program (RS-2024-00333399), 2024-2029.
 
-- co-I, [NRF LAMP project (RS-2023-00301976)](https://snulamp.snu.ac.kr/), 2023-2028. 
+- co-PI, [NRF LAMP project (RS-2023-00301976)](https://snulamp.snu.ac.kr/), 2023-2028. 
 
 - co-PI, NRF Basic Research Lab grant (RS-2023-00218231), 2023-2026. 
 
@@ -98,6 +98,8 @@ tmp <- Sys.setlocale("LC_TIME", "C")
 - Co-I, NIH (NCI) 5R01CA159471-03, 2011-2014.
 
 ## Industry Collaboration
+
+- Co-I, Synthetic Data Generation and Educational Program Development for BioBigData Korea, Korea Health Information Service, 2026
 
 - PI, Advanced Research on xAI for Personal Credit Evaluation, Korea Credit Bureau and KB Kookmin Card, 2026.
 

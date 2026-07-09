@@ -126,6 +126,10 @@ Sungkyu Jung and J. S. Marron (2009). "PCA consistency in High dimension, low sa
 
 # WorkinProgress
 
+Changwon Yoon, Minwoo Kim, Sungkyu Jung and Jeongyoun Ahn. "Joint estimation of high-dimensional spiked covariance matrices via a partially shared subspace," manuscript.
+
+Seonghun Cho, Byungwon Kim, Sungkyu Jung, Johan Lim and Woncheol Jang. "Testing for dilution effects in group testing," manuscript. 
+
 Yongjae Kim, Jiwoo Kim and Sungkyu Jung, "A unified framework for measuring attribute disclosure risks in synthetic data," manuscript.
 
 Jeehyun Hwang and Sungkyu Jung, "Dense Diversification or Sparse Allocation? Evidence from High-Dimensional Minimum Variance Portfolios," manuscript.

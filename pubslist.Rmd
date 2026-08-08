@@ -1,10 +1,12 @@
 # NotYetPrinted
 
-Jeehyun Hwang, Dongsun Yoon, Sungkyu Jung, Min-Jeong Park and Inkwon Yeo (2026), "iLBA: An R package for confidentially disseminating aggregated frequency tables," accepted for publication in *SoftwareX* [(arXiv)](https://arxiv.org/abs/2604.04431)
+Jeehyun Hwang and Sungkyu Jung, "Dense Diversification or Sparse Allocation? Evidence from High-Dimensional Minimum Variance Portfolios," accepted for publication in *Communications for Statistical Applications and Methods*.
 
 # Published
 
 Jongmin Lee and Sungkyu Jung (2026). "On the Kolmogorov-Feller weak law of large numbers for the Frechet mean on non-compact symmetric spaces," *Statistics and Probability Letters* 238, November, 110875.  [(arXiv)](https://www.arxiv.org/abs/2509.02074) [(link)](https://doi.org/10.1016/j.spl.2026.110875)
+
+Jeehyun Hwang, Dongsun Yoon, Sungkyu Jung, Min-Jeong Park and Inkwon Yeo (2026), "iLBA: An R package for confidentially disseminating aggregated frequency tables," *SoftwareX* Volume 35, September 2026, 102880. [(arXiv)](https://arxiv.org/abs/2604.04431) [(link)](https://www.sciencedirect.com/science/article/pii/S2352711026003717)
 
 Sujin Lee and Sungkyu Jung (2026). "Debiased Group Lasso for Multiple Compositional Data," *Annals of the Institute of Statistical Mathematics* 78, 627–651.   [(link)](https://link.springer.com/article/10.1007/s10463-025-00956-7)
 
@@ -126,7 +128,7 @@ Sungkyu Jung and J. S. Marron (2009). "PCA consistency in High dimension, low sa
 
 # WorkinProgress
 
-Changwon Yoon, Minwoo Kim, Sungkyu Jung and Jeongyoun Ahn. "Joint estimation of high-dimensional spiked covariance matrices via a partially shared subspace," manuscript.
+Changwon Yoon, Minwoo Kim, Sungkyu Jung and Jeongyoun Ahn. "Joint estimation of high-dimensional spiked covariance matrices via a partially shared subspace," manuscript. [(arXiv)](https://arxiv.org/abs/2607.08123)
 
 Seonghun Cho, Byungwon Kim, Sungkyu Jung, Johan Lim and Woncheol Jang. "Testing for dilution effects in group testing," manuscript. 
 

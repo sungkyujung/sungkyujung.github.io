@@ -71,6 +71,8 @@ tmp <- Sys.setlocale("LC_TIME", "C")
 
 ## Research Grants
 
+- co-I, NRF RS-2026-25606859, “Integrated Statistical Analysis for non-Euclidean Data", 2026-2030.
+
 - co-PI, [HK-dir UTFORSK on SCoDa](https://www.uis.no/en/research/statistics-on-complex-data-scoda#/), Norway (UTF-2024/10203), 2025-2028.
 
 - PI, NRF Mid-Career Researcher Program (RS-2024-00333399), 2024-2029.
@@ -118,6 +120,8 @@ tmp <- Sys.setlocale("LC_TIME", "C")
 - Scientific Program Committee, [The 4th Joint Conference on Statistics and Data Science (JCSDS 2026)](https://jcsds2026.scimeeting.cn/en/web/index/31392) (Guiyang, Guizhou, China)
 
 ## Selected Service
+
+- Chair, Department of Statistics, Seoul National University, 2026--2028.
 
 - Member of the Steering Committee, AI Institute, SNU, 2025--2027. 
 

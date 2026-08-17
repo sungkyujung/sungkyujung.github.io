@@ -1,5 +1,7 @@
 # NotYetPrinted
 
+Seonghun Cho, Byungwon Kim, Sungkyu Jung, Johan Lim and Woncheol Jang, "Testing for dilution effects in group testing," accepted for publication in *Chemometrics and Intelligent Laboratory Systems*.
+
 Jeehyun Hwang and Sungkyu Jung, "Dense Diversification or Sparse Allocation? Evidence from High-Dimensional Minimum Variance Portfolios," accepted for publication in *Communications for Statistical Applications and Methods*.
 
 # Published

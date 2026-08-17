@@ -1,5 +1,7 @@
 # News
 
+2026-08-17. I will become Chair of the Department of Statistics on September 1, 2026.
+
 2026-08-01. Jeehyun has published two papers, one on the iLBA R package and the other on an high-dimensional covariance estimation in the context of portfolio optimization. Congratulations! 
 
 2026-06-16. Featured as a *Distinguished Lecturer* at the IMS-Asia Pacific Rim Meeting [2026](https://ims-aprm2026.sta.cuhk.edu.hk/), Hong Kong. 

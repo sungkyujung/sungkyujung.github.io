@@ -30,7 +30,7 @@ output: html_document
 
 - Jeehyun Hwang, Ph.D. student
 
-- Yejin Jo, Masters student
+- Yejin Jo, Ph.D. student
 
 - Jeongmin Go, Masters student
 
@@ -67,7 +67,7 @@ See my lab [website](https://statlet.github.io) about research activities of the
 
 - Seung Woo Kwak, Postdoctoral researcher, Sep. 2021 - Feb. 2024. Professor, Sungkonghoe University, Seoul, Korea.
 
-- Kipoong Kim, Postdoctoral researcher, March 2022 - Feb. 2023, Jul.2023 -- Feb. 2024: Professor, Changwon National University, Changwon, Korea
+- [Kipoong Kim](https://www.statpng.com/), Postdoctoral researcher, March 2022 - Feb. 2023, Jul.2023 -- Feb. 2024: Professor, Changwon National University, Changwon, Korea
 
 - Taehyun Kim, MS. 2023. SNU. Advanced to PhD program at Columbia University.
 
@@ -80,7 +80,7 @@ See my lab [website](https://statlet.github.io) about research activities of the
 
 - Juhee Son, MS. 2022. SNU. Placement: Meritz Fire & Marine Insurance Co., Ltd.
 
-- Woonyoung Chang, MS. 2021. SNU. Advanced to PhD program at Carnegie Mellon University.
+- [Woonyoung Chang](https://sites.google.com/andrew.cmu.edu/woonyoungchang/about?authuser=0), MS. 2021. SNU. Advanced to PhD program at Carnegie Mellon University.
 
 - Jae Min Kim, MS. 2020. SNU. Placement: Financial Supervisory Service
 
@@ -88,7 +88,7 @@ See my lab [website](https://statlet.github.io) about research activities of the
 
 - Brian Rooks. Ph.D. 2018, Pitt. "Statistical analysis of Random symmetric positive-definite matrices via eigen-decomposition". Strategic Consulting Statistician at Statistics & Data Corporation
 
-- Byungwon Kim. Ph.D. 2018, Pitt. "Small sphere distributions and related topics in directional statistics". Professor, Kyungpook National University, Daegu, Korea.
+- [Byungwon Kim](https://sites.google.com/view/ns208/home). Ph.D. 2018, Pitt. "Small sphere distributions and related topics in directional statistics". Professor, Kyungpook National University, Daegu, Korea.
 
 - Sungwon Lee. Ph.D. 2016, Pitt. "Integrative analysis of variation structure in high-dimensional multi-block data". Mathematical statistician, CDER, FDA.
  

@@ -1,5 +1,7 @@
 # News
 
+2026-08-28. Gyubum and HyeonSeung are joining my lab as new masters students, and Yejin is now in the Statistics PhD program. Welcome!  
+
 2026-08-17. I will become Chair of the Department of Statistics on September 1, 2026.
 
 2026-08-01. Jeehyun has published two papers, one on the iLBA R package and the other on an high-dimensional covariance estimation in the context of portfolio optimization. Congratulations! 

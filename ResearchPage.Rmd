@@ -71,6 +71,8 @@ tmp <- Sys.setlocale("LC_TIME", "C")
 
 ## Research Grants
 
+- co-I, NRF RS-2026-25607210, "Center for Statistical Foundations of AI" (S&T4AI), 2026-2032. 
+
 - co-I, NRF RS-2026-25606859, “Integrated Statistical Analysis for non-Euclidean Data", 2026-2030.
 
 - co-PI, [HK-dir UTFORSK on SCoDa](https://www.uis.no/en/research/statistics-on-complex-data-scoda#/), Norway (UTF-2024/10203), 2025-2028.

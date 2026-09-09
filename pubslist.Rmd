@@ -1,10 +1,11 @@
 # NotYetPrinted
 
-Seonghun Cho, Byungwon Kim, Sungkyu Jung, Johan Lim and Woncheol Jang, "Testing for dilution effects in group testing," accepted for publication in *Chemometrics and Intelligent Laboratory Systems*. [(link)](https://doi.org/10.1016/j.chemolab.2026.105878)
 
 Jeehyun Hwang and Sungkyu Jung, "Dense Diversification or Sparse Allocation? Evidence from High-Dimensional Minimum Variance Portfolios," accepted for publication in *Communications for Statistical Applications and Methods*.
 
 # Published
+
+Seonghun Cho, Byungwon Kim, Sungkyu Jung, Johan Lim and Woncheol Jang (2026), "Testing for dilution effects in group testing," *Chemometrics and Intelligent Laboratory Systems* Volume 279, 15 December, 105878. [(link)](https://doi.org/10.1016/j.chemolab.2026.105878)
 
 Jongmin Lee and Sungkyu Jung (2026). "On the Kolmogorov-Feller weak law of large numbers for the Frechet mean on non-compact symmetric spaces," *Statistics and Probability Letters* 238, November, 110875.  [(arXiv)](https://www.arxiv.org/abs/2509.02074) [(link)](https://doi.org/10.1016/j.spl.2026.110875)
 

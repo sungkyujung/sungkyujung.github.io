@@ -113,6 +113,10 @@ tmp <- Sys.setlocale("LC_TIME", "C")
 
 ## International Conference Organization
 
+- Organizer, [SCoDA Workshop: Statistics on Complex Data - Stavanger 2027](https://indico2.uis.no/event/67/) (Stavanger, Norway)
+
+- Organizer, [SNU-NUS AI for Science Symposium](./pictures/SNU-NUS-AI4S.jpg) (Seoul, South Korea)
+
 - Organizer, [SNU–NCI Workshop on Statistical Innovation in Biomedical Research](https://en.snu.ac.kr/snunow/events?md=v&bbsidx=170444) (Seoul, South Korea)
 
 - Organizer, [2026 SCoDA workshop on Statistics for Complex Data and Data School](https://indico2.uis.no/event/61/overview) (Seoul, South Korea)

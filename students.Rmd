@@ -32,11 +32,14 @@ output: html_document
 
 - Yejin Jo, Ph.D. student
 
+- Jungmook Kang, Ph.D. student
+
 - Jeongmin Go, Masters student
 
 - Gyubum Choi, Masters student
 
 - HyeonSeung Kim, Masters student
+
 
 See my lab [website](https://statlet.github.io) about research activities of these students.
 

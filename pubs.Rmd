@@ -7,20 +7,23 @@ You can also visit my Google Scholar page (upper-right corner).
 
 ***
 
-## Papers, accepted for publication
- 
 ```{r, results='asis', echo=FALSE, comment=FALSE}
 a = readLines("pubslist.Rmd", n = -1)
+a = a[nzchar(a)]
 n = length(a)
-nullid = rep(1,n)
-for(i in 1:n){if(identical("", a[i])){nullid[i] = 0}}
-a = a[nullid == TRUE] 
-n = length(a)
-k = n
-for(i in 1:n){if(identical("# Published", a[i])){k = i;break;}}
-for (i in 2:(k-1)) { 
-  cat(paste(i-1,". ", sep = "", a[i]))
-  cat("\n\n")
+
+k = match("# Published", a)
+
+# #NotYetPrinted 아래에서 # Published 전까지의 항목을 가져옵니다.
+notyet = if (k > 2) a[2:(k-1)] else character()
+notyet = notyet[trimws(notyet) != "-"]
+
+# 실제 항목이 있을 때만 제목과 목록을 출력합니다.
+if (length(notyet) > 0) {
+  cat("## Papers, accepted for publication\n\n")
+  for (i in seq_along(notyet)) {
+    cat(i, ". ", notyet[i], "\n\n", sep = "")
+  }
 }
 ```
 
@@ -29,8 +32,14 @@ for (i in 2:(k-1)) {
 ```{r, results='asis', echo=FALSE, comment=FALSE}
 k2 = n
 for(i in 1:n){if(identical("# WorkinProgress", a[i])){k2 = i;break;}}
-for (i in (k+1):(k2-1)) { 
-  cat(paste(i-2,". ", sep = "", a[i]))
+#for (i in (k+1):(k2-1)) { 
+#  cat(paste(i-2,". ", sep = "", a[i]))
+#  cat("\n\n")
+#}
+number_offset = length(notyet)
+
+for (i in (k + 1):(k2 - 1)) {
+  cat(paste(i - k + number_offset, ". ", a[i], sep = ""))
   cat("\n\n")
 }
 ```

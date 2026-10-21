@@ -4,7 +4,7 @@
 
 # Published
 
-Jeehyun Hwang and Sungkyu Jung, "Dense Diversification or Sparse Allocation? Evidence from High-Dimensional Minimum Variance Portfolios,"  *Communications for Statistical Applications and Methods* 33 (5), 585-603.
+Jeehyun Hwang and Sungkyu Jung, "Dense Diversification or Sparse Allocation? Evidence from High-Dimensional Minimum Variance Portfolios,"  *Communications for Statistical Applications and Methods* 33 (5), 585-603. [(pdf)](./papers/Dense diversiﬁcation or sparse allocation Evidence from high-dimensional minimum variance portfolios.pdf)
 
 Seonghun Cho, Byungwon Kim, Sungkyu Jung, Johan Lim and Woncheol Jang (2026), "Testing for dilution effects in group testing," *Chemometrics and Intelligent Laboratory Systems* Volume 279, 15 December, 105878. [(link)](https://doi.org/10.1016/j.chemolab.2026.105878)
 

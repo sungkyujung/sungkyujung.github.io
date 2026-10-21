@@ -132,19 +132,21 @@ Sungkyu Jung and J. S. Marron (2009). "PCA consistency in High dimension, low sa
 
 # WorkinProgress
 
-Kipoong Kim, Jörn Schulz and Sungkyu Jung. Generalized linear model for spherical response with projection-based inference, manuscript.
+Giheon Seong, Seungki Hong and Sungkyu Jung. "Augmented James-Stein estimation for leading eigenvectors and eigenspaces in high dimensions," manuscript [(arXiv)](https://arxiv.org/abs/2609.34315)
+
+Kipoong Kim, Jörn Schulz and Sungkyu Jung. "Generalized linear model for spherical response with projection-based inference," manuscript.
 
 Changwon Yoon, Minwoo Kim, Sungkyu Jung and Jeongyoun Ahn. "Joint estimation of high-dimensional spiked covariance matrices via a partially shared subspace," manuscript. [(arXiv)](https://arxiv.org/abs/2607.08123)
 
 Yongjae Kim, Jiwoo Kim and Sungkyu Jung, "A unified framework for measuring attribute disclosure risks in synthetic data," manuscript.
 
-Kyoowon Kim and Sungkyu Jung, "Testing and segmentation of joint and individual components in integrative multi-source factor models," manuscript.
+Kyoowon Kim and Sungkyu Jung, "Testing and segmentation of joint and individual components in integrative multi-source factor models," manuscript. [(arXiv)](https://arxiv.org/abs/2610.01313)
 
 Jihyun Ryu, Jongmin Lee and Sungkyu Jung. "M-estimation on Riemannian Manifolds: Efficiency, Calibration and Computation," manuscript. 
 
-Yongjae Kim, Haeun Moon and Sungkyu Jung. "An Association Measure for Mixed-Types Variables," manuscript. 
+Yongjae Kim, Haeun Moon and Sungkyu Jung. "An Association Measure for Mixed-Types Variables," manuscript. [(arXiv)](https://arxiv.org/abs/2607.26508)
 
-Chihoon Lee, Sungkyu Jung and Hyokyung G. Hong. "Predicting current outcomes from historical survey data with weighted conformal prediction," manuscript.  
+Chihoon Lee, Sungkyu Jung and Hyokyung G. Hong. "Predicting current outcomes from historical survey data with weighted conformal prediction," manuscript. [(arXiv)](https://arxiv.org/abs/2606.10563) 
 
 Kyungjin Shin, Hyunsu Yu, Yongjae Kim, Giheon Seong, Changwon Yoon, Jeongyoun Ahn, Sungkyu Jung and Cheolwoo Park, "A Comprehensive Analysis of Utility and Disclosure Risk Metrics for Synthetic Data," manuscript. 
 

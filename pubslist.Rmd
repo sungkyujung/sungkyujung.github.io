@@ -132,6 +132,10 @@ Sungkyu Jung and J. S. Marron (2009). "PCA consistency in High dimension, low sa
 
 # WorkinProgress
 
+Minwoo Kim, Yejin Jo and Sungkyu Jung. "dppca: An R Package for Differentially Private Principal Component Analysis," manuscript [(Software)](https://yejinjo0220.github.io/dppca/)
+
+Sangyoon Yi, Kipoong Kim and Sungkyu Jung. "Sparse Compositional Integrative Factor Model for Multi-View Data with Compositions," manuscript [(Software)](https://github.com/sangyoonstat/SCIFA)
+
 Giheon Seong, Seungki Hong and Sungkyu Jung. "Augmented James-Stein estimation for leading eigenvectors and eigenspaces in high dimensions," manuscript [(arXiv)](https://arxiv.org/abs/2609.34315)
 
 Kipoong Kim, Jörn Schulz and Sungkyu Jung. "Generalized linear model for spherical response with projection-based inference," manuscript.

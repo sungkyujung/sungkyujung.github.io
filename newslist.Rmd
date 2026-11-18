@@ -1,8 +1,14 @@
 # News
 
+2026-11-18. I am appointed to serve as a review board member for National Research Foundation of Korea until October 2028. 
+
+2026-11-10. I am co-organizing the second [SCoDA Workshop on Statistics on Complex Data](https://indico2.uis.no/event/67/), to be held in Stavanger, Norway, on June 9–11, 2027. The workshop will bring together researchers working on geometric statistics, topological data analysis, and high-dimensional statistics.
+
 2026-10-15. I will participate in the International Symposium on New Developments of Theories, Methodologies and Applications for Large Complex Data on Oct 21-23, hosted by Aoshima group at Tsukuba University, as a special invited speaker. 
 
 2026-10-14. I gave a talk for Young Il Colloquium at CM2LA, Postech.
+
+2026-09-21. We hosted the [SNU–NUS AI for Science Symposium](https://newen.snu.ac.kr/snunow/events?bbsidx=175208&md=v) at Seoul National University, bringing together researchers from SNU and the National University of Singapore to discuss emerging opportunities in AI-driven scientific discovery.
 
 2026-08-28. Jungmook, Gyubum and HyeonSeung are joining my lab as new students, and Yejin is now in the Statistics PhD program. Welcome!  
 

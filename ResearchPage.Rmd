@@ -129,6 +129,8 @@ tmp <- Sys.setlocale("LC_TIME", "C")
 
 - Chair, Department of Statistics, Seoul National University, 2026--2028.
 
+- Review Board (RB) Member, National Research Foundation of Korea (NRF), 2026--2028
+
 - Member of the Steering Committee, AI Institute, SNU, 2025--2027. 
 
 - Member of the 2025 Future Forum on Personal Information, Personal Information Protection Commission of Korea, 2025.

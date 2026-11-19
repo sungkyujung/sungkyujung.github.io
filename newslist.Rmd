@@ -1,6 +1,6 @@
 # News
 
-2026-11-18. I am appointed to serve as a review board member for National Research Foundation of Korea until October 2028. 
+2026-11-18. I have been appointed to serve as a Review Board Member for Applied Statistics at the National Research Foundation of Korea (NRF), for a term ending in October 2028.
 
 2026-11-10. I am co-organizing the second [SCoDA Workshop on Statistics on Complex Data](https://indico2.uis.no/event/67/), to be held in Stavanger, Norway, on June 9–11, 2027. The workshop will bring together researchers working on geometric statistics, topological data analysis, and high-dimensional statistics.
 
